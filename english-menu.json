@@ -1,0 +1,1013 @@
+{
+  "schema": 1,
+  "locale": "en",
+  "description": "English title, intro dialogs, main menu, save/load and Options screens",
+  "labels": [
+    {
+      "id": "title.press_start",
+      "text": "Press START",
+      "asset": "e_nabi_a0.lzs",
+      "rect": [
+        0,
+        0,
+        256,
+        16
+      ],
+      "font_size": 13
+    },
+    {
+      "id": "menu.new_game",
+      "text": "New Game",
+      "asset": "b_but_b0.lzs",
+      "rect": [
+        0,
+        0,
+        256,
+        24
+      ],
+      "font_size": 18
+    },
+    {
+      "id": "menu.continue",
+      "text": "Continue",
+      "asset": "b_but_b0.lzs",
+      "rect": [
+        0,
+        24,
+        256,
+        24
+      ],
+      "font_size": 18
+    },
+    {
+      "id": "menu.options",
+      "text": "Options",
+      "asset": "b_but_b0.lzs",
+      "rect": [
+        0,
+        48,
+        256,
+        24
+      ],
+      "font_size": 18
+    },
+    {
+      "id": "menu.gachi_king",
+      "text": "Gachi King",
+      "asset": "b_but_b0.lzs",
+      "rect": [
+        0,
+        72,
+        256,
+        24
+      ],
+      "font_size": 18
+    },
+    {
+      "id": "dialog.button.0",
+      "text": "Back",
+      "asset": "e_but_1.lzs",
+      "rect": [
+        32,
+        4,
+        64,
+        20
+      ],
+      "font_size": 13
+    },
+    {
+      "id": "dialog.button.1",
+      "text": "Cancel",
+      "asset": "e_but_1.lzs",
+      "rect": [
+        32,
+        28,
+        64,
+        20
+      ],
+      "font_size": 13
+    },
+    {
+      "id": "dialog.button.2",
+      "text": "OK",
+      "asset": "e_but_1.lzs",
+      "rect": [
+        32,
+        52,
+        64,
+        20
+      ],
+      "font_size": 13
+    },
+    {
+      "id": "dialog.button.3",
+      "text": "Select",
+      "asset": "e_but_1.lzs",
+      "rect": [
+        32,
+        76,
+        64,
+        20
+      ],
+      "font_size": 13
+    },
+    {
+      "id": "dialog.button.4",
+      "text": "Cancel",
+      "asset": "e_but_1.lzs",
+      "rect": [
+        32,
+        100,
+        64,
+        20
+      ],
+      "font_size": 13
+    },
+    {
+      "id": "dialog.button.5",
+      "text": "OK",
+      "asset": "e_but_1.lzs",
+      "rect": [
+        32,
+        124,
+        64,
+        20
+      ],
+      "font_size": 13
+    },
+    {
+      "id": "dialog.button.6",
+      "text": "Back",
+      "asset": "e_but_1.lzs",
+      "rect": [
+        32,
+        148,
+        64,
+        20
+      ],
+      "font_size": 13
+    },
+    {
+      "id": "dialog.button.7",
+      "text": "Back",
+      "asset": "e_but_1.lzs",
+      "rect": [
+        32,
+        172,
+        64,
+        20
+      ],
+      "font_size": 13
+    },
+    {
+      "id": "dialog.button.8",
+      "text": "Next",
+      "asset": "e_but_1.lzs",
+      "rect": [
+        32,
+        196,
+        64,
+        20
+      ],
+      "font_size": 13
+    },
+    {
+      "id": "options.title",
+      "text": "Options",
+      "asset": "e_tit_0.lzs",
+      "rect": [
+        0,
+        0,
+        224,
+        24
+      ],
+      "font_size": 20
+    },
+    {
+      "id": "dialog.answer.0",
+      "text": "Yes",
+      "asset": "b_but_d0.lzs",
+      "rect": [
+        0,
+        0,
+        96,
+        16
+      ],
+      "font_size": 12
+    },
+    {
+      "id": "dialog.answer.1",
+      "text": "No",
+      "asset": "b_but_d0.lzs",
+      "rect": [
+        0,
+        16,
+        96,
+        16
+      ],
+      "font_size": 12
+    },
+    {
+      "id": "save.action.0",
+      "text": "Continue",
+      "asset": "b_but_d1.lzs",
+      "rect": [
+        0,
+        0,
+        96,
+        16
+      ],
+      "font_size": 12
+    },
+    {
+      "id": "save.action.1",
+      "text": "Load",
+      "asset": "b_but_d1.lzs",
+      "rect": [
+        0,
+        16,
+        96,
+        16
+      ],
+      "font_size": 12
+    },
+    {
+      "id": "save.action.2",
+      "text": "Back",
+      "asset": "b_but_d1.lzs",
+      "rect": [
+        0,
+        32,
+        96,
+        16
+      ],
+      "font_size": 12
+    },
+    {
+      "id": "save.label.0",
+      "text": "Back",
+      "asset": "b_com_s0.lzs",
+      "rect": [
+        0,
+        0,
+        48,
+        16
+      ],
+      "font_size": 11,
+      "align": "left"
+    },
+    {
+      "id": "save.label.1",
+      "text": "Save",
+      "asset": "b_com_s0.lzs",
+      "rect": [
+        0,
+        16,
+        49,
+        16
+      ],
+      "font_size": 11,
+      "align": "left"
+    },
+    {
+      "id": "save.label.2",
+      "text": "Load",
+      "asset": "b_com_s0.lzs",
+      "rect": [
+        0,
+        32,
+        48,
+        16
+      ],
+      "font_size": 11,
+      "align": "left"
+    },
+    {
+      "id": "save.label.3",
+      "text": "Transfer",
+      "asset": "b_com_s0.lzs",
+      "rect": [
+        0,
+        48,
+        65,
+        16
+      ],
+      "font_size": 11,
+      "align": "left"
+    },
+    {
+      "id": "save.label.4",
+      "text": "Open",
+      "asset": "b_com_s0.lzs",
+      "rect": [
+        0,
+        64,
+        48,
+        16
+      ],
+      "font_size": 11,
+      "align": "left"
+    },
+    {
+      "id": "save.label.5",
+      "text": "Background",
+      "asset": "b_com_s0.lzs",
+      "rect": [
+        0,
+        80,
+        64,
+        16
+      ],
+      "font_size": 9,
+      "align": "left"
+    },
+    {
+      "id": "save.label.6",
+      "text": "Yes",
+      "asset": "b_com_s0.lzs",
+      "rect": [
+        0,
+        96,
+        32,
+        16
+      ],
+      "font_size": 11,
+      "align": "left"
+    },
+    {
+      "id": "save.label.7",
+      "text": "No",
+      "asset": "b_com_s0.lzs",
+      "rect": [
+        0,
+        112,
+        48,
+        16
+      ],
+      "font_size": 11,
+      "align": "left"
+    },
+    {
+      "id": "save.label.8",
+      "text": "Silhouette",
+      "asset": "b_com_s0.lzs",
+      "rect": [
+        0,
+        128,
+        80,
+        16
+      ],
+      "font_size": 11,
+      "align": "left"
+    },
+    {
+      "id": "save.label.9",
+      "text": "Frame",
+      "asset": "b_com_s0.lzs",
+      "rect": [
+        0,
+        144,
+        64,
+        16
+      ],
+      "font_size": 11,
+      "align": "left"
+    },
+    {
+      "id": "save.label.10",
+      "text": "Register",
+      "asset": "b_com_s0.lzs",
+      "rect": [
+        0,
+        160,
+        64,
+        16
+      ],
+      "font_size": 11,
+      "align": "left"
+    },
+    {
+      "id": "save.label.11",
+      "text": "Select",
+      "asset": "b_com_s0.lzs",
+      "rect": [
+        0,
+        176,
+        48,
+        16
+      ],
+      "font_size": 11,
+      "align": "left"
+    },
+    {
+      "id": "save.label.12",
+      "text": "Enlarge",
+      "asset": "b_com_s0.lzs",
+      "rect": [
+        0,
+        192,
+        64,
+        16
+      ],
+      "font_size": 11,
+      "align": "left"
+    },
+    {
+      "id": "save.label.13",
+      "text": "Rotate",
+      "asset": "b_com_s0.lzs",
+      "rect": [
+        0,
+        208,
+        48,
+        16
+      ],
+      "font_size": 11,
+      "align": "left"
+    },
+    {
+      "id": "save.label.14",
+      "text": "New",
+      "asset": "b_com_s0.lzs",
+      "rect": [
+        0,
+        224,
+        48,
+        16
+      ],
+      "font_size": 11,
+      "align": "left"
+    },
+    {
+      "id": "save.label.15",
+      "text": "Erase",
+      "asset": "b_com_s0.lzs",
+      "rect": [
+        0,
+        240,
+        32,
+        16
+      ],
+      "font_size": 11,
+      "align": "left"
+    },
+    {
+      "id": "save.label.16",
+      "text": "Move",
+      "asset": "b_com_s0.lzs",
+      "rect": [
+        0,
+        256,
+        48,
+        16
+      ],
+      "font_size": 11,
+      "align": "left"
+    },
+    {
+      "id": "options.label.2",
+      "text": "Defaults",
+      "asset": "common/b_but_c0.tm2",
+      "rect": [
+        0,
+        32,
+        160,
+        16
+      ],
+      "font_size": 12
+    },
+    {
+      "id": "options.label.3",
+      "text": "Back",
+      "asset": "common/b_but_c0.tm2",
+      "rect": [
+        0,
+        48,
+        160,
+        16
+      ],
+      "font_size": 12
+    },
+    {
+      "id": "name.tab.0.0",
+      "text": "Kana",
+      "asset": "b_ent_a0.lzs",
+      "rect": [
+        0,
+        0,
+        32,
+        16
+      ],
+      "font_size": 9
+    },
+    {
+      "id": "name.tab.0.1",
+      "text": "Kana",
+      "asset": "b_ent_a0.lzs",
+      "rect": [
+        32,
+        0,
+        32,
+        16
+      ],
+      "font_size": 9
+    },
+    {
+      "id": "name.tab.1.0",
+      "text": "Kata",
+      "asset": "b_ent_a0.lzs",
+      "rect": [
+        0,
+        16,
+        32,
+        16
+      ],
+      "font_size": 9
+    },
+    {
+      "id": "name.tab.1.1",
+      "text": "Kata",
+      "asset": "b_ent_a0.lzs",
+      "rect": [
+        32,
+        16,
+        32,
+        16
+      ],
+      "font_size": 9
+    },
+    {
+      "id": "name.tab.2.0",
+      "text": "ABC",
+      "asset": "b_ent_a0.lzs",
+      "rect": [
+        0,
+        32,
+        32,
+        16
+      ],
+      "font_size": 9
+    },
+    {
+      "id": "name.tab.2.1",
+      "text": "ABC",
+      "asset": "b_ent_a0.lzs",
+      "rect": [
+        32,
+        32,
+        32,
+        16
+      ],
+      "font_size": 9
+    },
+    {
+      "id": "name.tab.3.0",
+      "text": "123",
+      "asset": "b_ent_a0.lzs",
+      "rect": [
+        0,
+        48,
+        32,
+        16
+      ],
+      "font_size": 9
+    },
+    {
+      "id": "name.tab.3.1",
+      "text": "123",
+      "asset": "b_ent_a0.lzs",
+      "rect": [
+        32,
+        48,
+        32,
+        16
+      ],
+      "font_size": 9
+    },
+    {
+      "id": "name.tab.4.0",
+      "text": "OK",
+      "asset": "b_ent_a0.lzs",
+      "rect": [
+        0,
+        64,
+        32,
+        16
+      ],
+      "font_size": 9
+    },
+    {
+      "id": "name.tab.4.1",
+      "text": "OK",
+      "asset": "b_ent_a0.lzs",
+      "rect": [
+        32,
+        64,
+        32,
+        16
+      ],
+      "font_size": 9
+    },
+    {
+      "id": "name.tab.5.0",
+      "text": "Back",
+      "asset": "b_ent_a0.lzs",
+      "rect": [
+        0,
+        80,
+        32,
+        16
+      ],
+      "font_size": 9
+    },
+    {
+      "id": "name.tab.5.1",
+      "text": "Back",
+      "asset": "b_ent_a0.lzs",
+      "rect": [
+        32,
+        80,
+        32,
+        16
+      ],
+      "font_size": 9
+    },
+    {
+      "id": "name.title",
+      "text": "Enter a Name",
+      "asset": "e_tit_0.lzs",
+      "rect": [
+        0,
+        48,
+        224,
+        24
+      ],
+      "font_size": 20
+    },
+    {
+      "id": "menu.shortcut.0",
+      "text": "Return",
+      "asset": "e_but_0.lzs",
+      "rect": [
+        32,
+        4,
+        96,
+        20
+      ],
+      "font_size": 13
+    },
+    {
+      "id": "menu.shortcut.1",
+      "text": "Time Attack",
+      "asset": "e_but_0.lzs",
+      "rect": [
+        32,
+        28,
+        96,
+        20
+      ],
+      "font_size": 13
+    },
+    {
+      "id": "menu.shortcut.2",
+      "text": "OK",
+      "asset": "e_but_0.lzs",
+      "rect": [
+        32,
+        52,
+        96,
+        20
+      ],
+      "font_size": 13
+    },
+    {
+      "id": "menu.shortcut.3",
+      "text": "Free Play",
+      "asset": "e_but_0.lzs",
+      "rect": [
+        32,
+        76,
+        96,
+        20
+      ],
+      "font_size": 13
+    },
+    {
+      "id": "menu.shortcut.4",
+      "text": "Title",
+      "asset": "e_but_0.lzs",
+      "rect": [
+        32,
+        100,
+        96,
+        20
+      ],
+      "font_size": 13
+    }
+  ],
+  "strings": [
+    {
+      "id": "intro.autosave",
+      "offset": 2253636,
+      "text": "This game uses automatic saving.\nThe Memory Stick light flashes\nwhile saving. Do not remove the card\nor turn off the system until saving\nhas finished.",
+      "max_columns": 44,
+      "max_lines": 5
+    },
+    {
+      "id": "name.prompt",
+      "offset": 2253840,
+      "text": "Name your save data.",
+      "max_columns": 44,
+      "max_lines": 5
+    },
+    {
+      "id": "name.confirm",
+      "offset": 2253876,
+      "text": "Use this name?",
+      "max_columns": 44,
+      "max_lines": 5
+    },
+    {
+      "id": "intro.no_card",
+      "offset": 2253904,
+      "text": "No Memory Stick is inserted.\nSaving requires at least %s KB.\nStart without saving?",
+      "max_columns": 44,
+      "max_lines": 5
+    },
+    {
+      "id": "intro.no_space",
+      "offset": 2254064,
+      "text": "Not enough free space.\nAt least %s more KB are required.\nStart without saving?",
+      "max_columns": 44,
+      "max_lines": 5
+    },
+    {
+      "id": "load.success",
+      "offset": 2254236,
+      "text": "Loaded.",
+      "max_columns": 44,
+      "max_lines": 5
+    },
+    {
+      "id": "save.no_card",
+      "offset": 2254252,
+      "text": "No Memory Stick is inserted.",
+      "max_columns": 44,
+      "max_lines": 5
+    },
+    {
+      "id": "load.no_data",
+      "offset": 2254300,
+      "text": "No game data was found\non the Memory Stick.",
+      "max_columns": 44,
+      "max_lines": 5
+    },
+    {
+      "id": "password.prompt",
+      "offset": 2254368,
+      "text": "Enter the secret password.",
+      "max_columns": 44,
+      "max_lines": 5
+    },
+    {
+      "id": "password.success",
+      "offset": 2254404,
+      "text": "Success!\n%s unlocked.",
+      "max_columns": 44,
+      "max_lines": 5
+    },
+    {
+      "id": "password.error",
+      "offset": 2254440,
+      "text": "Wrong password.",
+      "max_columns": 44,
+      "max_lines": 5
+    },
+    {
+      "id": "save.help.back",
+      "offset": 2254472,
+      "text": "Return.",
+      "max_columns": 44,
+      "max_lines": 5
+    },
+    {
+      "id": "save.help.save",
+      "offset": 2254496,
+      "text": "Save current progress.",
+      "max_columns": 44,
+      "max_lines": 5
+    },
+    {
+      "id": "save.help.load",
+      "offset": 2254524,
+      "text": "Load saved progress.",
+      "max_columns": 44,
+      "max_lines": 5
+    },
+    {
+      "id": "save.select",
+      "offset": 2254556,
+      "text": "Choose a save slot.",
+      "max_columns": 44,
+      "max_lines": 5
+    },
+    {
+      "id": "load.select",
+      "offset": 2254592,
+      "text": "Choose data to load.",
+      "max_columns": 44,
+      "max_lines": 5
+    },
+    {
+      "id": "save.busy",
+      "offset": 2254628,
+      "text": "Saving...\nDo not remove the Memory Stick.",
+      "max_columns": 44,
+      "max_lines": 5
+    },
+    {
+      "id": "save.success",
+      "offset": 2254704,
+      "text": "Saved.",
+      "max_columns": 44,
+      "max_lines": 5
+    },
+    {
+      "id": "save.sleep_error",
+      "offset": 2254720,
+      "text": "Sleep mode interrupted saving.\nSaving failed. Cancel saving?",
+      "max_columns": 44,
+      "max_lines": 5
+    },
+    {
+      "id": "load.confirm",
+      "offset": 2254812,
+      "text": "Load this data?",
+      "max_columns": 44,
+      "max_lines": 5
+    },
+    {
+      "id": "load.busy",
+      "offset": 2254856,
+      "text": "Loading...\nDo not remove the Memory Stick.",
+      "max_columns": 44,
+      "max_lines": 5
+    },
+    {
+      "id": "album.no_data",
+      "offset": 2254932,
+      "text": "No album data.",
+      "max_columns": 44,
+      "max_lines": 5
+    },
+    {
+      "id": "save.confirm",
+      "offset": 2255000,
+      "text": "Save your data?",
+      "max_columns": 44,
+      "max_lines": 5
+    },
+    {
+      "id": "save.quit",
+      "offset": 2255028,
+      "text": "Quit without saving?",
+      "max_columns": 44,
+      "max_lines": 5
+    },
+    {
+      "id": "save.failed",
+      "offset": 2255680,
+      "text": "Saving failed.\nCancel saving?",
+      "max_columns": 44,
+      "max_lines": 5
+    },
+    {
+      "id": "save.locked",
+      "offset": 2255732,
+      "text": "Saving failed.\nThe Memory Stick is locked.\nCancel saving?",
+      "max_columns": 44,
+      "max_lines": 5
+    },
+    {
+      "id": "load.corrupt",
+      "offset": 2257364,
+      "text": "Loading failed.\nGame data is corrupted.\nCancel loading?",
+      "max_columns": 44,
+      "max_lines": 5
+    },
+    {
+      "id": "load.removed",
+      "offset": 2257456,
+      "text": "Loading failed.\nThe Memory Stick was removed.\nCancel loading?",
+      "max_columns": 44,
+      "max_lines": 5
+    },
+    {
+      "id": "load.missing_card",
+      "offset": 2257552,
+      "text": "No Memory Stick is inserted.\nCancel loading?",
+      "max_columns": 44,
+      "max_lines": 5
+    },
+    {
+      "id": "load.missing_data",
+      "offset": 2257632,
+      "text": "No game data was found\non the Memory Stick.\nCancel loading?",
+      "max_columns": 44,
+      "max_lines": 5
+    },
+    {
+      "id": "save.missing_card",
+      "offset": 2257728,
+      "text": "No Memory Stick is inserted.\nSaving requires at least %s KB.\nCancel saving?",
+      "max_columns": 44,
+      "max_lines": 5
+    },
+    {
+      "id": "save.corrupt",
+      "offset": 2257876,
+      "text": "Game data is corrupted.\nCreate new game data?",
+      "max_columns": 44,
+      "max_lines": 5
+    },
+    {
+      "id": "save.overwrite",
+      "offset": 2257952,
+      "text": "Overwrite this data?",
+      "max_columns": 44,
+      "max_lines": 5
+    },
+    {
+      "id": "save.failed_space",
+      "offset": 2257992,
+      "text": "Saving failed. Not enough free space.\nAt least %s more KB are required.\nDelete unused save data?",
+      "max_columns": 44,
+      "max_lines": 5
+    },
+    {
+      "id": "save.no_space",
+      "offset": 2258176,
+      "text": "Saving failed.\nNot enough free space on the Memory Stick.",
+      "max_columns": 44,
+      "max_lines": 5
+    },
+    {
+      "id": "save.delete_unused",
+      "offset": 2258252,
+      "text": "At least %s more KB are required\nto save game data.\nDelete unused save data?",
+      "max_columns": 44,
+      "max_lines": 5
+    },
+    {
+      "id": "save.removed",
+      "offset": 2258364,
+      "text": "Saving failed. The Memory Stick was removed.\nSaving requires at least %s KB.\nCancel saving?",
+      "max_columns": 44,
+      "max_lines": 5
+    },
+    {
+      "id": "save.checking",
+      "offset": 2258700,
+      "text": "Checking data...",
+      "max_columns": 44,
+      "max_lines": 5
+    },
+    {
+      "id": "save.enter_name",
+      "offset": 2258756,
+      "text": "Enter your player name.",
+      "max_columns": 44,
+      "max_lines": 5
+    }
+  ],
+  "glyph_runs": [
+    {
+      "id": "options.help.music",
+      "text": "Adjust the music volume.",
+      "width": 432,
+      "glyph_count": 15,
+      "signature": "a5b37a534620eea2c8fc2cf91f426b74b7f648a80569fed1358a90082167c862"
+    },
+    {
+      "id": "options.help.sound",
+      "text": "Adjust the sound effects volume.",
+      "width": 432,
+      "glyph_count": 16,
+      "signature": "eba908ebfab3da04fb9ec4b4265a858495c3331e92633b749a07e850a7bebb05"
+    },
+    {
+      "id": "options.help.defaults",
+      "text": "Restore the default settings.",
+      "width": 432,
+      "glyph_count": 14,
+      "signature": "6c83fd26172f70f14d55351e3b6ee2ee1ebf3475786cea095e6fc60d8a1c9ddf"
+    },
+    {
+      "id": "options.help.back",
+      "text": "Return to the title menu.",
+      "width": 432,
+      "glyph_count": 10,
+      "signature": "9fa4a7829c6517978e9358663a0110cc0087ba50222bab43f06dd8d466a36ea3"
+    }
+  ]
+}
