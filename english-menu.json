@@ -181,7 +181,7 @@
         224,
         24
       ],
-      "font_size": 20
+      "font_size": 19
     },
     {
       "id": "dialog.answer.0",
@@ -383,7 +383,7 @@
         64,
         16
       ],
-      "font_size": 11,
+      "font_size": 10,
       "align": "left"
     },
     {
@@ -409,7 +409,7 @@
         64,
         16
       ],
-      "font_size": 11,
+      "font_size": 10,
       "align": "left"
     },
     {
@@ -448,7 +448,7 @@
         32,
         16
       ],
-      "font_size": 11,
+      "font_size": 10,
       "align": "left"
     },
     {
@@ -770,7 +770,7 @@
         64,
         16
       ],
-      "font_size": 12,
+      "font_size": 10,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -812,7 +812,7 @@
         64,
         16
       ],
-      "font_size": 12,
+      "font_size": 10,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -826,7 +826,7 @@
         64,
         16
       ],
-      "font_size": 12,
+      "font_size": 10,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -840,7 +840,7 @@
         64,
         16
       ],
-      "font_size": 12,
+      "font_size": 11,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -868,7 +868,7 @@
         64,
         16
       ],
-      "font_size": 11,
+      "font_size": 10,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -896,7 +896,7 @@
         64,
         16
       ],
-      "font_size": 12,
+      "font_size": 10,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -966,7 +966,7 @@
         64,
         16
       ],
-      "font_size": 12,
+      "font_size": 11,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -1148,7 +1148,7 @@
         64,
         16
       ],
-      "font_size": 12,
+      "font_size": 10,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -1190,7 +1190,7 @@
         64,
         16
       ],
-      "font_size": 12,
+      "font_size": 11,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -1246,7 +1246,7 @@
         64,
         16
       ],
-      "font_size": 12,
+      "font_size": 11,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -1260,7 +1260,7 @@
         64,
         16
       ],
-      "font_size": 11,
+      "font_size": 10,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -1274,7 +1274,7 @@
         64,
         16
       ],
-      "font_size": 12,
+      "font_size": 10,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -1302,7 +1302,7 @@
         64,
         16
       ],
-      "font_size": 12,
+      "font_size": 10,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -1344,7 +1344,7 @@
         64,
         16
       ],
-      "font_size": 12,
+      "font_size": 10,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -1358,7 +1358,7 @@
         64,
         16
       ],
-      "font_size": 12,
+      "font_size": 10,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -1372,7 +1372,7 @@
         64,
         16
       ],
-      "font_size": 12,
+      "font_size": 11,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -1386,7 +1386,7 @@
         64,
         16
       ],
-      "font_size": 11,
+      "font_size": 10,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -1400,7 +1400,7 @@
         64,
         16
       ],
-      "font_size": 11,
+      "font_size": 10,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -1442,7 +1442,7 @@
         64,
         16
       ],
-      "font_size": 12,
+      "font_size": 11,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -1470,7 +1470,7 @@
         64,
         16
       ],
-      "font_size": 12,
+      "font_size": 11,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -1526,7 +1526,7 @@
         64,
         16
       ],
-      "font_size": 11,
+      "font_size": 10,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -1554,7 +1554,7 @@
         64,
         16
       ],
-      "font_size": 12,
+      "font_size": 11,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -1568,7 +1568,7 @@
         64,
         16
       ],
-      "font_size": 12,
+      "font_size": 10,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -1904,7 +1904,7 @@
         160,
         16
       ],
-      "font_size": 12,
+      "font_size": 10,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -1932,7 +1932,7 @@
         160,
         16
       ],
-      "font_size": 12,
+      "font_size": 10,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -2128,7 +2128,7 @@
         160,
         16
       ],
-      "font_size": 12,
+      "font_size": 10,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -2156,7 +2156,7 @@
         160,
         16
       ],
-      "font_size": 12,
+      "font_size": 11,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -2212,7 +2212,7 @@
         160,
         16
       ],
-      "font_size": 12,
+      "font_size": 10,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -2240,7 +2240,7 @@
         160,
         16
       ],
-      "font_size": 12,
+      "font_size": 10,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -2268,7 +2268,7 @@
         160,
         16
       ],
-      "font_size": 12,
+      "font_size": 10,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -2324,7 +2324,7 @@
         160,
         16
       ],
-      "font_size": 12,
+      "font_size": 10,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -2380,7 +2380,7 @@
         160,
         16
       ],
-      "font_size": 12,
+      "font_size": 10,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -2436,7 +2436,7 @@
         160,
         16
       ],
-      "font_size": 12,
+      "font_size": 10,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -2464,7 +2464,7 @@
         160,
         16
       ],
-      "font_size": 12,
+      "font_size": 10,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -2646,7 +2646,7 @@
         192,
         24
       ],
-      "font_size": 22,
+      "font_size": 19,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -2674,7 +2674,7 @@
         128,
         24
       ],
-      "font_size": 24,
+      "font_size": 23,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -2688,7 +2688,7 @@
         128,
         24
       ],
-      "font_size": 21,
+      "font_size": 20,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -2772,7 +2772,7 @@
         160,
         16
       ],
-      "font_size": 16,
+      "font_size": 13,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -2786,7 +2786,7 @@
         96,
         16
       ],
-      "font_size": 13,
+      "font_size": 11,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -2800,7 +2800,7 @@
         256,
         16
       ],
-      "font_size": 12,
+      "font_size": 10,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -2814,7 +2814,7 @@
         256,
         16
       ],
-      "font_size": 16,
+      "font_size": 13,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -2828,7 +2828,7 @@
         256,
         16
       ],
-      "font_size": 15,
+      "font_size": 13,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -2840,11 +2840,17 @@
         0,
         0,
         96,
-        32
+        40
       ],
-      "font_size": 20,
+      "font_size": 18,
       "origin": "machine_translation",
-      "review_status": "draft"
+      "review_status": "draft",
+      "text_rect": [
+        1,
+        8,
+        60,
+        24
+      ]
     },
     {
       "id": "common.e_kaza_0.tm2.1",
@@ -2852,13 +2858,19 @@
       "asset": "common/e_kaza_0.tm2",
       "rect": [
         0,
-        32,
+        40,
         96,
-        16
+        22
       ],
-      "font_size": 15,
+      "font_size": 10,
       "origin": "machine_translation",
-      "review_status": "draft"
+      "review_status": "draft",
+      "text_rect": [
+        1,
+        7,
+        60,
+        15
+      ]
     },
     {
       "id": "common.e_kaza_0.tm2.2",
@@ -2866,13 +2878,19 @@
       "asset": "common/e_kaza_0.tm2",
       "rect": [
         0,
-        48,
+        62,
         96,
-        32
+        18
       ],
-      "font_size": 20,
+      "font_size": 12,
       "origin": "machine_translation",
-      "review_status": "draft"
+      "review_status": "draft",
+      "text_rect": [
+        1,
+        0,
+        60,
+        16
+      ]
     },
     {
       "id": "menko.e_tit_1.lzs.0",
@@ -2884,7 +2902,7 @@
         224,
         24
       ],
-      "font_size": 20,
+      "font_size": 19,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -2898,7 +2916,7 @@
         224,
         24
       ],
-      "font_size": 20,
+      "font_size": 19,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -2926,7 +2944,7 @@
         224,
         24
       ],
-      "font_size": 20,
+      "font_size": 19,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -2954,7 +2972,7 @@
         224,
         24
       ],
-      "font_size": 20,
+      "font_size": 19,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -3108,7 +3126,7 @@
         64,
         48
       ],
-      "font_size": 11,
+      "font_size": 10,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -3178,7 +3196,7 @@
         128,
         16
       ],
-      "font_size": 11,
+      "font_size": 10,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -3189,7 +3207,7 @@
       "rect": [
         0,
         0,
-        128,
+        112,
         16
       ],
       "font_size": 12,
@@ -3203,10 +3221,10 @@
       "rect": [
         0,
         16,
-        128,
+        80,
         16
       ],
-      "font_size": 12,
+      "font_size": 11,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -3217,10 +3235,10 @@
       "rect": [
         0,
         32,
-        128,
+        80,
         16
       ],
-      "font_size": 12,
+      "font_size": 10,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -3231,7 +3249,7 @@
       "rect": [
         0,
         48,
-        128,
+        32,
         16
       ],
       "font_size": 12,
@@ -3245,7 +3263,7 @@
       "rect": [
         0,
         64,
-        128,
+        48,
         16
       ],
       "font_size": 12,
@@ -3259,136 +3277,10 @@
       "rect": [
         0,
         80,
-        128,
+        80,
         16
       ],
-      "font_size": 12,
-      "origin": "machine_translation",
-      "review_status": "draft"
-    },
-    {
-      "id": "pause.alternate.0",
-      "text": "Resume Game",
-      "asset": "common/PauseMenu.tm2",
-      "rect": [
-        0,
-        0,
-        224,
-        24
-      ],
-      "font_size": 18,
-      "origin": "machine_translation",
-      "review_status": "draft"
-    },
-    {
-      "id": "pause.alternate.1",
-      "text": "Leave Stage",
-      "asset": "common/PauseMenu.tm2",
-      "rect": [
-        0,
-        24,
-        224,
-        24
-      ],
-      "font_size": 18,
-      "origin": "machine_translation",
-      "review_status": "draft"
-    },
-    {
-      "id": "pause.alternate.2",
-      "text": "Leave this stage.",
-      "asset": "common/PauseMenu.tm2",
-      "rect": [
-        0,
-        48,
-        224,
-        24
-      ],
-      "font_size": 18,
-      "origin": "machine_translation",
-      "review_status": "draft"
-    },
-    {
-      "id": "pause.alternate.3",
-      "text": "Options",
-      "asset": "common/PauseMenu.tm2",
-      "rect": [
-        0,
-        72,
-        224,
-        24
-      ],
-      "font_size": 18,
-      "origin": "machine_translation",
-      "review_status": "draft"
-    },
-    {
-      "id": "pause.alternate.4",
-      "text": "Change the settings.",
-      "asset": "common/PauseMenu.tm2",
-      "rect": [
-        0,
-        96,
-        224,
-        24
-      ],
-      "font_size": 18,
-      "origin": "machine_translation",
-      "review_status": "draft"
-    },
-    {
-      "id": "pause.alternate.5",
-      "text": "Remaining",
-      "asset": "common/PauseMenu.tm2",
-      "rect": [
-        0,
-        120,
-        224,
-        24
-      ],
-      "font_size": 18,
-      "origin": "machine_translation",
-      "review_status": "draft"
-    },
-    {
-      "id": "pause.alternate.6",
-      "text": "Monkeys",
-      "asset": "common/PauseMenu.tm2",
-      "rect": [
-        0,
-        144,
-        224,
-        24
-      ],
-      "font_size": 18,
-      "origin": "machine_translation",
-      "review_status": "draft"
-    },
-    {
-      "id": "pause.alternate.7",
-      "text": "Cancel",
-      "asset": "common/PauseMenu.tm2",
-      "rect": [
-        0,
-        168,
-        224,
-        24
-      ],
-      "font_size": 18,
-      "origin": "machine_translation",
-      "review_status": "draft"
-    },
-    {
-      "id": "pause.alternate.8",
-      "text": "OK",
-      "asset": "common/PauseMenu.tm2",
-      "rect": [
-        0,
-        192,
-        224,
-        24
-      ],
-      "font_size": 18,
+      "font_size": 11,
       "origin": "machine_translation",
       "review_status": "draft"
     },
@@ -3402,7 +3294,7 @@
         64,
         32
       ],
-      "font_size": 12,
+      "font_size": 11,
       "origin": "machine_translation",
       "review_status": "draft"
     },
