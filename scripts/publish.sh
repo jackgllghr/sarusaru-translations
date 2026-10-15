@@ -4,11 +4,11 @@
 #   scripts/publish.sh /path/to/game.iso [--dry-run]
 #
 # Environment:
-#   SARUSARU_RECOMP  sarusaru-recomp checkout (default: ../sarusaru-recomp)
+#   SARUSARU_RECOMP  bigmission-recomp checkout (default: ../bigmission-recomp)
 #   PYTHON           interpreter with Pillow installed (default: python3)
 #   GH_TOKEN         used by gh when not logged in (CI)
 #
-# The release is tagged english-<commit>, so publishing the same catalogs twice
+# The release is tagged english-<commit>, so publishing the same commit twice
 # is a no-op. The pack contains data read from the disc; the ISO itself is never
 # uploaded.
 set -euo pipefail
@@ -16,14 +16,14 @@ set -euo pipefail
 here=$(cd "$(dirname "$0")/.." && pwd)
 iso=${1:?usage: scripts/publish.sh /path/to/game.iso [--dry-run]}
 dry_run=${2:-}
-recomp=${SARUSARU_RECOMP:-$here/../sarusaru-recomp}
+recomp=${SARUSARU_RECOMP:-$here/../bigmission-recomp}
 python=${PYTHON:-python3}
 
 [[ -f $iso ]] || { echo "publish: no ISO at $iso" >&2; exit 1; }
 [[ -f $recomp/profiles/sarusaru/tools/build_menu_translation.py ]] ||
-  { echo "publish: no sarusaru-recomp checkout at $recomp" >&2; exit 1; }
-if [[ -n $(git -C "$here" status --porcelain -- '*.json') ]]; then
-  echo "publish: catalogs have uncommitted changes" >&2
+  { echo "publish: no bigmission-recomp checkout at $recomp" >&2; exit 1; }
+if [[ -n $(git -C "$here" status --porcelain -- '*.json' subtitles) ]]; then
+  echo "publish: catalogs or subtitles have uncommitted changes" >&2
   exit 1
 fi
 
@@ -44,6 +44,7 @@ SARUSARU_TRANSLATIONS=$here "$python" "$recomp/profiles/sarusaru/tools/build_men
   --catalog "$here/english-menu.json" \
   --gameplay-catalog "$here/english-gameplay-v1.json" \
   --dialogue-catalog "$here/english-dialogue-v1.json" \
+  --subtitles "$here/subtitles" \
   --output "$out/$asset"
 
 sha256=$(shasum -a 256 "$out/$asset" | cut -d' ' -f1)
@@ -52,7 +53,7 @@ url=https://github.com/$repo/releases/download/$tag/$asset
 
 cat >"$out/notes.md" <<EOF
 Unofficial, unreviewed machine translation, built from catalogs at $commit
-with sarusaru-recomp $recomp_commit.
+with bigmission-recomp $recomp_commit.
 
 Configure a launcher build with:
 

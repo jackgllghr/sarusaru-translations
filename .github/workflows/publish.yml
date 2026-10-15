@@ -5,7 +5,7 @@ name: Publish pack
 on:
   push:
     branches: [main]
-    paths: ['*.json', 'scripts/publish.sh', '.github/workflows/publish.yml']
+    paths: ['*.json', 'subtitles/**', 'scripts/publish.sh', '.github/workflows/publish.yml']
   workflow_dispatch:
 
 concurrency:
@@ -24,19 +24,18 @@ jobs:
           path: sarusaru-translations
       - uses: actions/checkout@v4
         with:
-          repository: jackgllghr/sarusaru-recomp
-          token: ${{ secrets.RECOMP_TOKEN }}
-          path: sarusaru-recomp
+          repository: jackgllghr/bigmission-recomp
+          path: bigmission-recomp
       - name: Install Pillow
         run: |
           python3 -m venv .venv
-          .venv/bin/pip install -q -r sarusaru-recomp/profiles/sarusaru/tools/requirements-translation.txt
+          .venv/bin/pip install -q -r bigmission-recomp/profiles/sarusaru/tools/requirements-translation.txt
       - name: Build and publish
         id: publish
         env:
           GH_TOKEN: ${{ github.token }}
           PYTHON: ${{ github.workspace }}/.venv/bin/python
-          SARUSARU_RECOMP: ${{ github.workspace }}/sarusaru-recomp
+          SARUSARU_RECOMP: ${{ github.workspace }}/bigmission-recomp
         run: sarusaru-translations/scripts/publish.sh "${{ vars.SARUSARU_ISO }}"
       - name: Summary
         if: steps.publish.outputs.url != ''
