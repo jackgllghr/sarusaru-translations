@@ -68,9 +68,9 @@
       "text": "Back",
       "asset": "e_but_1.lzs",
       "rect": [
-        32,
+        16,
         4,
-        64,
+        72,
         20
       ],
       "font_size": 13
@@ -80,9 +80,9 @@
       "text": "Cancel",
       "asset": "e_but_1.lzs",
       "rect": [
-        32,
+        16,
         28,
-        64,
+        72,
         20
       ],
       "font_size": 13
@@ -92,9 +92,9 @@
       "text": "OK",
       "asset": "e_but_1.lzs",
       "rect": [
-        32,
+        26,
         52,
-        64,
+        86,
         20
       ],
       "font_size": 13
@@ -104,9 +104,9 @@
       "text": "Select",
       "asset": "e_but_1.lzs",
       "rect": [
-        32,
+        26,
         76,
-        64,
+        86,
         20
       ],
       "font_size": 13
@@ -116,9 +116,9 @@
       "text": "Cancel",
       "asset": "e_but_1.lzs",
       "rect": [
-        32,
+        26,
         100,
-        64,
+        86,
         20
       ],
       "font_size": 13
@@ -128,9 +128,9 @@
       "text": "OK",
       "asset": "e_but_1.lzs",
       "rect": [
-        32,
+        26,
         124,
-        64,
+        86,
         20
       ],
       "font_size": 13
@@ -140,9 +140,9 @@
       "text": "Back",
       "asset": "e_but_1.lzs",
       "rect": [
-        32,
+        26,
         148,
-        64,
+        86,
         20
       ],
       "font_size": 13
@@ -152,9 +152,9 @@
       "text": "Back",
       "asset": "e_but_1.lzs",
       "rect": [
-        32,
+        26,
         172,
-        64,
+        86,
         20
       ],
       "font_size": 13
@@ -164,9 +164,9 @@
       "text": "Next",
       "asset": "e_but_1.lzs",
       "rect": [
-        32,
+        26,
         196,
-        64,
+        86,
         20
       ],
       "font_size": 13
