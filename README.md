@@ -36,9 +36,34 @@ python3 profiles/sarusaru/tools/build_menu_translation.py '/path/to/game.iso' \
 ```
 
 The tools find this checkout beside `sarusaru-recomp`, or wherever
-`SARUSARU_TRANSLATIONS` points. Publish the built `.sstp` as a release asset
-here, then configure the launcher with its URL, SHA-256 and size (see the
-recompilation's profile README).
+`SARUSARU_TRANSLATIONS` points.
+
+## Publishing
+
+`scripts/publish.sh` builds the pack and publishes it as a release tagged
+`english-<commit>` (a no-op if that release exists). The release notes give the
+launcher's configure flags:
+
+```sh
+scripts/publish.sh '/path/to/game.iso'            # build and publish
+scripts/publish.sh '/path/to/game.iso' --dry-run  # build and print the flags only
+```
+
+It needs `gh` logged in and Pillow (set `PYTHON` to an interpreter that has it).
+The launcher pins the pack's URL, SHA-256 and size at build time, so after
+publishing, pass the printed `-DSARUSARU_ENGLISH_PACK_*` flags to the
+recompilation's build (see its profile README).
+
+`.github/workflows/publish.yml` runs the script on every push to `main` that
+changes a catalog. The pack contains data read from the disc, so the job runs
+only on a self-hosted runner labelled `sarusaru-iso` that has a copy; the ISO is
+never uploaded. To set it up:
+
+1. Add a self-hosted runner (Settings → Actions → Runners) on the machine with
+   the disc, with the extra label `sarusaru-iso`.
+2. Add a repository variable `SARUSARU_ISO` with the ISO's path on that machine.
+3. Add a secret `RECOMP_TOKEN`: a fine-grained token with read access to
+   `sarusaru-recomp`'s contents, which is private.
 
 ## Licence
 

@@ -1,0 +1,51 @@
+name: Publish pack
+
+# The pack is built from the maintainer's own disc, so this runs on a
+# self-hosted runner that has it; hosted runners never see game data.
+on:
+  push:
+    branches: [main]
+    paths: ['*.json', 'scripts/publish.sh', '.github/workflows/publish.yml']
+  workflow_dispatch:
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: [self-hosted, sarusaru-iso]
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: sarusaru-translations
+      - uses: actions/checkout@v4
+        with:
+          repository: jackgllghr/sarusaru-recomp
+          token: ${{ secrets.RECOMP_TOKEN }}
+          path: sarusaru-recomp
+      - name: Install Pillow
+        run: |
+          python3 -m venv .venv
+          .venv/bin/pip install -q -r sarusaru-recomp/profiles/sarusaru/tools/requirements-translation.txt
+      - name: Build and publish
+        id: publish
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PYTHON: ${{ github.workspace }}/.venv/bin/python
+          SARUSARU_RECOMP: ${{ github.workspace }}/sarusaru-recomp
+        run: sarusaru-translations/scripts/publish.sh "${{ vars.SARUSARU_ISO }}"
+      - name: Summary
+        if: steps.publish.outputs.url != ''
+        run: |
+          {
+            echo '### ${{ steps.publish.outputs.tag }}'
+            echo '```'
+            echo '-DSARUSARU_ENGLISH_PACK_URL=${{ steps.publish.outputs.url }}'
+            echo '-DSARUSARU_ENGLISH_PACK_SHA256=${{ steps.publish.outputs.sha256 }}'
+            echo '-DSARUSARU_ENGLISH_PACK_SIZE=${{ steps.publish.outputs.size }}'
+            echo '```'
+          } >>"$GITHUB_STEP_SUMMARY"
