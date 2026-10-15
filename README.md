@@ -16,8 +16,8 @@ from the launcher, which downloads a pack built from these catalogs.
 
 | File | Contents |
 | --- | --- |
-| `english-menu.json` | Title, main menu, save/load and Options labels, strings and help lines |
-| `english-gameplay-v1.json` | Character, enemy, stage and area names |
+| `english-menu.json` | Title, main menu, save/load and Options labels, strings and help lines; 65 in-game action/control prompts and stage, results, collection and Gachi King UI |
+| `english-gameplay-v1.json` | Character, enemy, stage and area names, plus 207 monkey names |
 | `english-dialogue-v1.json` | Tutorial and story dialogue pages |
 
 The catalogs hold English text, identifiers and SHA-256 hashes of the original

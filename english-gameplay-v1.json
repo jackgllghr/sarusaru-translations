@@ -1384,6 +1384,1455 @@
       "text": "Laboratory",
       "review_status": "draft",
       "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_001.name",
+      "source_sha256": "ce0c6a4e1096b91281a3595e026aea0036849af77efd9b3aa0164922d53dad12",
+      "text": "Montan",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_002.name",
+      "source_sha256": "5fd67111d749d24487b35f745fea186ef9bcb39a5f941a92614b1dd6b0c37cb7",
+      "text": "Dabada",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_003.name",
+      "source_sha256": "dda4e2f99741d41b17c64c74d191f1a2e1477883d3f91673ac04c614c752d8a7",
+      "text": "Moppuan",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_004.name",
+      "source_sha256": "9e182921c46ca7e8d56a17008c8381fcadfe727297522602803d6801486b4267",
+      "text": "Mondis",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_005.name",
+      "source_sha256": "413de1bc123abdca3da98371c7f290568685ab47702d16e5662d79e9af0976a0",
+      "text": "Pimko",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_006.name",
+      "source_sha256": "55db984ed44ad6a0743a9e9c76d1e13f039711bbdf242aa2efe47bd339c895bc",
+      "text": "Mukai",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_007.name",
+      "source_sha256": "58838884db71724641931237b7914a86c91a1d53540ec96a4804441226b2f1c6",
+      "text": "Sarupus",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_008.name",
+      "source_sha256": "143e01bb980d3615e8615536ef1f596a093989bcc7254f8ea9c5608ca5db24fc",
+      "text": "Ukiha",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_009.name",
+      "source_sha256": "5b9ecc1ca8ea17dba79969f29c2a9954f65bf254f1f470a3b54fac939b1a9c98",
+      "text": "Mokky",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_010.name",
+      "source_sha256": "7f03750dcabc99bb00c968cd9c7e4d72876698ce1511eae9c094b1cab1d51858",
+      "text": "Mekya",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_011.name",
+      "source_sha256": "f1be83b055ecb869012ef920fc3ebad0c3f9329d1383339180302ec56ec69912",
+      "text": "Ukie",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_012.name",
+      "source_sha256": "2a7b7adf6c3f02f84f77fef5f61445afaa4858d474e633c1e3c8918d252800f1",
+      "text": "Okko",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_013.name",
+      "source_sha256": "88dab768dde9713e911d7a8c61d29bcf3854cef84043e8d40e3f2affb41b9a86",
+      "text": "John",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_014.name",
+      "source_sha256": "018cad9e0cac20cad6c3e611fb5be81a9d8a3c28cd2e21b1f2f2993ee4290b65",
+      "text": "Keeter",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_015.name",
+      "source_sha256": "80dea91c9a1e8cdec7c5b7e39dd8a6db88bfda12afaee3fac59cbe88dfe82d56",
+      "text": "Sarubo",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_016.name",
+      "source_sha256": "9c7081034332355401c3c66f5c83443a111cf97dddf368ab9371a571f6553212",
+      "text": "SaruYuki",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_017.name",
+      "source_sha256": "ba5efea9a55c16d13500f6d4f23f792646c4689c41ffa964fc1c0b5e21f11066",
+      "text": "Morpu",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_018.name",
+      "source_sha256": "111d9d40064d5aecbe2150fd5f912bb6ee02568b2ea92c7a83698fb6e8a5d149",
+      "text": "Patchin",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_019.name",
+      "source_sha256": "2bdfa18196d4ca23d755d3b090a2b71a0f1425c0a6a95ddaba2432993e8da6e6",
+      "text": "Ukyao",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_020.name",
+      "source_sha256": "3a3cafd2174acdb8c3f5232e2feb6c3733e25fd099892205cc4a68b8bc0613c9",
+      "text": "Wikkin",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_021.name",
+      "source_sha256": "e5696b863297146eadef7e00620f607769efcec7e94d0e83399ce13298c989ec",
+      "text": "SarunSarun",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_022.name",
+      "source_sha256": "98731a3ebd60e80e0049cdd4a2acb7324fa716b70d3e91cf96f92986241ca959",
+      "text": "Sartos",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_023.name",
+      "source_sha256": "21b1ec2b38ac84018dad8c6ccfb9fbecd25d1108bd1b874439c33be2179e06e1",
+      "text": "Nana",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_024.name",
+      "source_sha256": "c518c3c7d7e9ee6f5cacee20ea18b07bed51b65de139c71f15769f59079cd216",
+      "text": "Ukiki",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_025.name",
+      "source_sha256": "2bfb77b796f7ce6321e67697c075a50b556d7f5008dabb7821853e4996fa555b",
+      "text": "Montanan",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_026.name",
+      "source_sha256": "ebcf178b27ed523c59f219cf579808e07bc150a1fc546cf8cf3b112329f06427",
+      "text": "Monchom",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_027.name",
+      "source_sha256": "8bf07fa47849d9304ada7f319614b7402eb30c0ee47378ffb74e92b1aa753ba9",
+      "text": "Snowflake",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_028.name",
+      "source_sha256": "7a23ff249dfa9f8411e62a6a12f3a5f0e2797464019a25501e689883ac9f42b2",
+      "text": "Hoisa",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_029.name",
+      "source_sha256": "5dd8fb68e68da333bdf50fb00124abe33f373457bf041ace33087b445452f4a8",
+      "text": "Essa",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_030.name",
+      "source_sha256": "9072d847e7f6237d1d963bfd79970688fc473d0267930ee35f2db60132720756",
+      "text": "Shimoyan",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_031.name",
+      "source_sha256": "546eeb12629bda24c80930d31378f2b2c691be2943443e61d0e77276d85bb76a",
+      "text": "Edinson",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_032.name",
+      "source_sha256": "04a83a853d03c36d812ff02fac4ef461016deacce3633428bb77ea7a9d4d7a64",
+      "text": "Mojack",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_033.name",
+      "source_sha256": "f094179522d543aa2dffa67c292edbfdfc76c802ade2c66d9d56f3a80eb6bee0",
+      "text": "Mondo",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_034.name",
+      "source_sha256": "dd904bce7492b735c122b21e7dda71f0fc420711e1b0d0d3e1dcc2beb604a968",
+      "text": "Mujakki",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_035.name",
+      "source_sha256": "71e5e0daf75a95e500bf0f462001dfdbb9f8d566f38f9a5e59b73650534647ca",
+      "text": "Kanachoro",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_036.name",
+      "source_sha256": "4f9293c47d3da3fece383b4915d30558c022e84239f3acbf88405c3ba71bf1fa",
+      "text": "Xiaoye",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_037.name",
+      "source_sha256": "c63487cf1caac9b203d07d0e72ccf215af07f17d4d477e8ec7dbf15798f24ea0",
+      "text": "Arthur",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_038.name",
+      "source_sha256": "ee75e0cc640f39461a11ee4df42651c31999db8b854c4e2e6e9eda0271e32713",
+      "text": "Bottasan",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_039.name",
+      "source_sha256": "ba03b07dcf08fab7fc80866f2d0ec6796f2f1c4440f53fb0cf181f43dd4f9cf3",
+      "text": "Imorin",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_040.name",
+      "source_sha256": "a4e047844fee15d204755c7eb87e4d77b513842a0001eb218ffa58f0dd543b4e",
+      "text": "Montero",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_041.name",
+      "source_sha256": "a9b77815839b06d1c91aef8c6f588547748147e67bcb0566c40624e17f1c2e9e",
+      "text": "Keith",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_042.name",
+      "source_sha256": "10e1b23725582c9ae180fea70354437e8ab0213f314cf3ce369d9eb4f634ee42",
+      "text": "Bananu",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_043.name",
+      "source_sha256": "0f360c82063a62dffe34c19ef61acd08ffe11dc2318e7a3e64cd2d1237a595a8",
+      "text": "Daio",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_044.name",
+      "source_sha256": "c5d569ab53784e885192944a2e0f1d98842df04a6e42f11ff7b6c53bea3b63c7",
+      "text": "Kiki",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_045.name",
+      "source_sha256": "61283f364d17548ee31f1625da9547f2cf3e9da64871adeb51acd8dee6204fd9",
+      "text": "Udantan",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_046.name",
+      "source_sha256": "2edba2d8f6645010c728aa4583aeb391f657a5c44de93892705534cb05841edb",
+      "text": "Mamu",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_047.name",
+      "source_sha256": "cd58b088b7c539ad0ffa5c61713807e59d0592858f7d291b38a055c417ab5e10",
+      "text": "Goichi",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_048.name",
+      "source_sha256": "aa54a58cc458bc197a7d4e4080b3d760f0919d6fa3ebf0fceead501557e4e8ba",
+      "text": "Ukyotor",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_049.name",
+      "source_sha256": "df75dc0967d93263ba933a6558830965e7b98a41fa96366dca1f62b268be0465",
+      "text": "Ukihiko",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_050.name",
+      "source_sha256": "3d421ed029448b6e46cef0b5197c2afeb921cd8e4b7828a3e86c91d25ef25785",
+      "text": "Ukihisa",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_051.name",
+      "source_sha256": "9306579f49cd0a22b0aff0b8d35ad0ac5247949776cf86cedc6029d93f130d7b",
+      "text": "Saruso",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_052.name",
+      "source_sha256": "01253bb919f9915d4e87ab085ff37ce3ae6bc54cb245a0a686bcf76ce6e2fa6f",
+      "text": "Ukitchis",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_053.name",
+      "source_sha256": "ef15266ec5d7275eb7f211f63ef915d6154743f2e1bbe9781c4a1587c5dd1387",
+      "text": "Bruccho",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_054.name",
+      "source_sha256": "eaf144caf6e4c887de07e27629ceb27c83eb8ac474dd3dd8128c0652a01ce2c3",
+      "text": "Sartre",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_055.name",
+      "source_sha256": "c86d62deb783e83b7a85e6b1b814725a3b73f73b8a2e37f5b0c09a82c66ee682",
+      "text": "Stein",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_056.name",
+      "source_sha256": "ec98f351e60d1e5dae8fa8e2bbd47ba352ce5f8c18ca92fef775d936df6d2c36",
+      "text": "Kyosuke",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_057.name",
+      "source_sha256": "f5cef0d66375219631c628b817721e00b0b1b58f93d8f077933d0e1df6a512cd",
+      "text": "Kyakias",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_058.name",
+      "source_sha256": "6e78f32dc0f6d198c1fc93f382a0eb7118a0bf54db8044a5ad2de40961569727",
+      "text": "Tetsuro",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_059.name",
+      "source_sha256": "b719cf185e9e908222ec8786a62d05825f418141410bb94df0f7d6ff93c995bf",
+      "text": "Kikir",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_060.name",
+      "source_sha256": "87fdd3793a8e88dc84ad7ed948a940910260f16e22987fe5e23282cfa5b22396",
+      "text": "Kurukris",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_061.name",
+      "source_sha256": "3a91a267cc0d4a0a16b8e92558e9abb2774288e6e88237347172797652ac0948",
+      "text": "Monche",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_062.name",
+      "source_sha256": "173ba7dc3635547daf8b7ce195808246ebdfe1e61f304a560d7f8bbf09c53c50",
+      "text": "Wee-san",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_063.name",
+      "source_sha256": "e49860e8fca1a981c09c7df344bb28a34a419c359cfa557d9bf97ef8715fe82c",
+      "text": "Sarun",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_064.name",
+      "source_sha256": "392c5c358c13785abd8282634594e617d659c1caadbaf140ec46d9efaef59d38",
+      "text": "Ossamosa",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_065.name",
+      "source_sha256": "2c9aa4749e76ef581c2dcb6c22b9b6330be66d3ee0dc13b8c1def7d05e4d16e3",
+      "text": "Gilgeer",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_066.name",
+      "source_sha256": "e24d47a0167e7e5a1e41547a4ff60e93b92a9bb7b1ff15992ec639831243cc95",
+      "text": "Zeke",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_067.name",
+      "source_sha256": "2ab3010faf3b18c24b02791090f6427c2289fd22cb3ac31db2fb7cb1a377264a",
+      "text": "Tokikki",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_068.name",
+      "source_sha256": "aaad40b66ec6016adfb7d896d994a0a83c2416fe227c801a02b6c91cbb7af76e",
+      "text": "Robinmon",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_069.name",
+      "source_sha256": "0d1724aabe15e491bc29152fe72b5624791b59bb66efb662c2e74e8853dbaf1d",
+      "text": "Saruo",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_070.name",
+      "source_sha256": "5b81d81f9b4f7ab9c4f39af1b257726a8b08bf1a19c4c33d1c8acf5511d4633c",
+      "text": "Choki",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_071.name",
+      "source_sha256": "0bb4cfd145abbaf5e5ab76534615663b171b97de5cf27bb8e6efac75bcb69bfe",
+      "text": "Kenichi",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_072.name",
+      "source_sha256": "380ab7f106cad982b348ebcfe05939380b0f83204de355131c99c91c552a80bd",
+      "text": "Sarche",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_073.name",
+      "source_sha256": "b074986ab5b0ff08090b4f6cfabebd77e1621111b414a70318dfde7e23880ac8",
+      "text": "Monchi",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_074.name",
+      "source_sha256": "880d8f3073bba54effdfc1cadf2ad1b9092920f19ece6298f0071af61a1bef05",
+      "text": "Michelle",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_075.name",
+      "source_sha256": "93aa3d171b330233666c44e110e6b20312aec53e0fd214c46941aef21b744e68",
+      "text": "Ukiel",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_076.name",
+      "source_sha256": "6a672dc7e1c459c4a31313a275756129f578dd964448e009813e24e414e86afb",
+      "text": "Akira",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_077.name",
+      "source_sha256": "bc765b8a89f08ad804dd76de1c71213c8a950cb754c82cacc2e7f714fb410fd1",
+      "text": "Tonassa",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_078.name",
+      "source_sha256": "438566c8ce533cb76d0c8eddad1bbd0b444276f57ce6c8f0b262ddf2f61adeec",
+      "text": "Lusser",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_079.name",
+      "source_sha256": "afca72b79847e11ff18cf0ec8fc07b02f00eece10513c9f0d2f3d606a5639fba",
+      "text": "Monstera",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_080.name",
+      "source_sha256": "9129de88f2afa1d4a514a33aef1b6c659ed66f8ee47b24be9bf2c8c36d102aa0",
+      "text": "Pisaru",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_081.name",
+      "source_sha256": "b582bff86efe4ad789b3689038ef52ca7dd30b0bf4af828d8f843c874273c333",
+      "text": "Buzz",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_082.name",
+      "source_sha256": "56a575835dc7b3bda5433f2f32daf3ef73718347d6e91a00dca0f2fd37b59969",
+      "text": "Mekky",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_083.name",
+      "source_sha256": "3c325adecb044b373bc25404a4808c1337ff4347fd4fae4e2dbe4a95089f9dc3",
+      "text": "Lusaru",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_084.name",
+      "source_sha256": "b8afaa4dad6edad3431b2e05d8b6b4672df2fb36d58926808a1d8b9ab3209710",
+      "text": "Kikoro",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_085.name",
+      "source_sha256": "d7c8e7240f1b4dd30880a89e19cc9a9c2c6c55b7de5be9e2b72a34bef003d0e4",
+      "text": "Miraco",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_086.name",
+      "source_sha256": "3d0400e65f73fa959e4ddac8a14aae1ef191c1f1d8e7a41d6dee3d42ba4ee531",
+      "text": "Mornlicious",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_087.name",
+      "source_sha256": "af6a5c9a9f549f1b6a153788af6d00a849e82fc5b00d7505f3aad647e623d6e4",
+      "text": "Basaru",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_088.name",
+      "source_sha256": "c2870d4f4552df85dc9119c707b335609721afcb9a3afebad2f43e07e8bd189f",
+      "text": "Yuko",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_089.name",
+      "source_sha256": "87c9b5324afa1c03ccc7e0354881ab2a530c96a91dcfe8be3adcf65595a83bf9",
+      "text": "Nobuo",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_090.name",
+      "source_sha256": "16dae8fb85685a2ca850bf4a1e59827ffdaac76da574df1e047436bcb8083f4c",
+      "text": "Momon",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_091.name",
+      "source_sha256": "2dbd72ef7ce3fefc461214a8f9fc8d01d3aaddbc8d0c56a6188d770216c037c6",
+      "text": "Heiyo",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_092.name",
+      "source_sha256": "8ad6d6590235e2e01434f548cbed19712fa2d308c18ba04130aecc59af16a1f4",
+      "text": "Issarun",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_093.name",
+      "source_sha256": "edcd86dcd10ab6d998ad76294eb7e20e7b1e70c442fa1da5a80f0fde13cb34b1",
+      "text": "Monkuru",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_094.name",
+      "source_sha256": "3c76f7b7b698ec4d481d2661df250d35d618177bbd2cbb7a7acc576118617a1a",
+      "text": "Bana",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_095.name",
+      "source_sha256": "03e5906622e966a227b235e073c7bc519c44bccf1fc497ebffaa63e9a3929809",
+      "text": "Mornes",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_096.name",
+      "source_sha256": "ddefd7bb882e564d2d3327c3612b6987a6860bfaaffb1db1b48c3c78be41e94e",
+      "text": "Raymon",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_097.name",
+      "source_sha256": "19bb12ca759bb6283fd1e3b815cb58183d0d48274af8672547b3978a6c49c2b1",
+      "text": "Nagamonly",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_098.name",
+      "source_sha256": "d5a49e8adc69fba856c4c450c2bcbd7f2369b9d562a1a84980b6c995e2602341",
+      "text": "Misaman",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_099.name",
+      "source_sha256": "7786f82fbabb00bde8851fc9440949cf31a7eeb01123e7431dc366adba12172e",
+      "text": "Monsky",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_100.name",
+      "source_sha256": "b8e6af7989196a20f779a6b261555a15dd702b5196191f52a307133a29a6eeb2",
+      "text": "Shiro",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_101.name",
+      "source_sha256": "c9b63ba76c164ddb43c8d7f73c289c9ecf1cbf115f34e9b5abcfc3589f48b502",
+      "text": "Monstein",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_102.name",
+      "source_sha256": "60d8758cc37d32b61ef49c4f6c233e90f3cac574043d8de645a90cf718fcc592",
+      "text": "Banya",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_103.name",
+      "source_sha256": "bc80065f4f867ab52d57744e5790700adb68102de7f13ca0641df1e49ff54b95",
+      "text": "Wekinson",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_104.name",
+      "source_sha256": "8df2affffd30f07b9d8334a4efd4b13fc4e39714aec65e5d301cbac4fdafa34d",
+      "text": "Monchester",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_105.name",
+      "source_sha256": "a4882b5eadbcb2a36eccb9e5f3058659ad896abd86da8c59d12d4d45741498ca",
+      "text": "Monchan",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_106.name",
+      "source_sha256": "e80f30e82dfab1fdf2c3f053ab24f5b7cdadc8ceb3a4b20d13b18a399275b9a9",
+      "text": "Masaruko",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_107.name",
+      "source_sha256": "81efd01d209e81424f0fbd7bb7cc62374308b716e245a9048bc1a2dcbb9960a7",
+      "text": "Ukia",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_108.name",
+      "source_sha256": "1c0ac342b9b1afef04d180ee59ffc2c40537d2e98d10b11d2cfb050a3cf2f802",
+      "text": "Sarliam",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_109.name",
+      "source_sha256": "d8e3e8262aeeebf7c88dc1eff15d879d3f6369f9cf2a7d9fe88a6388b5cca3d1",
+      "text": "Mora",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_110.name",
+      "source_sha256": "13750707a722c031580c86a05ed985eee6f445d6d386f09a34d14598ae3e1c56",
+      "text": "Monrita",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_111.name",
+      "source_sha256": "da79c9df0361d80011e72aa1a5d6c3304fecc3034ad0e440a1808c1adbf0e08f",
+      "text": "Sargy",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_112.name",
+      "source_sha256": "18602a3e7439bf63461446add37a88624d138b8f187520a562df9b61ea2da9cc",
+      "text": "Marlin",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_113.name",
+      "source_sha256": "c207ce1b21a129af6035bc779a439ddd192ec19127b3967fca133b3de9a3d1d3",
+      "text": "Light",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_114.name",
+      "source_sha256": "f5e0f2a43280c38029ffabf1bea489fcfb59ce4b93aa5a76fa9cc1b01dd00543",
+      "text": "Kuromame",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_115.name",
+      "source_sha256": "fb6d44ec3eecaf3915b60a207d460e2b4f1f69bd47865b4263ed1a71c29edc9b",
+      "text": "Keemon",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_116.name",
+      "source_sha256": "7b42a47932ec261656ffa94c11600ca3039dcd36b923a0c55c3cb9276a46fc85",
+      "text": "Monkis",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_117.name",
+      "source_sha256": "21cdfe5db76efba3716d1752eeeec5f73b778ea72179650b9c5565b6b573af2d",
+      "text": "Monmo",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_118.name",
+      "source_sha256": "ffa02ce7dac8a3392f03757697d4f779db2e0cf0293580e3e7e23daaca728163",
+      "text": "Ukimoto",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_119.name",
+      "source_sha256": "d29b52d34f17c6874e539762a0d90e0cbb5115023aea24bb710363af018615c1",
+      "text": "Atmon",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_120.name",
+      "source_sha256": "ff69323ed72282c9386fb66f11baaf0bd30f935d560d6c0d3c252ac0624e667b",
+      "text": "Tanichi",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_121.name",
+      "source_sha256": "4cb81073d2134a506afc96e46c67ffbce0e043b819a77bab97ee9d87c66dc977",
+      "text": "Hayami",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_122.name",
+      "source_sha256": "cf5f8b5f16251bf9c11c34029191833b99151e9034f5d729a2a589d44a60edcc",
+      "text": "Monket",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_123.name",
+      "source_sha256": "92b62cc2c97acaf1e57d5df56057c01d747d5a8bd6fdb9ba6f511e7748331f42",
+      "text": "Raimon",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_124.name",
+      "source_sha256": "f4070f4099e248948369456031b583e9e11478fbcc3a66986f0345ba6c2649f7",
+      "text": "Satchin",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_125.name",
+      "source_sha256": "abebb78fe4fcfc4ccdaf8f641b2c5e94c44d1b2965a72e41ee2f73bdb9a28c59",
+      "text": "Sarpaccio",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_126.name",
+      "source_sha256": "985d7b9a5f28320f77a5744542b24d1e4d238d3719128594eaefd5760dc96ad5",
+      "text": "Mocchan",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_127.name",
+      "source_sha256": "57882bf8b0b781e378407faa594de2e610163a4ce784a7cabe0f191d61ad4d33",
+      "text": "Pack",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_128.name",
+      "source_sha256": "8fd9af2922acb25567a8cd6b54e409597432d3b4d81dedee9ab68bcbe65eff3d",
+      "text": "Mokkin",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_129.name",
+      "source_sha256": "2d11b44ffa45799b983b270dd6009f1af203ac510e89eaa349978beb3f474d5c",
+      "text": "Lusa",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_130.name",
+      "source_sha256": "8b777bd33012de28c02a203f73af933d9c40f5f30a44c8ab9654e245099bcd11",
+      "text": "Monty",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_131.name",
+      "source_sha256": "69f15ca7c95b544f241b04b45841de92d498ae5b4cfe8bbb20f2d3a2def3162d",
+      "text": "Ossa",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_132.name",
+      "source_sha256": "52f72df49370c766163609c752c2646196d88fd9303ba1f325ff3134efaf9642",
+      "text": "Sartomo",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_133.name",
+      "source_sha256": "40cfc61c8c1d37f0d9e4a5a4bce24f78c5f6ce4d1daf558bf9315a474cbe6d76",
+      "text": "Ukyota",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_134.name",
+      "source_sha256": "c2fb21350e7a76eff2ef4e8b3edec84d852c1c2d78ba82a7e031616aa0043053",
+      "text": "Shokakki",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_135.name",
+      "source_sha256": "adb2ebff3b3087fc40953e7484d585f092beefc52e952b6ecf99a2a0100fb66f",
+      "text": "Monchiku",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_136.name",
+      "source_sha256": "b0b8a1e104e48dcd9bf22916440f80333791520d918c965494e251150f1cba9a",
+      "text": "Kikkyu",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_137.name",
+      "source_sha256": "246c7f24544d8592e2602e41c68ee29edc7d8d96732b9e9f82a4189f44ea76a7",
+      "text": "Smaile",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_138.name",
+      "source_sha256": "df1b46798ea05d3f098bc10aef7346128e6ef831a64018c1a573cb786f811524",
+      "text": "Mukiki",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_139.name",
+      "source_sha256": "619f9ffac8fa9c21b37abd9ef210fefb96d9f6c1014c8dbe0a0bf09bb0bc1e82",
+      "text": "Ukireen",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_140.name",
+      "source_sha256": "c2037d46ea91dd516cd2a781db1704b1c2dbdca5ce904e890c29e01182d5e8c9",
+      "text": "Melky",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_141.name",
+      "source_sha256": "fb19ab08509ff3c7c51587ee04980c75f3c24ab13e3fc4244fced504de64184c",
+      "text": "Kyokkyor",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_142.name",
+      "source_sha256": "8d6dce7f6d10cda6b61eb481daffaffa04824fd87c194bf0c45324683fe658a3",
+      "text": "Mokutan",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_143.name",
+      "source_sha256": "325a689ce6b55c8afa3118de26d76755e5f81630faa28a4836b9e35717e7f097",
+      "text": "Lemone",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_144.name",
+      "source_sha256": "1fa9f183020a2d41cb4bc7f59b821c12d9e57cdcb6bc3e731a99f843c734281d",
+      "text": "Raiky",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_145.name",
+      "source_sha256": "cce7c3128a884b48ded9fb373e9623bbd51c7d13f9ccb60bb8616d052b54e0b2",
+      "text": "Mornia",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_146.name",
+      "source_sha256": "2272f0fe68d83e7762c937013af28beea67dd19b479a279565f38e1713e505cf",
+      "text": "Sarma",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_147.name",
+      "source_sha256": "40423743314856474d5b855966b6faf2ef3effbf5053d1b10529dd92bc91239f",
+      "text": "Sarufanfan",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_148.name",
+      "source_sha256": "516fa84f09bf1196fbe3f3711a1fc02a1b920cc55df8c6167bfef392bdc67690",
+      "text": "Dory",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_149.name",
+      "source_sha256": "77ddafe918aa6e6204b88797747e7b0f12dddb390ef251777556b0e0b3fe565e",
+      "text": "Sarumin",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_150.name",
+      "source_sha256": "b2ef32ff2c93d8180b636c9be2e78fb32b1a79f0f77b2e4e540d9559c6c54c5b",
+      "text": "Montia",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_152.name",
+      "source_sha256": "046abdf877c34ab3aff4ff3241a794ee57217e9cfa477774d628110ac3542f64",
+      "text": "Estan",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_153.name",
+      "source_sha256": "48efc29d3dc2b4328fc384f0b86bf4bdea7fee8ff939d93a872ef1ce608c8202",
+      "text": "Mokyaru",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_151.name",
+      "source_sha256": "c9c3e1795b907d5ce5351b62ad80bce53e4a047c3ebd530f343ce39be19720df",
+      "text": "Arkamon",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_154.name",
+      "source_sha256": "6b6d3ea70b9574e102e6667576778d956832d026d36b82e45195eac0e629c37e",
+      "text": "Daniel",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_155.name",
+      "source_sha256": "b65f590f5aff2d476c13b9f518d6874102ad72e362f92ea3ced0e101e1d3d4b6",
+      "text": "Muro",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_156.name",
+      "source_sha256": "6c147e9c8af5b04dcf1aed52c41561f8e789b1cdfcf3f60b9f22eace456939f8",
+      "text": "Monkiller",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_157.name",
+      "source_sha256": "90495cd35ab86798e46a75a80aba4aa680f1e415c3d1283358250c872e0bca8f",
+      "text": "Moncini",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_158.name",
+      "source_sha256": "c2aff0f81bfc004e7f7e29b8f7681f7f540635b76d2c61011b8cac4debbe2e9b",
+      "text": "Saporo",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_159.name",
+      "source_sha256": "c70d4bc9db8cee92782625f00b5bd25594e48f151a0fc09ebae35c41b5c6037d",
+      "text": "Maniya",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_160.name",
+      "source_sha256": "481df735cace0198b12cec5302aeae65475ffeca611fd65864c43547abd998d8",
+      "text": "Kikiro",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_161.name",
+      "source_sha256": "28b2f39aac1b097ef02f04af190f9e9aff1c90b0c77b80fe675dba842029a51b",
+      "text": "Dabibabi",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_162.name",
+      "source_sha256": "ae4da06a9f54057ed186c639d1c8f4171ffc33050fff9aa112fc0eb8a81f8b6b",
+      "text": "Avare",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_163.name",
+      "source_sha256": "7b3e0f1847ad1f9cacb58766823c815f8a3ae0026cd7d4ce8975cce480aeddb6",
+      "text": "Mocchi",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_164.name",
+      "source_sha256": "d719f0c97a74d101991545eb70b2fd05293738c90cc093558421ec582fe421b3",
+      "text": "Benny",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_165.name",
+      "source_sha256": "799d9618dbc272d9ba93ae70bb300034de4dd11719a140f9d7a0a86cd4198d95",
+      "text": "Sarol",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_166.name",
+      "source_sha256": "2518ebc5408c98f0969712c044cb8ac0561316f717978772e192816d611239a1",
+      "text": "Mokkiuki",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_167.name",
+      "source_sha256": "eb57b15b600b120e10863491273bab6345343976e94a8c7698fddddd93a13763",
+      "text": "Orsa",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_168.name",
+      "source_sha256": "5f5af02d00b577b37a1da672eb484d817b36b06c5c240262c0dfb211fec06748",
+      "text": "Master Higeichi",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_169.name",
+      "source_sha256": "5710af8ddea9fe353ae119423d1752b9d078c0219c291d0a226677fdead25967",
+      "text": "Sarcone",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_170.name",
+      "source_sha256": "6a295ffd927b20d6537f7b473b79d889811dd3f274c2dd49e65da298e2c20f69",
+      "text": "Markikki",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_171.name",
+      "source_sha256": "33c8dc275110b7b2a7c6c35ffb5241bc755093fc696a87a2b278374c838092aa",
+      "text": "Kagiya",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_172.name",
+      "source_sha256": "4d1cbef91c5b20e4785cb11771ef0c74c643a54546720138cec5903ed46ed09a",
+      "text": "Chuchan",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_173.name",
+      "source_sha256": "45c7a071669292b16a8d828791b74626ba84ce2f4af6cb848946a8a062629e94",
+      "text": "Sudan",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_174.name",
+      "source_sha256": "83fe9004d8556f0548c7ee1f73e0aee1b9bb352a902995646a7d481419433586",
+      "text": "Iero",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_175.name",
+      "source_sha256": "ac0319acbe0789f83dd6e21b9a74dc80214a32ad6ca136af07a7e024b5783f4e",
+      "text": "Bencha",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_176.name",
+      "source_sha256": "5d7940d701079a8b19c6d8fb7dafaaf21ff8cf992cf613b2cce0377742d5b619",
+      "text": "Master Higeji",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_177.name",
+      "source_sha256": "5e4c0e057fcaa7bf91e6195bc033db9676784617295094f18c1e0c15cd253fdd",
+      "text": "Moccho",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_178.name",
+      "source_sha256": "075fa2ec7715563ba4329d65b6ecd6293b3bbbc7c1291207160b4ef508770cc8",
+      "text": "Akiu",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_179.name",
+      "source_sha256": "2c13265637cb173f122b26ec6bfc95e1c39fee6c2dfd392ce16a21820a7adae9",
+      "text": "Gagel",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_180.name",
+      "source_sha256": "09635ba813f5185ea20a0148cd6764bb37c9efdaae81fb2809ee23b095e4cb76",
+      "text": "Gabrie",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_181.name",
+      "source_sha256": "c0e2d5c73884670cfd77d075b55be2b5ecc6da4fc49eb457c490153d833e8f83",
+      "text": "Lef",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_182.name",
+      "source_sha256": "a38e2fcb05a42bc0dd47b2ced66433b2471cf64b1daab248aaa66fc8460b9648",
+      "text": "Master Higezo",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_183.name",
+      "source_sha256": "c0baed5686f5ca57cb39d200fb1a2f1dcddde5413e4dd7bc0924dc68dcd8d619",
+      "text": "Kagesaru",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_184.name",
+      "source_sha256": "aa05e900df1d7c9796ebc3df1ab6763aaff7426abca554f43304b65daff56398",
+      "text": "Appo-Ro",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_185.name",
+      "source_sha256": "a838e86ec06d7bf353c07c6fa354de550b10c7475fa115e349d72c0c9c97a7c9",
+      "text": "Nomya",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_186.name",
+      "source_sha256": "31700ddec31b653809ab8977231ac22dcdb6ec5ae191974306a462832f9c5e9d",
+      "text": "Gaikotsun",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_187.name",
+      "source_sha256": "febf2632dfeab68eeff8062fd6db9f2cb64ecc5f02f596bd2d903d45113c8a9c",
+      "text": "Saramy",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_188.name",
+      "source_sha256": "95edc14d5e49f5e0550e2dba6b8cf616e201f89f4302c0b947ab077c8d9a80f6",
+      "text": "Kikitaro",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_189.name",
+      "source_sha256": "e701928b75387b42649a2765f876fa27f3599cbed53c8be8f855661fdf064ba1",
+      "text": "Sarubas",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_190.name",
+      "source_sha256": "5ae129b6fd2099348dd6c846d8d2b572856b0841b73a3d8c1bacb46caf6f2638",
+      "text": "Ukyahige",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_191.name",
+      "source_sha256": "e6f1730dea40f458cba4c107e767cc10d3fae119c07fed1ef7f0a19d24c54b10",
+      "text": "Mister",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_192.name",
+      "source_sha256": "163a579340f051d72c0823237847b52126841d16ef5f805e7b0166fa7d9970e3",
+      "text": "Master Higeyo",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_193.name",
+      "source_sha256": "4835fbe6e2d6783c1e3e44efe67e683293b4ebf1019d12cf5b3746a19d046d02",
+      "text": "Monkichi",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_194.name",
+      "source_sha256": "9ad8fb7a109ae48c5a18bcf57ffb22d1b2656cf7c97e4fac35829cb69a50e6a0",
+      "text": "Iuemon",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_195.name",
+      "source_sha256": "16ed472d0d84c2057b41c373ec4a17b0cd82167737d85b80462da917fe014010",
+      "text": "Nator",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_196.name",
+      "source_sha256": "dc0a0de81f77a47de17c92e0b5ed1206e72684b14d8efe00a445416a883ef884",
+      "text": "Zayaga",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_197.name",
+      "source_sha256": "1711b324e868b121800c75b3f8845937e9e7ca5f3a7f239d30c0e3c302be2cd0",
+      "text": "Hohha",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_198.name",
+      "source_sha256": "a363aa58b9326463c8e6752be05a29014a7df1fc1164fa67e5b4838b262b3654",
+      "text": "Sarunz",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_199.name",
+      "source_sha256": "21a3dcb616618fb697fc8465cbfa2ccb3e33a9289b39c110c323c36a6ec62b4e",
+      "text": "Zador",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_200.name",
+      "source_sha256": "f801c81075d8f741b6a4068a188470f2aef9e29b53fc7e2f6cf9f0419a616b27",
+      "text": "Kyapin",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_201.name",
+      "source_sha256": "887e4478bc0cbfc495497a606ef33e644d5ee038b01bb22ee624b6b9d59e9ebf",
+      "text": "SAL10000",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_202.name",
+      "source_sha256": "b7f6333ae50302de204bc9d7f4a1f96f044f4e71c295a19c2b270d14bfc058be",
+      "text": "Ukki Red",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_203.name",
+      "source_sha256": "fd6298390a6e9452ed3e53c60050a119920b512b1a8d6b5a5d567c7628f1b0d4",
+      "text": "Ukki Blue",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_204.name",
+      "source_sha256": "195a0a00a8c1571e94e1dc64b833eccb5adadd38d7b54ac25ce973685a510c08",
+      "text": "Ukki Yellow",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_205.name",
+      "source_sha256": "38d095b50b84abf97f350584f7335509673b5fabd9631b08ce3057b829a84fff",
+      "text": "Ukki Pink",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_206.name",
+      "source_sha256": "09c3756b3531a28ae572dc05611d2c945b39fe7318566fc6dc69dbc499ac4000",
+      "text": "Ukki White",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_207.name",
+      "source_sha256": "81f03b933fe2ac4ae2c6b443965444a3e03706578e8541cd91ac4fbd5f77b6bb",
+      "text": "Specter",
+      "review_status": "draft",
+      "origin": "machine_translation"
     }
   ]
 }

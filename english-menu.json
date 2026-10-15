@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "locale": "en",
-  "description": "English title, intro dialogs, main menu, save/load and Options screens",
+  "description": "English menus, gameplay controls, stage selection/intros/results, collection and Gachi King screens",
   "labels": [
     {
       "id": "title.press_start",
@@ -703,6 +703,2722 @@
         20
       ],
       "font_size": 13
+    },
+    {
+      "id": "gameplay.action.00.00",
+      "text": "None",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        0,
+        0,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.00.01",
+      "text": "Scratch",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        0,
+        16,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.00.02",
+      "text": "Punch",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        0,
+        32,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.00.03",
+      "text": "Kick",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        0,
+        48,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.00.04",
+      "text": "Swing",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        0,
+        64,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.00.05",
+      "text": "Strike",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        0,
+        80,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.00.06",
+      "text": "Slam",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        0,
+        96,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.00.07",
+      "text": "Charge",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        0,
+        112,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.00.08",
+      "text": "Big Punch",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        0,
+        128,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.00.09",
+      "text": "Spin",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        0,
+        144,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.00.10",
+      "text": "Rush",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        0,
+        160,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.00.11",
+      "text": "Throw Rock",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        0,
+        176,
+        64,
+        16
+      ],
+      "font_size": 11,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.00.12",
+      "text": "Bow",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        0,
+        192,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.00.13",
+      "text": "Spray",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        0,
+        208,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.00.14",
+      "text": "Freeze",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        0,
+        224,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.00.15",
+      "text": "Fan",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        0,
+        240,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.00.16",
+      "text": "Whirlwind",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        0,
+        256,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.00.17",
+      "text": "Flame",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        0,
+        272,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.00.18",
+      "text": "Yay!",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        0,
+        288,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.00.19",
+      "text": "Fireball",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        0,
+        304,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.00.20",
+      "text": "Laser",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        0,
+        320,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.00.21",
+      "text": "Rifle",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        0,
+        336,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.00.22",
+      "text": "Shock",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        0,
+        352,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.00.23",
+      "text": "Pistol",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        0,
+        368,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.00.24",
+      "text": "Machine Gun",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        0,
+        384,
+        64,
+        16
+      ],
+      "font_size": 9,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.00.25",
+      "text": "Bazooka",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        0,
+        400,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.00.26",
+      "text": "Missile",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        0,
+        416,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.00.27",
+      "text": "Shuriken",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        0,
+        432,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.00.28",
+      "text": "Bomb",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        0,
+        448,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.00.29",
+      "text": "Banana",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        0,
+        464,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.00.30",
+      "text": "Slash",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        0,
+        480,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.00.31",
+      "text": "Key Swing",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        0,
+        496,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.01.00",
+      "text": "None",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        64,
+        0,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.01.01",
+      "text": "Bomb",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        64,
+        16,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.01.02",
+      "text": "Spin",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        64,
+        32,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.01.03",
+      "text": "Dash",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        64,
+        48,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.01.04",
+      "text": "Guard",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        64,
+        64,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.01.05",
+      "text": "Hide",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        64,
+        80,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.01.06",
+      "text": "Leap",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        64,
+        96,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.01.07",
+      "text": "Throw Rock",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        64,
+        112,
+        64,
+        16
+      ],
+      "font_size": 11,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.01.08",
+      "text": "Flap",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        64,
+        128,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.01.09",
+      "text": "Fever",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        64,
+        144,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.01.10",
+      "text": "Big Punch",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        64,
+        160,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.01.11",
+      "text": "Swim",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        64,
+        176,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.01.12",
+      "text": "Aim",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        64,
+        192,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.01.13",
+      "text": "Swing",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        64,
+        208,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.01.14",
+      "text": "Big Spin",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        64,
+        224,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.01.15",
+      "text": "Open",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        64,
+        240,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.01.16",
+      "text": "Breathe Fire",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        64,
+        256,
+        64,
+        16
+      ],
+      "font_size": 11,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.01.17",
+      "text": "High Jump",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        64,
+        272,
+        64,
+        16
+      ],
+      "font_size": 11,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.01.18",
+      "text": "Bomb",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        64,
+        288,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.01.19",
+      "text": "Shuriken",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        64,
+        304,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.01.20",
+      "text": "3 Shuriken",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        64,
+        320,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.01.21",
+      "text": "Dive",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        64,
+        336,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.01.22",
+      "text": "Rope",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        64,
+        352,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.01.23",
+      "text": "Crank",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        64,
+        368,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.01.25",
+      "text": "Missile",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        64,
+        400,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.01.26",
+      "text": "Laser",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        64,
+        416,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.01.27",
+      "text": "Heart Beam",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        64,
+        432,
+        64,
+        16
+      ],
+      "font_size": 11,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.01.28",
+      "text": "Banana",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        64,
+        448,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.02.00",
+      "text": "Jump",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        128,
+        0,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.02.01",
+      "text": "Fly",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        128,
+        16,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.02.02",
+      "text": "Get Off",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        128,
+        32,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.02.03",
+      "text": "Jet",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        128,
+        48,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gameplay.action.03.00",
+      "text": "Catch",
+      "asset": "common00/action_name.tm2",
+      "rect": [
+        192,
+        0,
+        64,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "screen.heading.01",
+      "text": "Time Attack",
+      "asset": "e_tit_0.lzs",
+      "rect": [
+        0,
+        24,
+        224,
+        24
+      ],
+      "font_size": 18,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "screen.heading.03",
+      "text": "Name Your Card",
+      "asset": "e_tit_0.lzs",
+      "rect": [
+        0,
+        72,
+        224,
+        24
+      ],
+      "font_size": 18,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "screen.heading.04",
+      "text": "Name Your Album",
+      "asset": "e_tit_0.lzs",
+      "rect": [
+        0,
+        96,
+        224,
+        24
+      ],
+      "font_size": 18,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "screen.heading.05",
+      "text": "View Cards",
+      "asset": "e_tit_0.lzs",
+      "rect": [
+        0,
+        120,
+        224,
+        24
+      ],
+      "font_size": 18,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "screen.heading.06",
+      "text": "Free Play",
+      "asset": "e_tit_0.lzs",
+      "rect": [
+        0,
+        144,
+        224,
+        24
+      ],
+      "font_size": 18,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "screen.heading.07",
+      "text": "Monkey Book",
+      "asset": "e_tit_0.lzs",
+      "rect": [
+        0,
+        168,
+        224,
+        24
+      ],
+      "font_size": 18,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "screen.heading.08",
+      "text": "Trial Battle",
+      "asset": "e_tit_0.lzs",
+      "rect": [
+        0,
+        192,
+        224,
+        24
+      ],
+      "font_size": 18,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "screen.heading.09",
+      "text": "Multiplayer Battle",
+      "asset": "e_tit_0.lzs",
+      "rect": [
+        0,
+        216,
+        224,
+        24
+      ],
+      "font_size": 18,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "screen.heading.10",
+      "text": "Select Album",
+      "asset": "e_tit_0.lzs",
+      "rect": [
+        0,
+        240,
+        224,
+        24
+      ],
+      "font_size": 18,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "screen.heading.11",
+      "text": "Select Card",
+      "asset": "e_tit_0.lzs",
+      "rect": [
+        0,
+        264,
+        224,
+        24
+      ],
+      "font_size": 18,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "screen.heading.12",
+      "text": "Select Opponent",
+      "asset": "e_tit_0.lzs",
+      "rect": [
+        0,
+        288,
+        224,
+        24
+      ],
+      "font_size": 18,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "screen.heading.13",
+      "text": "Select Support Card",
+      "asset": "e_tit_0.lzs",
+      "rect": [
+        0,
+        312,
+        224,
+        24
+      ],
+      "font_size": 18,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "screen.heading.14",
+      "text": "Got a Card!",
+      "asset": "e_tit_0.lzs",
+      "rect": [
+        0,
+        336,
+        224,
+        24
+      ],
+      "font_size": 18,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "screen.heading.15",
+      "text": "Card Lost!",
+      "asset": "e_tit_0.lzs",
+      "rect": [
+        0,
+        360,
+        224,
+        24
+      ],
+      "font_size": 18,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "screen.heading.16",
+      "text": "Monkey Picture",
+      "asset": "e_tit_0.lzs",
+      "rect": [
+        0,
+        384,
+        224,
+        24
+      ],
+      "font_size": 18,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "screen.heading.17",
+      "text": "Background",
+      "asset": "e_tit_0.lzs",
+      "rect": [
+        0,
+        408,
+        224,
+        24
+      ],
+      "font_size": 18,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "screen.heading.18",
+      "text": "Gachi King",
+      "asset": "e_tit_0.lzs",
+      "rect": [
+        0,
+        432,
+        224,
+        24
+      ],
+      "font_size": 18,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "screen.heading.19",
+      "text": "Capsule Shop",
+      "asset": "e_tit_0.lzs",
+      "rect": [
+        0,
+        456,
+        224,
+        24
+      ],
+      "font_size": 18,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.small.00",
+      "text": "Sunshine Beach",
+      "asset": "common/e_stage.tm2",
+      "rect": [
+        0,
+        0,
+        160,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.title.00",
+      "text": "Sunshine Beach",
+      "asset": "tenso/e_s_title_1.tm2",
+      "rect": [
+        0,
+        0,
+        288,
+        64
+      ],
+      "font_size": 24,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.small.01",
+      "text": "Splash Splash Jungle",
+      "asset": "common/e_stage.tm2",
+      "rect": [
+        0,
+        16,
+        160,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.title.01",
+      "text": "Splash Splash Jungle",
+      "asset": "tenso/e_s_title_1.tm2",
+      "rect": [
+        0,
+        64,
+        288,
+        64
+      ],
+      "font_size": 24,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.small.02",
+      "text": "Deep Dread Palace",
+      "asset": "common/e_stage.tm2",
+      "rect": [
+        0,
+        32,
+        160,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.title.02",
+      "text": "Deep Dread Palace",
+      "asset": "tenso/e_s_title_1.tm2",
+      "rect": [
+        0,
+        128,
+        288,
+        64
+      ],
+      "font_size": 24,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.small.03",
+      "text": "Showdown! Ukki Red",
+      "asset": "common/e_stage.tm2",
+      "rect": [
+        0,
+        48,
+        160,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.title.03",
+      "text": "Showdown! Ukki Red",
+      "asset": "tenso/e_s_title_1.tm2",
+      "rect": [
+        0,
+        192,
+        288,
+        64
+      ],
+      "font_size": 24,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.small.04",
+      "text": "Ancient Museum",
+      "asset": "common/e_stage.tm2",
+      "rect": [
+        0,
+        64,
+        160,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.title.04",
+      "text": "Ancient Museum",
+      "asset": "tenso/e_s_title_1.tm2",
+      "rect": [
+        0,
+        256,
+        288,
+        64
+      ],
+      "font_size": 24,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.small.05",
+      "text": "Sheer Cliff Castle",
+      "asset": "common/e_stage.tm2",
+      "rect": [
+        0,
+        80,
+        160,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.title.05",
+      "text": "Sheer Cliff Castle",
+      "asset": "tenso/e_s_title_1.tm2",
+      "rect": [
+        0,
+        320,
+        288,
+        64
+      ],
+      "font_size": 24,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.small.06",
+      "text": "Somewhere Ruins",
+      "asset": "common/e_stage.tm2",
+      "rect": [
+        0,
+        96,
+        160,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.title.06",
+      "text": "Somewhere Ruins",
+      "asset": "tenso/e_s_title_1.tm2",
+      "rect": [
+        0,
+        384,
+        288,
+        64
+      ],
+      "font_size": 24,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.small.07",
+      "text": "Showdown! Ukki Blue",
+      "asset": "common/e_stage.tm2",
+      "rect": [
+        0,
+        112,
+        160,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.title.07",
+      "text": "Showdown! Ukki Blue",
+      "asset": "tenso/e_s_title_1.tm2",
+      "rect": [
+        0,
+        448,
+        288,
+        64
+      ],
+      "font_size": 24,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.small.08",
+      "text": "Mean Lab",
+      "asset": "common/e_stage.tm2",
+      "rect": [
+        0,
+        128,
+        160,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.title.08",
+      "text": "Mean Lab",
+      "asset": "tenso/e_s_title_2.tm2",
+      "rect": [
+        0,
+        0,
+        288,
+        64
+      ],
+      "font_size": 24,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.small.09",
+      "text": "What-Makes Factory",
+      "asset": "common/e_stage.tm2",
+      "rect": [
+        0,
+        144,
+        160,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.title.09",
+      "text": "What-Makes Factory",
+      "asset": "tenso/e_s_title_2.tm2",
+      "rect": [
+        0,
+        64,
+        288,
+        64
+      ],
+      "font_size": 24,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.small.10",
+      "text": "Sweet Trap Mountain",
+      "asset": "common/e_stage.tm2",
+      "rect": [
+        0,
+        160,
+        160,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.title.10",
+      "text": "Sweet Trap Mountain",
+      "asset": "tenso/e_s_title_2.tm2",
+      "rect": [
+        0,
+        128,
+        288,
+        64
+      ],
+      "font_size": 24,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.small.11",
+      "text": "Showdown! Ukki Yellow",
+      "asset": "common/e_stage.tm2",
+      "rect": [
+        0,
+        176,
+        160,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.title.11",
+      "text": "Showdown! Ukki Yellow",
+      "asset": "tenso/e_s_title_2.tm2",
+      "rect": [
+        0,
+        192,
+        288,
+        64
+      ],
+      "font_size": 24,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.small.12",
+      "text": "Traps Everywhere Park",
+      "asset": "common/e_stage.tm2",
+      "rect": [
+        0,
+        192,
+        160,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.title.12",
+      "text": "Traps Everywhere Park",
+      "asset": "tenso/e_s_title_2.tm2",
+      "rect": [
+        0,
+        256,
+        288,
+        64
+      ],
+      "font_size": 24,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.small.13",
+      "text": "Dizzy Airship Fleet",
+      "asset": "common/e_stage.tm2",
+      "rect": [
+        0,
+        208,
+        160,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.title.13",
+      "text": "Dizzy Airship Fleet",
+      "asset": "tenso/e_s_title_2.tm2",
+      "rect": [
+        0,
+        320,
+        288,
+        64
+      ],
+      "font_size": 24,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.small.14",
+      "text": "Gloomy Horror House",
+      "asset": "common/e_stage.tm2",
+      "rect": [
+        0,
+        224,
+        160,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.title.14",
+      "text": "Gloomy Horror House",
+      "asset": "tenso/e_s_title_2.tm2",
+      "rect": [
+        0,
+        384,
+        288,
+        64
+      ],
+      "font_size": 24,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.small.15",
+      "text": "Showdown! Ukki Pink",
+      "asset": "common/e_stage.tm2",
+      "rect": [
+        0,
+        240,
+        160,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.title.15",
+      "text": "Showdown! Ukki Pink",
+      "asset": "tenso/e_s_title_2.tm2",
+      "rect": [
+        0,
+        448,
+        288,
+        64
+      ],
+      "font_size": 24,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.small.16",
+      "text": "Deep Woods Fortress",
+      "asset": "common/e_stage.tm2",
+      "rect": [
+        0,
+        256,
+        160,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.title.16",
+      "text": "Deep Woods Fortress",
+      "asset": "tenso/e_s_title_3.tm2",
+      "rect": [
+        0,
+        0,
+        288,
+        64
+      ],
+      "font_size": 24,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.small.17",
+      "text": "Electric Shock Base",
+      "asset": "common/e_stage.tm2",
+      "rect": [
+        0,
+        272,
+        160,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.title.17",
+      "text": "Electric Shock Base",
+      "asset": "tenso/e_s_title_3.tm2",
+      "rect": [
+        0,
+        64,
+        288,
+        64
+      ],
+      "font_size": 24,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.small.18",
+      "text": "Gigantic Satellite",
+      "asset": "common/e_stage.tm2",
+      "rect": [
+        0,
+        288,
+        160,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.title.18",
+      "text": "Gigantic Satellite",
+      "asset": "tenso/e_s_title_3.tm2",
+      "rect": [
+        0,
+        128,
+        288,
+        64
+      ],
+      "font_size": 24,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.small.19",
+      "text": "Showdown! Ukki White",
+      "asset": "common/e_stage.tm2",
+      "rect": [
+        0,
+        304,
+        160,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.title.19",
+      "text": "Showdown! Ukki White",
+      "asset": "tenso/e_s_title_3.tm2",
+      "rect": [
+        0,
+        192,
+        288,
+        64
+      ],
+      "font_size": 24,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.small.20",
+      "text": "Decisive Battle! Specter",
+      "asset": "common/e_stage.tm2",
+      "rect": [
+        0,
+        320,
+        160,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.title.20",
+      "text": "Decisive Battle! Specter",
+      "asset": "tenso/e_s_title_3.tm2",
+      "rect": [
+        0,
+        256,
+        288,
+        64
+      ],
+      "font_size": 24,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.small.21",
+      "text": "Final Showdown! Specter",
+      "asset": "common/e_stage.tm2",
+      "rect": [
+        0,
+        336,
+        160,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "stage.title.21",
+      "text": "Final Showdown! Specter",
+      "asset": "tenso/e_s_title_3.tm2",
+      "rect": [
+        0,
+        320,
+        288,
+        64
+      ],
+      "font_size": 24,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "e_end_0.0",
+      "text": "Goal!!",
+      "asset": "common/e_end_0.tm2",
+      "rect": [
+        0,
+        0,
+        256,
+        64
+      ],
+      "font_size": 24,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "e_end_0.1",
+      "text": "Stage Clear",
+      "asset": "common/e_end_0.tm2",
+      "rect": [
+        0,
+        64,
+        256,
+        64
+      ],
+      "font_size": 24,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "e_end_0.2",
+      "text": "Game Over",
+      "asset": "common/e_end_0.tm2",
+      "rect": [
+        0,
+        128,
+        256,
+        64
+      ],
+      "font_size": 24,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "e_end_2.0",
+      "text": "Too Bad!",
+      "asset": "common/e_end_2.tm2",
+      "rect": [
+        0,
+        0,
+        256,
+        64
+      ],
+      "font_size": 24,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "e_end_2.1",
+      "text": "Record Beaten!",
+      "asset": "common/e_end_2.tm2",
+      "rect": [
+        0,
+        64,
+        256,
+        64
+      ],
+      "font_size": 24,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "e_end_2.2",
+      "text": "New Record!",
+      "asset": "common/e_end_2.tm2",
+      "rect": [
+        0,
+        128,
+        256,
+        64
+      ],
+      "font_size": 24,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "e_boss.0",
+      "text": "Ukki Blue",
+      "asset": "common/e_boss.tm2",
+      "rect": [
+        0,
+        0,
+        192,
+        24
+      ],
+      "font_size": 24,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "e_boss.1",
+      "text": "Ukki Pink",
+      "asset": "common/e_boss.tm2",
+      "rect": [
+        0,
+        24,
+        192,
+        24
+      ],
+      "font_size": 24,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "e_boss.2",
+      "text": "Ukki Red",
+      "asset": "common/e_boss.tm2",
+      "rect": [
+        0,
+        48,
+        192,
+        24
+      ],
+      "font_size": 24,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "e_boss.3",
+      "text": "Ukki White",
+      "asset": "common/e_boss.tm2",
+      "rect": [
+        0,
+        72,
+        192,
+        24
+      ],
+      "font_size": 24,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "e_boss.4",
+      "text": "Ukki Yellow",
+      "asset": "common/e_boss.tm2",
+      "rect": [
+        0,
+        96,
+        192,
+        24
+      ],
+      "font_size": 24,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "e_boss.5",
+      "text": "Specter",
+      "asset": "common/e_boss.tm2",
+      "rect": [
+        0,
+        120,
+        192,
+        24
+      ],
+      "font_size": 22,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "e_kaza_c0.0",
+      "text": "Gold Class",
+      "asset": "common/e_kaza_c0.tm2",
+      "rect": [
+        0,
+        0,
+        128,
+        24
+      ],
+      "font_size": 24,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "e_kaza_c0.1",
+      "text": "Silver Class",
+      "asset": "common/e_kaza_c0.tm2",
+      "rect": [
+        0,
+        24,
+        128,
+        24
+      ],
+      "font_size": 24,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "e_kaza_c0.2",
+      "text": "Bronze Class",
+      "asset": "common/e_kaza_c0.tm2",
+      "rect": [
+        0,
+        48,
+        128,
+        24
+      ],
+      "font_size": 21,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "common.e_nabi_a4.tm2.0",
+      "text": "Perfect!",
+      "asset": "common/e_nabi_a4.tm2",
+      "rect": [
+        0,
+        0,
+        288,
+        32
+      ],
+      "font_size": 20,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "common.e_nabi_a4.tm2.1",
+      "text": "Stage Cleared!!",
+      "asset": "common/e_nabi_a4.tm2",
+      "rect": [
+        0,
+        32,
+        288,
+        32
+      ],
+      "font_size": 20,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "common.e_nabi_a4.tm2.2",
+      "text": "This Stage",
+      "asset": "common/e_nabi_a4.tm2",
+      "rect": [
+        0,
+        64,
+        288,
+        32
+      ],
+      "font_size": 20,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "common.e_nabi_a4.tm2.3",
+      "text": "Start!",
+      "asset": "common/e_nabi_a4.tm2",
+      "rect": [
+        0,
+        160,
+        288,
+        32
+      ],
+      "font_size": 20,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "common.e_nabi_a2.tm2.0",
+      "text": "Reach the Goal!",
+      "asset": "common/e_nabi_a2.tm2",
+      "rect": [
+        0,
+        0,
+        320,
+        32
+      ],
+      "font_size": 20,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "common.e_nabi_b0.tm2.0",
+      "text": "Current Best Time",
+      "asset": "common/e_nabi_b0.tm2",
+      "rect": [
+        0,
+        0,
+        160,
+        16
+      ],
+      "font_size": 16,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "common.e_nabi_b1.tm2.0",
+      "text": "Escape",
+      "asset": "common/e_nabi_b1.tm2",
+      "rect": [
+        0,
+        0,
+        96,
+        16
+      ],
+      "font_size": 13,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "common.e_nabi_b2.tm2.0",
+      "text": "Total Monkeys Caught",
+      "asset": "common/e_nabi_b2.tm2",
+      "rect": [
+        0,
+        0,
+        256,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "common.e_nabi_b2.tm2.1",
+      "text": "Your Time",
+      "asset": "common/e_nabi_b2.tm2",
+      "rect": [
+        0,
+        16,
+        256,
+        16
+      ],
+      "font_size": 16,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "common.e_nabi_b2.tm2.2",
+      "text": "Result",
+      "asset": "common/e_nabi_b2.tm2",
+      "rect": [
+        0,
+        32,
+        256,
+        16
+      ],
+      "font_size": 15,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "common.e_kaza_0.tm2.0",
+      "text": "Clear",
+      "asset": "common/e_kaza_0.tm2",
+      "rect": [
+        0,
+        0,
+        96,
+        32
+      ],
+      "font_size": 20,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "common.e_kaza_0.tm2.1",
+      "text": "Perfect",
+      "asset": "common/e_kaza_0.tm2",
+      "rect": [
+        0,
+        32,
+        96,
+        16
+      ],
+      "font_size": 15,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "common.e_kaza_0.tm2.2",
+      "text": "Clear",
+      "asset": "common/e_kaza_0.tm2",
+      "rect": [
+        0,
+        48,
+        96,
+        32
+      ],
+      "font_size": 20,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "menko.e_tit_1.lzs.0",
+      "text": "Gachi Shop",
+      "asset": "menko/e_tit_1.lzs",
+      "rect": [
+        0,
+        0,
+        224,
+        24
+      ],
+      "font_size": 20,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "menko.e_tit_1.lzs.1",
+      "text": "Art Gallery",
+      "asset": "menko/e_tit_1.lzs",
+      "rect": [
+        0,
+        24,
+        224,
+        24
+      ],
+      "font_size": 20,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "menko.e_tit_1.lzs.2",
+      "text": "Music Box",
+      "asset": "menko/e_tit_1.lzs",
+      "rect": [
+        0,
+        48,
+        224,
+        24
+      ],
+      "font_size": 20,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "menko.e_tit_1.lzs.3",
+      "text": "Monkey Album",
+      "asset": "menko/e_tit_1.lzs",
+      "rect": [
+        0,
+        72,
+        224,
+        24
+      ],
+      "font_size": 20,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "menko.e_tit_1.lzs.4",
+      "text": "Movie Box",
+      "asset": "menko/e_tit_1.lzs",
+      "rect": [
+        0,
+        96,
+        224,
+        24
+      ],
+      "font_size": 20,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "menko.e_tit_1.lzs.5",
+      "text": "Monkey Book",
+      "asset": "menko/e_tit_1.lzs",
+      "rect": [
+        0,
+        120,
+        224,
+        24
+      ],
+      "font_size": 20,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "menko.e_tit_1.lzs.6",
+      "text": "Solo Battle",
+      "asset": "menko/e_tit_1.lzs",
+      "rect": [
+        0,
+        144,
+        224,
+        24
+      ],
+      "font_size": 20,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "menko.e_tit_2.lzs.0",
+      "text": "Tutorial",
+      "asset": "menko/e_tit_2.lzs",
+      "rect": [
+        0,
+        0,
+        224,
+        24
+      ],
+      "font_size": 20,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gachi.cartridge.0.logo",
+      "text": "Gachi King",
+      "asset": "menko/i_g_obj_0.lzs",
+      "rect": [
+        0,
+        16,
+        64,
+        20
+      ],
+      "font_size": 10,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gachi.cartridge.0.mode",
+      "text": "Solo",
+      "asset": "menko/i_g_obj_0.lzs",
+      "rect": [
+        0,
+        38,
+        64,
+        16
+      ],
+      "font_size": 11,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gachi.cartridge.1.logo",
+      "text": "Gachi King",
+      "asset": "menko/i_g_obj_1.lzs",
+      "rect": [
+        0,
+        16,
+        64,
+        20
+      ],
+      "font_size": 10,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gachi.cartridge.1.mode",
+      "text": "Versus",
+      "asset": "menko/i_g_obj_1.lzs",
+      "rect": [
+        0,
+        38,
+        64,
+        16
+      ],
+      "font_size": 11,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gachi.cartridge.2.logo",
+      "text": "Gachi King",
+      "asset": "menko/i_g_obj_2.lzs",
+      "rect": [
+        0,
+        16,
+        64,
+        20
+      ],
+      "font_size": 10,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gachi.cartridge.2.mode",
+      "text": "Trial",
+      "asset": "menko/i_g_obj_2.lzs",
+      "rect": [
+        0,
+        38,
+        64,
+        16
+      ],
+      "font_size": 11,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "collection.icon.3",
+      "text": "Monkey Album",
+      "asset": "menko/i_g_obj_3.lzs",
+      "rect": [
+        0,
+        8,
+        64,
+        48
+      ],
+      "font_size": 8,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "collection.icon.4",
+      "text": "Album",
+      "asset": "menko/i_g_obj_4.lzs",
+      "rect": [
+        0,
+        8,
+        64,
+        48
+      ],
+      "font_size": 11,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "collection.icon.5",
+      "text": "Gachi Shop",
+      "asset": "menko/i_g_obj_5.lzs",
+      "rect": [
+        0,
+        8,
+        64,
+        48
+      ],
+      "font_size": 11,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "collection.icon.6",
+      "text": "Tutorial",
+      "asset": "menko/i_g_obj_6.lzs",
+      "rect": [
+        0,
+        8,
+        64,
+        48
+      ],
+      "font_size": 11,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "laboratory.sign.0",
+      "text": "Warp Device",
+      "asset": "lab/o_kizai_0.tm2",
+      "rect": [
+        0,
+        0,
+        128,
+        16
+      ],
+      "font_size": 11,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "laboratory.sign.1",
+      "text": "Data Device",
+      "asset": "lab/o_kizai_0.tm2",
+      "rect": [
+        0,
+        16,
+        128,
+        16
+      ],
+      "font_size": 11,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "laboratory.sign.2",
+      "text": "Collection",
+      "asset": "lab/o_kizai_0.tm2",
+      "rect": [
+        0,
+        32,
+        128,
+        16
+      ],
+      "font_size": 11,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "laboratory.sign.3",
+      "text": "Minigames",
+      "asset": "lab/o_kizai_0.tm2",
+      "rect": [
+        0,
+        48,
+        128,
+        16
+      ],
+      "font_size": 11,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "pause.button.0",
+      "text": "Resume Game",
+      "asset": "common/b_drm_0.tm2",
+      "rect": [
+        0,
+        0,
+        128,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "pause.button.1",
+      "text": "Options",
+      "asset": "common/b_drm_0.tm2",
+      "rect": [
+        0,
+        16,
+        128,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "pause.button.2",
+      "text": "Leave Stage",
+      "asset": "common/b_drm_0.tm2",
+      "rect": [
+        0,
+        32,
+        128,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "pause.button.3",
+      "text": "Yes",
+      "asset": "common/b_drm_0.tm2",
+      "rect": [
+        0,
+        48,
+        128,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "pause.button.4",
+      "text": "No",
+      "asset": "common/b_drm_0.tm2",
+      "rect": [
+        0,
+        64,
+        128,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "pause.button.5",
+      "text": "Retry",
+      "asset": "common/b_drm_0.tm2",
+      "rect": [
+        0,
+        80,
+        128,
+        16
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "pause.alternate.0",
+      "text": "Resume Game",
+      "asset": "common/PauseMenu.tm2",
+      "rect": [
+        0,
+        0,
+        224,
+        24
+      ],
+      "font_size": 18,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "pause.alternate.1",
+      "text": "Leave Stage",
+      "asset": "common/PauseMenu.tm2",
+      "rect": [
+        0,
+        24,
+        224,
+        24
+      ],
+      "font_size": 18,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "pause.alternate.2",
+      "text": "Leave this stage.",
+      "asset": "common/PauseMenu.tm2",
+      "rect": [
+        0,
+        48,
+        224,
+        24
+      ],
+      "font_size": 18,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "pause.alternate.3",
+      "text": "Options",
+      "asset": "common/PauseMenu.tm2",
+      "rect": [
+        0,
+        72,
+        224,
+        24
+      ],
+      "font_size": 18,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "pause.alternate.4",
+      "text": "Change the settings.",
+      "asset": "common/PauseMenu.tm2",
+      "rect": [
+        0,
+        96,
+        224,
+        24
+      ],
+      "font_size": 18,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "pause.alternate.5",
+      "text": "Remaining",
+      "asset": "common/PauseMenu.tm2",
+      "rect": [
+        0,
+        120,
+        224,
+        24
+      ],
+      "font_size": 18,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "pause.alternate.6",
+      "text": "Monkeys",
+      "asset": "common/PauseMenu.tm2",
+      "rect": [
+        0,
+        144,
+        224,
+        24
+      ],
+      "font_size": 18,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "pause.alternate.7",
+      "text": "Cancel",
+      "asset": "common/PauseMenu.tm2",
+      "rect": [
+        0,
+        168,
+        224,
+        24
+      ],
+      "font_size": 18,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "pause.alternate.8",
+      "text": "OK",
+      "asset": "common/PauseMenu.tm2",
+      "rect": [
+        0,
+        192,
+        224,
+        24
+      ],
+      "font_size": 18,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "pause.counter.remaining",
+      "text": "Remaining",
+      "asset": "common/e_tan_6.tm2",
+      "rect": [
+        0,
+        0,
+        64,
+        32
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "pause.counter.monkeys",
+      "text": "Monkeys",
+      "asset": "common/e_tan_6.tm2",
+      "rect": [
+        64,
+        64,
+        64,
+        32
+      ],
+      "font_size": 12,
+      "origin": "machine_translation",
+      "review_status": "draft"
     }
   ],
   "strings": [
@@ -978,6 +3694,258 @@
       "text": "Enter your player name.",
       "max_columns": 44,
       "max_lines": 5
+    },
+    {
+      "id": "gachi.help.album",
+      "offset": 2255900,
+      "text": "Create or view a Monkey Album.",
+      "max_columns": 44,
+      "max_lines": 1,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gachi.help.shop",
+      "offset": 2255956,
+      "text": "Buy backgrounds and frames for Gachi Cards.",
+      "max_columns": 44,
+      "max_lines": 1,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gachi.help.multiplayer",
+      "offset": 2256012,
+      "text": "Battle friends who own a copy of the game.",
+      "max_columns": 44,
+      "max_lines": 1,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gachi.help.need_card",
+      "offset": 2256072,
+      "text": "Make a Gachi Card in Monkey Picture to play.",
+      "max_columns": 44,
+      "max_lines": 1,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gachi.help.solo",
+      "offset": 2256124,
+      "text": "Battle the computer using your Gachi Cards.",
+      "max_columns": 44,
+      "max_lines": 1,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gachi.help.sharing",
+      "offset": 2256180,
+      "text": "Try a battle using Game Sharing.",
+      "max_columns": 44,
+      "max_lines": 1,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gachi.help.picture",
+      "offset": 2256236,
+      "text": "Make cards with monkeys, backdrops, frames.",
+      "max_columns": 44,
+      "max_lines": 1,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gachi.help.need_background",
+      "offset": 2256288,
+      "text": "Get backgrounds and frames at Gachi Shop.",
+      "max_columns": 44,
+      "max_lines": 1,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gachi.help.need_monkey",
+      "offset": 2256344,
+      "text": "Catch some monkeys in the main game first.",
+      "max_columns": 44,
+      "max_lines": 1,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gachi.help.need_album",
+      "offset": 2256396,
+      "text": "Create a Monkey Album.",
+      "max_columns": 44,
+      "max_lines": 1,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gachi.help.tutorial",
+      "offset": 2256424,
+      "text": "Learn how to play Gachi King here.",
+      "max_columns": 44,
+      "max_lines": 1,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "collection.help.monkeys",
+      "offset": 2256472,
+      "text": "View the monkeys you have caught.",
+      "max_columns": 44,
+      "max_lines": 1,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "collection.help.warborgs",
+      "offset": 2256524,
+      "text": "View Warborgs you got from the shop.",
+      "max_columns": 44,
+      "max_lines": 1,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "collection.help.art",
+      "offset": 2256576,
+      "text": "View concept art you got from the shop.",
+      "max_columns": 44,
+      "max_lines": 1,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "collection.help.music",
+      "offset": 2256632,
+      "text": "Listen to music you got from the shop.",
+      "max_columns": 44,
+      "max_lines": 1,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "collection.help.movies",
+      "offset": 2256684,
+      "text": "Watch movies you got from the shop.",
+      "max_columns": 44,
+      "max_lines": 1,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "collection.help.shop",
+      "offset": 2256736,
+      "text": "Spend Gacha Chips on a variety of items.",
+      "max_columns": 44,
+      "max_lines": 1,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gachi.label.about",
+      "offset": 2256796,
+      "text": "Gachi King",
+      "max_columns": 44,
+      "max_lines": 1,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gachi.label.shop",
+      "offset": 2256812,
+      "text": "Gachi Shop",
+      "max_columns": 44,
+      "max_lines": 1,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gachi.label.album",
+      "offset": 2256828,
+      "text": "Album",
+      "max_columns": 44,
+      "max_lines": 1,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gachi.label.picture",
+      "offset": 2256840,
+      "text": "Picture",
+      "max_columns": 44,
+      "max_lines": 1,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gachi.label.rules",
+      "offset": 2256856,
+      "text": "Gachi Rules",
+      "max_columns": 44,
+      "max_lines": 1,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "gachi.label.multiplayer",
+      "offset": 2256876,
+      "text": "Link Battle",
+      "max_columns": 44,
+      "max_lines": 1,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "capsule.prize.0",
+      "offset": 2227672,
+      "text": "Warborg Photo\nWin a Warborg photo.\n30 chips per try",
+      "max_columns": 44,
+      "max_lines": 3,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "capsule.prize.1",
+      "offset": 2227744,
+      "text": "Artwork\nWin artwork.\n40 chips per try",
+      "max_columns": 44,
+      "max_lines": 3,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "capsule.prize.2",
+      "offset": 2227792,
+      "text": "Music CD\nCollect a variety of songs.\n100 chips per try",
+      "max_columns": 44,
+      "max_lines": 3,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "capsule.prize.3",
+      "offset": 2227856,
+      "text": "Movie Tape\nCollect memorable scenes.\n200 chips per try",
+      "max_columns": 44,
+      "max_lines": 3,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "capsule.prize.4",
+      "offset": 2227932,
+      "text": "Battery\nMore battery power.\n150 chips per try",
+      "max_columns": 44,
+      "max_lines": 3,
+      "origin": "machine_translation",
+      "review_status": "draft"
     }
   ],
   "glyph_runs": [
@@ -1008,6 +3976,74 @@
       "width": 432,
       "glyph_count": 10,
       "signature": "9fa4a7829c6517978e9358663a0110cc0087ba50222bab43f06dd8d466a36ea3"
+    }
+  ],
+  "compact_ui": [
+    {
+      "id": "pause.help.resume",
+      "source_offset": 2332852,
+      "pointer_offset": 2609508,
+      "source_sha256": "d501929f537ae3b1ea7e49520ea0cd339e61bf3eb8f35e7d0e45b7eb71669565",
+      "text": "Resume game.",
+      "columns": 14,
+      "lines": 2,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "pause.help.leave",
+      "source_offset": 2332872,
+      "pointer_offset": 2609512,
+      "source_sha256": "88e3b7acaaee63a8b913591c4713cab8ca7e98a598f6dcbb210c087a91009e1e",
+      "text": "Leave this\nstage.",
+      "columns": 14,
+      "lines": 2,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "pause.help.settings",
+      "source_offset": 2332900,
+      "pointer_offset": 2609516,
+      "source_sha256": "9b539ee2bb3ba215616530675202a0c171d94d4f291edea2846d403b872e5e6d",
+      "text": "Change game\nsettings.",
+      "columns": 14,
+      "lines": 2,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "pause.help.confirm_leave",
+      "source_offset": 2333040,
+      "pointer_offset": 2609536,
+      "source_sha256": "8d7abed502dad78ec2d7058fdd61b87bd485f57bcca724e5c1fea8412f480a89",
+      "text": "Leave this\nstage?",
+      "columns": 14,
+      "lines": 2,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "pause.help.quit",
+      "source_offset": 2333072,
+      "pointer_offset": 2609540,
+      "source_sha256": "11633e478ee78bb698c5b9402d1de6879ec30ce8dde5e3d7e26b5839292dab23",
+      "text": "Quit to the\ntitle screen.",
+      "columns": 14,
+      "lines": 2,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "pause.help.confirm_quit",
+      "source_offset": 2333108,
+      "pointer_offset": 2609544,
+      "source_sha256": "b55f193de6021b26538d431810c356bdbc472b59647ef1bc4accd41830c5d323",
+      "text": "Quit game?",
+      "columns": 14,
+      "lines": 2,
+      "origin": "machine_translation",
+      "review_status": "draft"
     }
   ]
 }
