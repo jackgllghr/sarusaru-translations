@@ -3322,6 +3322,16 @@
       "font_size": 10,
       "style": "body",
       "align": "center"
+    },
+    {
+      "id": "gameplay.counter.remaining",
+      "text": "Left",
+      "asset": "common00/e_tan_2b.tm2",
+      "rect": [0, 0, 64, 24],
+      "text_rect": [0, 0, 40, 24],
+      "font_size": 11,
+      "origin": "machine_translation",
+      "review_status": "draft"
     }
   ],
   "strings": [
