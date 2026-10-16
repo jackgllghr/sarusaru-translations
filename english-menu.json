@@ -3313,6 +3313,15 @@
       "font_size": 12,
       "origin": "machine_translation",
       "review_status": "draft"
+    },
+    {
+      "id": "title.copyright",
+      "text": "©2007 Sony Computer Entertainment Inc. All Rights Reserved.",
+      "asset": "i_g_c.lzs",
+      "rect": [0, 0, 384, 16],
+      "font_size": 10,
+      "style": "body",
+      "align": "center"
     }
   ],
   "strings": [
