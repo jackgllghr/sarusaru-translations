@@ -16,8 +16,8 @@ from the launcher, which downloads a pack built from these catalogs.
 
 | File | Contents |
 | --- | --- |
-| `english-menu.json` | Title, main menu, save/load and Options labels, strings and help lines; 65 in-game action/control prompts and stage, results, collection, Capsule Shop, pause and Gachi King UI |
-| `english-gameplay-v1.json` | Character, enemy, stage and area names, plus 207 monkey names |
+| `english-menu.json` | Title, main menu, save/load and Options labels, strings and help lines; 65 in-game action/control prompts and stage, results, collection (including the Monkey Book headings), Capsule Shop, pause and Gachi King UI |
+| `english-gameplay-v1.json` | Character, enemy, stage and area names, plus 207 monkey names and their Monkey Book kinds, descriptions and actions |
 | `english-dialogue-v1.json` | Tutorial and story dialogue pages |
 | `subtitles/<movie>.en.srt` | Subtitles for the cutscene movies `m01`-`m16`, transcribed from their audio and machine-translated |
 
