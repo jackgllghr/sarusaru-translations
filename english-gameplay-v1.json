@@ -2834,5 +2834,2674 @@
       "review_status": "draft",
       "origin": "machine_translation"
     }
+  ],
+  "monkey_book": [
+    {
+      "id": "monkey.record_001.description",
+      "source_sha256": "6aa898f5788bbbf31ad7e66f05879fdc8692bbeab5f8669124e10941be7700be",
+      "text": "Nice to meet you! I'm Montan.",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_001.kind",
+      "source_sha256": "e29c1f3d37b257952cb0c1320b255da0f461d9bf3b693df650b66c011189752e",
+      "text": "Yellow Pants",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_001.square",
+      "source_sha256": "90fd68169555505b06d5f1c7b9193bb7888de8ad28e2fe657dac786383d5edc2",
+      "text": "Throw a rock",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_001.circle",
+      "source_sha256": "971e3329a5b1a7af2b650c8f88a67a65bfd2401425334aecb4f18c42cf6b201a",
+      "text": "Two-handed scratch",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_001.cross",
+      "source_sha256": "11e4e26ad74f0018e0648e675bf2da6628cf3c7a188a911e6db3f344d1894a72",
+      "text": "Jump",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_002.description",
+      "source_sha256": "4691d60bd299b5798e1dfff4adaa08874dc5ccf09346be3445b94de2d5f08f0d",
+      "text": "Loves the smell of coffee",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_002.kind",
+      "source_sha256": "2fa49c47c1cef499197e7c0d7513a0ae2ee0cfa12cc5af1b43f779cb2e2743d6",
+      "text": "On a Break",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_003.description",
+      "source_sha256": "2d84651428e8439052cc547ef37cf6470048d9c801120263b3455a8eda58a17b",
+      "text": "Takes it out on things when angry",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_003.kind",
+      "source_sha256": "2ddc9fcfa0a874d6355ed708f310ef17ad8a80d36ba44d0ebf5bcc21f55ff488",
+      "text": "Red Pants",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_003.square",
+      "source_sha256": "f08769f3b484e328e21092a29ba0e4356bca57743e6f5e63f249993d7be57572",
+      "text": "Powerful jump punch",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_003.circle",
+      "source_sha256": "26314bc189fd5b73a0f30358ca5615364e29f2fa2fa877b22cbca91f3b98f6d7",
+      "text": "Quick punch",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_004.description",
+      "source_sha256": "379f582a5fc53503e846f5ca9234de45c08b1f3a1dfb61d4849266f3560637b1",
+      "text": "The key's so heavy, my back hurts",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_004.kind",
+      "source_sha256": "20f7c374ec8d200a35bd78529a6680f02d015e8a7c083eb2ac14ff8f36f7ff78",
+      "text": "Gatekeeper",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_004.square",
+      "source_sha256": "0b45339a75f98ca2e79ab23f6e96cff9fb9f4a0b031b41bc8448a18cd7bf4a50",
+      "text": "Throw a banana peel",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_004.circle",
+      "source_sha256": "5cfc4ee6f67018b51b8b05334beaadd852cd93c02c30a121cdb67188d3f0873b",
+      "text": "Hit with key / unlock",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_005.description",
+      "source_sha256": "a27a17816f1c9cf6ee3e7dadb1ef47fc581f4cd8e5ccbafd1d66385306f2d222",
+      "text": "Feels all boing-boing!",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_005.kind",
+      "source_sha256": "a4be4e811fe99b203d7ca5d0d6d323ca1a1c952d24faca855b98bad824c3e6cb",
+      "text": "Pink Bunny",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_005.square",
+      "source_sha256": "6b7e620c809f51ce0faa8ea800c330dcc985eac7b1e55368560461dad3a6a142",
+      "text": "Super high jump",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_005.circle",
+      "source_sha256": "90fd68169555505b06d5f1c7b9193bb7888de8ad28e2fe657dac786383d5edc2",
+      "text": "Throw a rock",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_006.description",
+      "source_sha256": "b97bd1d58e798e77c92b1e88c43613715239e5a783bc841608d05d78c9836e8b",
+      "text": "A 5th-dan indoor veteran",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_006.kind",
+      "source_sha256": "d35ca7d4dfc8d24a9ecb1f098beedf3ee2d164fdc8d02cb70a0c765b7443cf6c",
+      "text": "Aqua Pants",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_006.square",
+      "source_sha256": "84548e90cc47b6f9750cd76ad9c7893b3ef651d4e8ee82e6b31a4def2902859b",
+      "text": "Hide behind a branch",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_007.description",
+      "source_sha256": "e0d02b359aeb3074c1f90d409b128fbf12c1b2d2686ec280e06a0c80a865b03b",
+      "text": "A big building's going up by my home",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_007.kind",
+      "source_sha256": "4538ac903d2ae7a0227afca45a67c8a1e30e5b038af10fe5bd2841272334d607",
+      "text": "Little Goat",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_008.description",
+      "source_sha256": "68ef2da45611adc0a9124dbbd5564ff645d15e9d2732e4a61bca4d3456c85cb6",
+      "text": "Super speed!!",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_008.kind",
+      "source_sha256": "06c4ec8fad013da931ade6f0d6a4923c255c5a87793d333719e446563d107de7",
+      "text": "Blue Pants",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_008.square",
+      "source_sha256": "a2f85ea41aa5594b895b39eabf585c26c1d44ef3e6dfc303789843d965841ddd",
+      "text": "Hold while running to dash",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_009.description",
+      "source_sha256": "6fd8bbfc112b1fbaa18557cf7862a80cb2f2281e5c6efa932c46604dfdce0a7b",
+      "text": "I said... I'm NOT mad",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_010.description",
+      "source_sha256": "f70cf0154da8f97a9011fa20c28006668728fa90b98be89607d4cb7dad052504",
+      "text": "Am I hidden? Am I hidden?",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_011.description",
+      "source_sha256": "2d350a1f2132c1436fce66085e7a7be0d9e8b42a6944888df5286f3836964131",
+      "text": "Drinks loads of water through the nose",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_011.kind",
+      "source_sha256": "bb0beb1b60c39a4681e61f0b3131003416cdd624e005d965a92b34342929b414",
+      "text": "Mermaid",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_011.square",
+      "source_sha256": "eb17a40db677adcc6f9ad40b7ceec5c9cf1a9d6fdc6c84f81e7ea433e9ec9731",
+      "text": "Dive and swim underwater",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_012.description",
+      "source_sha256": "1a4f9f4929fe71ee172389d0af42c84110f914ced9469acf0e6b2d72a2e532ca",
+      "text": "Days of turf wars",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_013.description",
+      "source_sha256": "f2edc1b91c3348c36f58fd7c76beea8b47c608b90339f92a840f140b68d5a116",
+      "text": "Hanging around feels great",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_013.kind",
+      "source_sha256": "bd5edbd40f67f458090bd925f4c50df7dee806afd4bfbd07a23a406c46108b33",
+      "text": "Adventurer",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_013.square",
+      "source_sha256": "2596b6891e4ccc755534450cc1ecb16edacde5be3c8fe6525a84dff5a5dc3e43",
+      "text": "Throw a rope and swing",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_014.description",
+      "source_sha256": "0c40a50289344bbf8709bf415e80f6307e7977cd5589ad93d683a377b5ca88f5",
+      "text": "Boss of the pea-shooter collectors",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_014.kind",
+      "source_sha256": "ce6c3d8cf04a343525f111a279ba8ade8fa57f054a25365a63577cbb3b65dafd",
+      "text": "Security Guard",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_014.square",
+      "source_sha256": "75973db058d649ff59d0db1dcc443c21f21edb3ba3320c01386427e023a415d6",
+      "text": "Aim the pistol",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_014.circle",
+      "source_sha256": "9db3cc0a5b79cb3f2328c6d6dc123134533b4fe639d03c726d373a6fd53a4cc2",
+      "text": "Fire the pistol",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_015.description",
+      "source_sha256": "e98ea072c1fb2b99a412fcecb7fdd0ac9d76e5ac52f2743c3c3684049e36b46f",
+      "text": "Training in mountain seclusion",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_016.description",
+      "source_sha256": "15f0d4745d704cea6cd5a0d5428ec64cc068a27bc98772232a3676e415284ed7",
+      "text": "Often gets stuck in trees",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_016.kind",
+      "source_sha256": "332718097b0dbb574325d0ebdafbc628dc751f43457d8367d7106333167a6e16",
+      "text": "Paraglider",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_016.square",
+      "source_sha256": "8ad71c70a06f98b420c28f312d615c31d1f68cc773a8704a270c65aed726af3b",
+      "text": "Open glider / flap",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_016.cross",
+      "source_sha256": "2c491407fded63d59d4d301bb081847c4ee1943c4ea232dccf85c5e981a311b0",
+      "text": "Jump / get off",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_017.description",
+      "source_sha256": "357746b5a281ae245318885c8b23ad1f07e23d01bcfac3cfbb7b73d0aee4a0cb",
+      "text": "Wants to fly, but it's scary",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_018.description",
+      "source_sha256": "97e2e4342016153f8990340e2c63f055763caf1ac5032a0b3668dacf412169bf",
+      "text": "Dreams of carrying the Olympic torch",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_018.kind",
+      "source_sha256": "42be36c591328679a68a060744120045c37a4958dc1359f59c534e00443a9375",
+      "text": "Torchbearer",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_018.square",
+      "source_sha256": "c0a279442a241376c0cf21ba64fafa3f1d304be71efd1b9f32df71fb83804d4a",
+      "text": "-",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_018.circle",
+      "source_sha256": "000f4fd1048d3f0c09899b636d23a9b2ece5cec401281379a33480dae0c9bc38",
+      "text": "Swing the torch",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_019.description",
+      "source_sha256": "c5fbf6127b9956453f3b56e7dccf5c4a6786607e91ef5f9770ec7b90e3a327b5",
+      "text": "No playing with fire, especially at night",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_020.description",
+      "source_sha256": "0270c13f8bd418b85255e78a7ebaba25727aab892b98e43d6aee5c0e874cf481",
+      "text": "Can't see a fire without putting it out",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_020.kind",
+      "source_sha256": "34087de29886ba310074ea7a0e64ee7085fa289429a29861bba7bedf7b940d0b",
+      "text": "Fan Dancer",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_020.square",
+      "source_sha256": "b8fe86457df1e7db8af1c835f2c5cd0bc7f4f70f38ba29bb25f08e55a2d4311b",
+      "text": "Spinning attack",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_020.circle",
+      "source_sha256": "ace07336b57b7cc8bd66c4b79490b3c24d7587854e28095de1ae80eb7114e95b",
+      "text": "Whip up wind with the fan",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_021.description",
+      "source_sha256": "4ca95057431878fb9f2d11f7d1caa55a801b42919e70e69dc2e40f3cac0a094f",
+      "text": "Some nights, I danced like mad",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_022.description",
+      "source_sha256": "4f395f6039737e34ed7e61dd7a3865393569f82143cefe3bf2d6d5cbf9653921",
+      "text": "Ended up somewhere weird",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_022.kind",
+      "source_sha256": "47fa6cc10e397d8628b3bd54a60107b208e24cfa349c04891e4851c27c8ad8c1",
+      "text": "Office Worker",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_023.description",
+      "source_sha256": "a65196a1a0a28b887323e249e6cf0f3105946aeb347ac55affb49fe01d41ccaf",
+      "text": "I wanna eat mammoth!!",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_023.kind",
+      "source_sha256": "d7924912a6a881c4ba61a5fedfe77046ece35b1fa176a2d8e60b7170b2cb6d00",
+      "text": "Caveman",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_024.description",
+      "source_sha256": "90833e9e1d5bf0b722b925aeada954146736c58475414a0fc7ff8995d7f5d217",
+      "text": "Living day to day",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_024.kind",
+      "source_sha256": "27117fd4ddf1a2424300f5b1401508e89f714938bd6d7ca940c1c754a29fb5a7",
+      "text": "Stone-Axe Caveman",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_024.square",
+      "source_sha256": "0fbcc1a8d3655bab494da53a84212364691e793535821db4f213ea7f3871f156",
+      "text": "Swing the stone axe",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_024.circle",
+      "source_sha256": "05674551302419bdcb4fa41fd5ac1d000cbbaf3119d7fff6ce29a30d972cd60e",
+      "text": "Bring down the stone axe",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_025.description",
+      "source_sha256": "4acf5d647b13ec7f530db3755fd59b3dc86dfa557e9fda8a7c5c2ca5cf4c1254",
+      "text": "Gets attacked by its own prey",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_025.kind",
+      "source_sha256": "18ab3df12842b4d5a5a430936f03f7d0c24af1bf9e7dc294210f2514c57b0b79",
+      "text": "Hunter",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_025.square",
+      "source_sha256": "022eda9d5eff6a5fcec9c3981f8f18dde38b5b978b344422bee25c7c704d4492",
+      "text": "Aim the rifle",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_025.circle",
+      "source_sha256": "db8661ac2539bf8e61ec550a3f25dcb2ea3516e7b3e0d73a625cd39bbb272978",
+      "text": "Fire the rifle",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_026.description",
+      "source_sha256": "82381a90fe14d933cc93e8a212ae6b9202c67749271e4389c7205550b0c4f7f7",
+      "text": "Steady even on black ice",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_027.description",
+      "source_sha256": "026bf5e40e639240855adde814731b012ea65c6ff393714e3ae6882751af45a1",
+      "text": "Starting to lose feeling...",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_027.kind",
+      "source_sha256": "851f3942d803f97102acc9f6bea5c99127a1632184a032d268c00408cd656230",
+      "text": "Blue Bunny",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_028.description",
+      "source_sha256": "b4d409ae100d1cc13b3b5183a590260509876319245da9e9a16408dfbae09121",
+      "text": "Next to life, this slope is nothing...",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_028.kind",
+      "source_sha256": "e7f264450be48a6ec92c24d735937b93bc84518cc6c30ae9cd4d5033eeac95e7",
+      "text": "Wannabe Rider",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_028.circle",
+      "source_sha256": "26e056aeb40c94bfbf8aaf08181e6b32782d81a9151bc1a79471d08d267e1086",
+      "text": "Dashing tackle",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_029.description",
+      "source_sha256": "498aa7d6c445f9838c06c638595447798775f5c55254bc63f2a1fd8214af305c",
+      "text": "Not good with cold places",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_029.kind",
+      "source_sha256": "ee584b03d9a958a1bb022412bb6c43e9b057f836439781b8eb76ecbaca70c26a",
+      "text": "Bazooka Trooper",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_029.circle",
+      "source_sha256": "ed487f9d6ce11b99d7711f75ae492629f20916bf6217ad269303a8dbaa0784d3",
+      "text": "Fire the bazooka",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_030.description",
+      "source_sha256": "e5ab0ca11eb8c212c06f9992596dc0b2927ee4d55ab6920b06cf3ada908816dc",
+      "text": "Lazy lunch: shaved ice again",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_031.description",
+      "source_sha256": "c16ba191c90bb78947b30fe6649847d857559c2bc1b3ee45f7866d5b653910d1",
+      "text": "Quick to fight, but a romantic",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_032.description",
+      "source_sha256": "1078c5e3f4cd474f98c17ab807d0d6ab0b5965c9e032294b042800de8b263628",
+      "text": "Has never once hit the target",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_032.kind",
+      "source_sha256": "50e623785950a2e58c2c98fbae80169daf95ad696760ba2f5a4ce91b92187d84",
+      "text": "Bow Hunter",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_032.square",
+      "source_sha256": "0198471a6a40072eb26638e6af6e9557ad35191ac8a9f81d3bb03f4391baae31",
+      "text": "Aim the bow",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_032.circle",
+      "source_sha256": "b0de76ce5f282fc88e91638f54ac0deb07326919ab9819841985cdd439b4b22f",
+      "text": "Shoot an arrow",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_033.description",
+      "source_sha256": "1ae899c8d11e0b4e95b1096edf5b7181354668b7a417b4404bdcc1bb9c317515",
+      "text": "An outlaw in life",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_033.kind",
+      "source_sha256": "51f5f20616111732e5996d4a5fb7a70cb655155e123307417eee102a83966153",
+      "text": "Lance Knight",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_033.square",
+      "source_sha256": "62d85c280578d3fbfad1c892d67829940ec3370c2aa2b9518df5de02bcb677b7",
+      "text": "Guard with the shield",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_033.circle",
+      "source_sha256": "86f3182147203659f9c06ffb5f3d3c11ed92d8f8a216f0ab872797e0938d75e4",
+      "text": "Charge with the lance",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_034.description",
+      "source_sha256": "01202bd1d55059a595ac2b681f8ad94d22faf7bce13fd36b9854947a051857eb",
+      "text": "Plans to stay young at heart",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_034.kind",
+      "source_sha256": "e5eaba1919a4ff49a313e0068a35fe50845a2a225637e5e3cda8929b7cf609c2",
+      "text": "Playing Wounded",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_035.description",
+      "source_sha256": "353b10cf67db3c6fcecc972459d6d4cb176940f96a54733c7560df6e93c7e4d0",
+      "text": "Wants to sneak into a castle someday",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_035.kind",
+      "source_sha256": "d99ad172584e2a4596d1604ec5354bcf5260a7504fd05048fc3798ffab63ac46",
+      "text": "Lizard",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_035.circle",
+      "source_sha256": "be5322f8f89693b3b1444a096f4fdb12c0366ba2fce2bb6bc3282d38919ba17b",
+      "text": "Crouching tackle",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_035.cross",
+      "source_sha256": "32c596b6b073e8b148e180c2c8063ca8f472ce865a46810c65deb4bb85376edb",
+      "text": "Jump / drop off wall",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_036.description",
+      "source_sha256": "44df7b7e11c48917ca2cffaf6625b9bee01f7b3c97abc5426c96adf48cf9b6bd",
+      "text": "Never neglects axe maintenance",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_036.kind",
+      "source_sha256": "0e8e36a590a70ab4361707b1de46c23b34d7a6746dd0e85374d860a26061322c",
+      "text": "Axe Knight",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_036.square",
+      "source_sha256": "93579fde7285d67ed0e3166fd25aff21276915126cf1b4c599a593e7eaa23193",
+      "text": "Swing the weapon",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_036.circle",
+      "source_sha256": "198a4fc03d7af831cfe06f595e4a3ca8c02ffc0259dea48895ed79328b8a876e",
+      "text": "Hit with the weapon",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_037.description",
+      "source_sha256": "03c1957c534631c3ee2f7a74256c1aac70b5143dacc0fbe3383e763fb716eb20",
+      "text": "Often loses keys",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_037.kind",
+      "source_sha256": "7d30303a12e644328397222a7b5a468fa61703e0fa13ec926b940f8c51d4ae56",
+      "text": "Prince",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_038.description",
+      "source_sha256": "93b05fa6135a90ccbe799f644bd9c4d73cac7d89b25c9cd53c058ca5a2d847b0",
+      "text": "Hits switches faster than anyone",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_038.kind",
+      "source_sha256": "7cacf276e2e6d786e06e9fe5e502e9271bd69147bc8c5e92ebd7c2278e60f491",
+      "text": "Hammer Knight",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_038.square",
+      "source_sha256": "413e722f3572351490809fb576c6c01559b9cfb50194e28a06a6745b3733c1d5",
+      "text": "Swing the hammer",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_038.circle",
+      "source_sha256": "0bb3a7e3c1f93ff821099791cbee664053cce3ca799472034928a68dd4cf910b",
+      "text": "Bring down the hammer",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_039.description",
+      "source_sha256": "d2d612d9fd6cbd95691f92253e52ec34235381876fdf0d065ab6003e47b4960d",
+      "text": "Often mistaken for a newt",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_040.description",
+      "source_sha256": "c67e7274c74947c42a73631a46b3783bf7701a67bcdd94fa71269d884a3968bf",
+      "text": "If I stop, that guy will get me",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_041.description",
+      "source_sha256": "697e5987514eed2d242c059e9017b45e5ce6b2a637252688f50f199ad3553fe1",
+      "text": "Wants to snipe that running guy",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_042.description",
+      "source_sha256": "871da117df961c76eae1a7e456e83c6d6713d755c7ba252ebe5b98ffa1bf7725",
+      "text": "Gives up when it's hard",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_043.description",
+      "source_sha256": "07545dfcce9029878eae812c883b1dda5f2fc3d258406dbbbd4de7c4f52d8595",
+      "text": "Ho ho ho! I'm no fool",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_043.kind",
+      "source_sha256": "21481a4ed21429c905837958a77e5905defc2f97ccaa0421b5130c7dae1097ee",
+      "text": "King",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_044.description",
+      "source_sha256": "678020b1b26fe0727490987e36fbc4bd7a8ba16d84623210d59a16cdc5280ee8",
+      "text": "Loves adventures",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_045.description",
+      "source_sha256": "b9229a4fb98ac92bd84448bc6ee08112cda317dfa72a908223dc715e626fe55e",
+      "text": "Blinks pretty fast",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_045.kind",
+      "source_sha256": "0a43d6d19096adbfb7173d17a611ea8651359623adf5151572df820b1541fb1c",
+      "text": "Gunslinger",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_046.description",
+      "source_sha256": "cab5cb5c43bef4a1e0ebaee2ff783f10468ddf9c6221f61bac699f0a145de296",
+      "text": "Can only tie a plain knot",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_046.kind",
+      "source_sha256": "3835c07fd6b027cb182296bc8263d4ef8605224a0a2ec6ecd91777874e69ddbe",
+      "text": "Mummy",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_046.square",
+      "source_sha256": "e92e578a30cc95515cea4469819adf43b39f012f882e0ea2b6974dbba9e88060",
+      "text": "Leaping tackle",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_047.description",
+      "source_sha256": "f642289d0ac619a35bb9ef825ea0ccb7d5d3eb02d2657889f1ecda5ad75da4f8",
+      "text": "This hammer's way too heavy",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_048.description",
+      "source_sha256": "b5866307f1e0ad4b08ef0f12c814998883341760d51ed4cfe56d9c5ac1f855ce",
+      "text": "Gets tangled in the wash",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_049.description",
+      "source_sha256": "e862728635c9c4c7392598a5eaa650fadd7c98ccbad5221cded7fcc589018dc3",
+      "text": "Shape your mouth like 'oo'. 'Oo'!",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_049.kind",
+      "source_sha256": "ca8932b2a18fbfb47eb11deef8e34ed7b06b92401ce932e4e85173ca544362c3",
+      "text": "Fire-Breather",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_049.square",
+      "source_sha256": "e6e501c3fc62be2b0a895c30f69ea38de66274461da3ac072b3c1b4b3570ab25",
+      "text": "Breathe a big flame",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_049.circle",
+      "source_sha256": "0e012cc76c858426a570ac7af1500b6476cab0d2e2d9a64c5539b5dd11e2c72b",
+      "text": "Hit with the burning stick",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_050.description",
+      "source_sha256": "91cf2e7825cd9d120de430b2e144138f0b4850bf0c39fcf6823fb407269931e7",
+      "text": "Yep, just shooting randomly",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_050.kind",
+      "source_sha256": "dcc12bc9304403510ac9d8640930758f3add411da7f3115c0af30ffa3c4d5cde",
+      "text": "Scorpion",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_050.square",
+      "source_sha256": "f7d9bbd0d7b4608e092287f9b0d25943369a571543f06f7e70ba5c7392c166c0",
+      "text": "Fire a laser from the tail",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_050.circle",
+      "source_sha256": "b8fe86457df1e7db8af1c835f2c5cd0bc7f4f70f38ba29bb25f08e55a2d4311b",
+      "text": "Spinning attack",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_051.description",
+      "source_sha256": "cd5ef501b96f81b935533612ac1227ea517e1df122fd7b476491aa418f5fbc46",
+      "text": "Barely breathing through my skin",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_051.kind",
+      "source_sha256": "c8dd5daf4780155a5dd5298c8606710ab82d09a55cbe5a6a4168c2afe1784240",
+      "text": "Golden Statue",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_051.square",
+      "source_sha256": "75a80ce78e6ed9813e727eaa23f264367c40a287ef65d3ddc56e728337a9362b",
+      "text": "Saturday night is my night",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_051.circle",
+      "source_sha256": "e455ed36c4aff2649e19bb388e913fdd07f7352cb3afd453a5619d7cf60eb886",
+      "text": "Showing off big time",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_052.description",
+      "source_sha256": "0614ee3e33f6f14d3e4e60c508b6f92d3ee87683bd3aa6cac21ca40f390ffa21",
+      "text": "Always cold, but doesn't realize it",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_052.kind",
+      "source_sha256": "1e79303e901617430138647053cccba4156ef5a0fd753c420dbffbc3e89c80d8",
+      "text": "Cold Blaster",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_052.circle",
+      "source_sha256": "b890497c3fe628a72ba3ad71993ae11cf1e785b99a77b08f7e95a8956043a808",
+      "text": "Blast bone-chilling cold",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_053.description",
+      "source_sha256": "a1425ae02508212702dcc91faada875fba782ffecde4883952510ebf94830173",
+      "text": "Icy slopes? No problem",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_054.description",
+      "source_sha256": "9e8f32c9bef480c96ce35fbff53bd3216a708bb8e682991866f15644d007467c",
+      "text": "Troubled by chilblains",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_055.description",
+      "source_sha256": "705389eecfdc52ec6e2eb6e97e20fa50c284e1438e083aba8d8b5e4d2deaca88",
+      "text": "Has fumbled a throw before",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_055.kind",
+      "source_sha256": "386c64018b0ccf412dd53b5be85af6a9b3060595dfa2f43920abd4c66d9ab8d1",
+      "text": "White Pants",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_055.circle",
+      "source_sha256": "573a6356da7f3e2ff5ea43c24e99a8c3848db750164fe088eae64811571e0174",
+      "text": "Throw a bomb",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_056.description",
+      "source_sha256": "a3b7fdebf6eff1b5ab6a41c51a67683ab94bd4972d0e54d5bb69b869e5d01930",
+      "text": "Wants to swim in clean water for once",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_057.description",
+      "source_sha256": "f15d872bb428acc9d26529eb776e3b764230ffb24a4b7ddf25efa20f06a8c5af",
+      "text": "Can even push container blocks",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_057.kind",
+      "source_sha256": "53eca8dfbc0acfe0cd282e6c512104330b3a8a84bb57e9bc1ec43d6ca11dbbea",
+      "text": "Pilot",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_057.cross",
+      "source_sha256": "82cdbba94bd526d4e66c381cfa8a75efef415952ced3333531a7e402b2e54aec",
+      "text": "Jump / board or leave loader",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_058.description",
+      "source_sha256": "7f93e72e4ca0cf56973a72dcaaba4e85fe48890dc8c20c830141e4dfebc91946",
+      "text": "Hooked on tickling myself into sneezes",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_058.kind",
+      "source_sha256": "120c08c6ace945409556b10c55e13a3ca61efdfc4344f3d80538e64165282da4",
+      "text": "Scientist",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_059.description",
+      "source_sha256": "ec4e97860d1c281ba9d64e29be9b9c12bc2dbb0d9c69a8c4a80873c3ff84ade8",
+      "text": "Glides along even on conveyors",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_060.description",
+      "source_sha256": "ec2ca9ae319a7e4560c470cac400c600c4419c0e39d60ec27b045922d4954a2e",
+      "text": "Has a habit of turning right",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_060.kind",
+      "source_sha256": "c4ceaec2b8b348cacbe33e03002f1e1d43fceb1a04548ff1abb48fafe29bfe9c",
+      "text": "Crank Operator",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_060.square",
+      "source_sha256": "3e1e5d7051466ab063dc7ad37e9810655a799dfaae5cf1eaa9a853c97bfa7ef0",
+      "text": "Turn the crank",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_060.circle",
+      "source_sha256": "3ff6e584ccb21f04ae7bbead12b5f92229d2fd2b196a8f0002f2ed96f0eb97c9",
+      "text": "Hit with the crank",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_061.description",
+      "source_sha256": "b4a770cc12c8350ce09548acab37c5b88225527f76225aee37f004796f9ad804",
+      "text": "Specialty dish: chikuzen-ni stew",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_061.kind",
+      "source_sha256": "537a94fa71b4b5bb9490386b51c4b94bdd8d3d380ffc6155affd4d6ab3280b6a",
+      "text": "Cook",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_061.square",
+      "source_sha256": "0c4a05070bcea688b8ab46dee5604339205eb371dd4670f9e08d94428d8c7787",
+      "text": "Guard with a pot lid",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_061.circle",
+      "source_sha256": "f85c24c4a29734269f096825ab7f6bade32e18dd9ff2e056b25c94f5df8d97c2",
+      "text": "Hit with the ladle",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_062.description",
+      "source_sha256": "f8befce5cf88d2589cf950c1fae2decc4c7c457bd0da0f3caba33c5eafd236f0",
+      "text": "Hobby: stargazing",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_062.kind",
+      "source_sha256": "d3d47538febe6ea69a7afa36df7d855f860aaf95780511bb4e0e32824ebadfdf",
+      "text": "Green Pants",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_062.circle",
+      "source_sha256": "91722ecdbb3a0a4cafcc0131dc25351633104dfb6ad1b36244e7ccea4501bd83",
+      "text": "Fire a homing missile",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_063.description",
+      "source_sha256": "c6885765051ef80c78c59bed18fe00c6cbb30270b5cecfa9a916543729c372a3",
+      "text": "Runs up the down escalator too",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_064.description",
+      "source_sha256": "6dbe1d2f90dcf22f3a267ada9340dfa38c224c0ef3583ccf7bb4661ae8d880cf",
+      "text": "Making beats breaking!",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_065.description",
+      "source_sha256": "a6f8e0332ac78623552d01af5dab4c98548bc3607fb4b66815a77ae1d75f1a43",
+      "text": "Should aim a bit more to the left",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_066.description",
+      "source_sha256": "eb621f7cd80d8b2921757bffa048bbcb07d37d80bc16d7f6f81dc188ea5975f5",
+      "text": "This wheel has no play in it",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_067.description",
+      "source_sha256": "f279af4d3f1db28d77c8735d1f2fc11ae0a30f525a1391a60aa7b113a0d3453b",
+      "text": "Is 'premium' something you can eat?",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_068.description",
+      "source_sha256": "8181b4a0412c938536556769962bff3151c89848460b6f4a9924caafa246c28c",
+      "text": "I'd love to drown in a pool of juice",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_069.description",
+      "source_sha256": "63d8e614e5222f165f424c4369147bf1b1813e6460208c69e9039fb22b94f82e",
+      "text": "Catches myself talking to myself",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_069.kind",
+      "source_sha256": "f44a0e692b7f4e56627c808bc70885cc81c38afa5ce88bb0ca81e9f60d025171",
+      "text": "Rope Master",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_070.description",
+      "source_sha256": "0748b5911fa746d4f09dd4ee7cd2406d0da9924019185d3f549136c9392b9b75",
+      "text": "Hair-dryer air smells like my head",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_070.kind",
+      "source_sha256": "ded28e4cb2253a9592cefcbaa25fb2f67b69aaa1917108307facb02129c7b70e",
+      "text": "Propeller Guy",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_070.circle",
+      "source_sha256": "ec5196d1a88e2fc0e1702b1a29095106e463089f14fbe5ed575da80d4734e08e",
+      "text": "Whirlwind with the propeller",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_071.description",
+      "source_sha256": "5efd2e9f7d3eab76bad3c875f1963122493121ac9d4837bd9f9558c906e6d3a9",
+      "text": "Often mistaken for Halloween",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_071.kind",
+      "source_sha256": "5234fc0d57ab3fcaa20d7936fc25b18690299b48269bcf8c56502b7fbd4a5a2f",
+      "text": "Pumpkin",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_071.square",
+      "source_sha256": "d2d22432560a55410182f599a864cf1eb7057d55a1cb376907aae59278d80b80",
+      "text": "Hide in the pumpkin",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_071.circle",
+      "source_sha256": "0b45339a75f98ca2e79ab23f6e96cff9fb9f4a0b031b41bc8448a18cd7bf4a50",
+      "text": "Throw a banana peel",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_072.description",
+      "source_sha256": "021ae23641641469015536fd215a77605805320ec00548aebb62f68dab019e55",
+      "text": "Gets a left leg cramp when jumping",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_073.description",
+      "source_sha256": "a0edd297b33e87c481ed4443a51c5b81444c6d6dedbdc976980fb8a18633c6ac",
+      "text": "Eyes roll back when sneezing",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_074.description",
+      "source_sha256": "e13ecd3e4eed8c0fd7d360f582ff2b75677e4473d390da708b58ac1a0d2f345f",
+      "text": "At that dreamy age",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_074.kind",
+      "source_sha256": "8cfc340a213cdf07d16719e3461ac64b55931018a731945626166085c1cc6f48",
+      "text": "Ballerina",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_074.square",
+      "source_sha256": "dd278c096b263502935dbc1569ef61b1857346c1d51df772a1c4ad2d64551c77",
+      "text": "Powerful roundhouse kick",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_074.circle",
+      "source_sha256": "3b31fda0c012fd195771d325459ab1b87188dacc8398554ab2c8df1cb77774a7",
+      "text": "Quick high kick",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_075.description",
+      "source_sha256": "394c2b3b83a49cc810bfab7cafa69af741e4b89ec23c02c779b32eb44d0b227b",
+      "text": "Laughs on the inhale",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_075.kind",
+      "source_sha256": "cfc2aefcd372276b14a22aee762fbbbfeeef5a100d2d40499fad6d94e1085ad1",
+      "text": "Angel",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_075.square",
+      "source_sha256": "2cf476f3129c5af2e207f812ad8323d0bf840c25a3b67fc0bf4b62a9a91677cc",
+      "text": "Fly",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_076.description",
+      "source_sha256": "3c605f610a575e68eaffa90819a93b168572747bd669474bbb9a2165c49cf4ce",
+      "text": "Three emoji, max",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_077.description",
+      "source_sha256": "874b42f5ce927542bbeaf84bead55de2a65bedeb2ab6a0233ab9704364f28617",
+      "text": "My girlfriend won't say where she lives",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_077.kind",
+      "source_sha256": "dce9bf3521c88903272fbfd03749acbf6271c965e72c2e68eec3e82bae9154cf",
+      "text": "Santa",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_078.description",
+      "source_sha256": "23d25658773144ad236fc6513fe71d338ec1ef52ac51eec2c0fd700d42b0183a",
+      "text": "Red scroll, blue scroll, yellow scroll",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_078.kind",
+      "source_sha256": "cdd19fd7d16b9b7a0f4bcdcfcd554098db357cfe9d8dd01b545afad9305f71a1",
+      "text": "Reporter",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_079.description",
+      "source_sha256": "5992a67ac2972b02feb60c0f1f41050db0fa71c5cf16388eb250f70f725faef7",
+      "text": "Hiding with resolute dignity",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_079.kind",
+      "source_sha256": "9c99ddb6e1742ee076a530edac28ffc1afefe3006019a9ae2e95a19e66b55fcd",
+      "text": "Goat Lord",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_080.description",
+      "source_sha256": "40d12597298f9cf7bfa1fb90fb1e26077ac0466c2e4cbf04e43c0ccefcf0a8df",
+      "text": "Move and I'll shoot anyway!!",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_081.description",
+      "source_sha256": "a96196cd078403899cd2675c4456be5b4cc264cab93dc8f2a7c78bda8ac49bcf",
+      "text": "Hero of the neighborhood",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_082.description",
+      "source_sha256": "854763f8f74ee95326eb2fd8726ce609a9628b4b644020abead659f1f71eb70e",
+      "text": "Wants sound effects for cool poses",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_083.description",
+      "source_sha256": "19a2235e6745e3602c5b286581d5f3223df215bb1520798358675a71b479b780",
+      "text": "Ah, I never look back",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_084.description",
+      "source_sha256": "2fb167a7fb8f4f522bdf367b0df47a86c7ed3bfcdeb78fa6c370fcd26de99eb5",
+      "text": "Likes watching things spin",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_085.description",
+      "source_sha256": "3327e5300c4ced8654628154b145a99bdbe8f80e276c84f5e71fe0293713b06b",
+      "text": "Occult by nature",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_085.cross",
+      "source_sha256": "853df6176385263b59c4db6c4c221d58692e695311eef44e97f9b5ddd44da909",
+      "text": "Jump / board or leave UFO",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_086.description",
+      "source_sha256": "32e59113633de6946429bc6aec9858d5e0c1999ec902e7bac2cd0e9cef9e7ce7",
+      "text": "Aiming for a career debut!",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_086.kind",
+      "source_sha256": "597a32be9bdea638fde5ec8d71134fe6324d82afffa91504d4cee126b8359c7a",
+      "text": "Black Pants",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_086.circle",
+      "source_sha256": "c4320387122ba80b1045743bdff5f52e69bdc4e63d26c6a48e1de4b5930f30ba",
+      "text": "Rapid-fire machine gun",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_087.description",
+      "source_sha256": "966a477fd8fb0aefbb5d336275b2473c4decf4c58bb9ef9fbaeffc59a57a1080",
+      "text": "Thin air! So cold!!",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_088.description",
+      "source_sha256": "30308d9494cb8079ad47d10db09e5dd27ba9156c0cf549e17a7b3f2c51d84bef",
+      "text": "Bumped my head jumping",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_089.description",
+      "source_sha256": "fe2723cf7e00c98d90e6c9ba9c285823a1d241c28173fb4ed817fdb531792244",
+      "text": "Clings to the past, too",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_090.description",
+      "source_sha256": "d241bc3b5a3da838d2f3ce765d1c6633fc52fedfc87516a7a83145fe194db77b",
+      "text": "Want to be big? Take risks",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_091.description",
+      "source_sha256": "4302967bf88d44c6fec2234c169a2066b8006d849f81b85bf538ec2244b92b4b",
+      "text": "Whoa, it's high up here",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_092.description",
+      "source_sha256": "12b52c7737704e5d3c0f7dea9997b832aed47969b6620dfd8558f50ef5bebcfd",
+      "text": "Did I adventure too much?",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_093.description",
+      "source_sha256": "51152895a2a5ee7bf807702a7c6c2dee23a159388a6d2d857384220b9b17c48b",
+      "text": "Spins anything when in the mood",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_094.description",
+      "source_sha256": "bc7fe866b102b8df2d9faa59383dc636c3a62c05e7b8478b1514d2a2e7886cdc",
+      "text": "Got a gripe? Take it out on me!",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_095.description",
+      "source_sha256": "47a878b5acd721a2b948a8b04dbc7fa0e22173b71b7a7e06908344d797e6b14f",
+      "text": "Wants to push blocks with paw pads",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_095.kind",
+      "source_sha256": "6e5fc4f38cf3e9acca24d9db119060bec1384ee5b49f476164df39606ead5965",
+      "text": "Wolf",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_096.description",
+      "source_sha256": "cc974e3d554e4b9ce52e90e23b8c08a83621f80c5ce0e0f048ee59a9c18859f0",
+      "text": "Doesn't notice a pat on the back",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_096.kind",
+      "source_sha256": "a7fc26098077260f154f8a0378fd1b46b236a94050f15f0e4136892be46f1ca8",
+      "text": "Skeleton",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_097.description",
+      "source_sha256": "eb08b35bc95ce703e435ec4a32a0d7998f14d53690bbca746c2125c66ddd758b",
+      "text": "Hero of the footrace",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_097.kind",
+      "source_sha256": "5236899dc4cf6da58aa9ea848b4f6017d33ee9e072c905e6ff9b06de72cdbda3",
+      "text": "Fake Horse",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_098.description",
+      "source_sha256": "d6eb7ef22602da1643210a5e0e4118bc2b09f9acaeef04ece07183773cdc15fd",
+      "text": "Hurt when called fishy",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_098.kind",
+      "source_sha256": "4f293397f31063336d0cb443d7dc2e8f34edf077e8ba4a989ae62c0e74ee8316",
+      "text": "Fishman",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_099.description",
+      "source_sha256": "449ed15f81473a53a5e32533b6c6a895e62e8ea913bd7940afb6494e217609b7",
+      "text": "Likes damp places",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_100.description",
+      "source_sha256": "8e0904fa71a39f1b81e2c6591a3aed514fcc7f56878e083d4fefdd30fa18fae4",
+      "text": "If it can break, break it",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_101.description",
+      "source_sha256": "79266794bf892f63389945a2feac6c48a08d6374137eacb39df2c0be0748689a",
+      "text": "Stuffy nose, can't sleep",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_101.kind",
+      "source_sha256": "975920bdd783fe1fc98fdfed59863ecd7b996b000368f0ca7ad2cc320d533149",
+      "text": "Android",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_102.description",
+      "source_sha256": "fa832c51217fa880b881fc264135a9e2912a24bbcc0964378791158c9359a8d3",
+      "text": "Don't stare at me like that",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_102.kind",
+      "source_sha256": "54091ced5aa4db75507998e895f869709676c0d29335fa482c8792810d1f6aad",
+      "text": "In the Shower",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_102.square",
+      "source_sha256": "d61a3f325904b6cefcfafa5dd2faa01699eb14c38eee04ef42abc1f6baadf78c",
+      "text": "Hide behind a body brush",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_102.circle",
+      "source_sha256": "079af99a7071a282763f46b48e394a2167bb97a8d590787126004dfd25edc189",
+      "text": "Hit with the body brush",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_103.description",
+      "source_sha256": "e4b8d7fc222e1be3301fa90d98f07e8ca4501a33c7411af601f28bbbbddb0420",
+      "text": "Unbeatable at opening cans",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_103.kind",
+      "source_sha256": "da525222fa014f253740ec0f3df593b92eed01b22b348d31251ec1755153ed21",
+      "text": "Rowdy",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_104.description",
+      "source_sha256": "486932ec36ee63875a086a357f5c325627aec894dc30e6240bef7689be3b329e",
+      "text": "See a switch, hit it. Basic stuff",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_105.description",
+      "source_sha256": "c07af4f3e94327c25aaccfcf1128299a3d01ce217bf0cc1e0487cd90b86f385f",
+      "text": "Surprise horror",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_106.description",
+      "source_sha256": "89b878bb8728ca2f01239b093a5d8be1a2e3709cd002b225e3ebd38cbee55e6c",
+      "text": "Too scared, so pretends not to notice",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_106.kind",
+      "source_sha256": "aab4f17d30acf0dabd623d13095c3f92a75f9f99463b1225de83ab7eb427c997",
+      "text": "Shy Guy",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_107.description",
+      "source_sha256": "9adf92eca4a9257a692a5701e02ae0931856cbfa42aa112c7f88a5b2b9ce9a1b",
+      "text": "Learned love from TV dramas",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_108.description",
+      "source_sha256": "b9d830d96b698212e3a4f5ea7bc6384b3d930e5b865e7ee7a418842dde731aba",
+      "text": "Often stabs my lower lip",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_108.kind",
+      "source_sha256": "45ace37ad701e9fd8dab6edb7146249201db0f2344a5932ad07784a18f1e5f73",
+      "text": "Vampire",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_108.circle",
+      "source_sha256": "94ef8f8138d7b8c9e0275cade2e80863d168beed37897163d7a6abd682b58797",
+      "text": "Spit fireballs",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_109.description",
+      "source_sha256": "a98cdf7adebf8338f05283d442363f4ad4f8a577c27c2b581233a77b63e7bcdf",
+      "text": "Forgetting shoes is part of the plan",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_109.kind",
+      "source_sha256": "2ba67d6d55837819b85553609d63f7f218937c2700132cfbd0ff62c959f68f5a",
+      "text": "Princess",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_109.square",
+      "source_sha256": "1d598ec9a64bb5460d0482740c4762385fd7690c2600786ecc3865d6d5c85a21",
+      "text": "Super spin attack",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_109.circle",
+      "source_sha256": "f08769f3b484e328e21092a29ba0e4356bca57743e6f5e63f249993d7be57572",
+      "text": "Powerful jump punch",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_110.description",
+      "source_sha256": "caf41adbf091d7b379e1f9fff0afdfaa3945f0cd51e46d4cc62a8ae787084724",
+      "text": "Happiest when hanging",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_111.description",
+      "source_sha256": "ef97c621268b456e5dbec83b8dc2b89bd5aec434274345b6cf7582f215d7490a",
+      "text": "Hope something good falls down~",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_111.kind",
+      "source_sha256": "da6df68a1635afc43dc81cfe789280842f211c7564d1cc1a4f090c3ad84793a6",
+      "text": "Karate Expert",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_112.description",
+      "source_sha256": "2e0f40b6b40d92593b4ed63d5a2ba8ab98040fae12ac453b5a5cdd21cf284f30",
+      "text": "Somebody deal with these chestnut burrs",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_113.description",
+      "source_sha256": "57a043888368692bc5858732abca8ab281ff06b42d87abc52ca2b5b2a643b1e0",
+      "text": "Escaped from economy class",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_114.description",
+      "source_sha256": "159b630167381f3260956005500467e38eaa29fae59042a100349cb24eb41acd",
+      "text": "King of recklessness",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_115.description",
+      "source_sha256": "d6d003c29a2526c6d2d2f05fbe1e3a0344283e7cf119a4ea939f79d66578eece",
+      "text": "Dropped keys in the toilet a few times",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_115.kind",
+      "source_sha256": "d1266a7da392dbf9615ac3f157c5de3395020b982833edc7e8209967549ce087",
+      "text": "Gate Guard",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_116.description",
+      "source_sha256": "0aed17b905ce5a4187292c18b91a60f2514ad4a6175efa989eb55f8c4a1b6408",
+      "text": "Scared of the guy down the hall",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_117.description",
+      "source_sha256": "7abff6547b2662d7bb6b73ef9407112a4b86126450998432b184c8fe659563c6",
+      "text": "Don't stand behind me!",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_118.description",
+      "source_sha256": "db0ab44aba4bfd0bba84639243f8977b28a49e42c73f81d33a69f6f2342dfbdd",
+      "text": "Can fit in even smaller boxes",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_119.description",
+      "source_sha256": "0b2910d256d456350270135603df0baca4dd2e18263ed810522ee5f965eda79d",
+      "text": "Gunfights are the best!",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_119.kind",
+      "source_sha256": "5e0e112e5319249dff0e94a65dbffae2761155ca949a9e4e83467948a609bf9e",
+      "text": "Bazooka Warrior",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_120.description",
+      "source_sha256": "a7009dc94d4faaa91aa18682592ec40b5d319f17b8610a8b03a01020cbcc877a",
+      "text": "Charges up by rubbing a plastic sheet",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_120.kind",
+      "source_sha256": "e4991755ecd3895f11b6cb7a8f25820db41a40ef57577de3a5b7848fe4ee64fc",
+      "text": "Electrician",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_120.circle",
+      "source_sha256": "985745249e5752179c09c0d6f540a208259e0bbf58042d4867871cedf26f0904",
+      "text": "Release a jolt of electricity",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_121.description",
+      "source_sha256": "433db86a50f2658877d0d6f883291c5f5ea78c0e07459dbabc6ac12e64adb0ae",
+      "text": "I run the wrong way on walkways too!",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_122.description",
+      "source_sha256": "0ccfebfc869628793834267994ee8b7818caf72b8313504eb7c0f437d680bcd5",
+      "text": "Gets dizzy up high",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_122.kind",
+      "source_sha256": "a4f0ebd98624c040635d519a5e5b62427ebd558d640baa2cc2e869e328fcf84d",
+      "text": "Rocket Trooper",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_122.circle",
+      "source_sha256": "9156376826e8e6ce45ec5de27f6e9818f72f8c3087cae048b6d4dd82f1e11eb0",
+      "text": "Fire the laser gun",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_122.cross",
+      "source_sha256": "3043b6d204f01e4adefdc5f208c7db586a3156697e37dd0091508f3b1b04eae5",
+      "text": "Jet boost / get off",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_123.description",
+      "source_sha256": "9884d30f3d1aa95c05f7a9be2bd19855ef898e79146ae431018411ad844d55b5",
+      "text": "Always switches things off",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_124.description",
+      "source_sha256": "02faa35928eca7e1fe29623e1e4a3a8e85428940257ead02b14983b676d7031e",
+      "text": "Locked on to your heart!",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_124.kind",
+      "source_sha256": "8358184ff8f03699b1732c91885dd720e950b82da4713a684e1937584e8fa9a0",
+      "text": "Warrior of Love",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_124.square",
+      "source_sha256": "fd9be0e30f5cd645186b9c858d8cedf836c41a0ad653299db0986fd2377e5b06",
+      "text": "Fire a confusing beam",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_125.description",
+      "source_sha256": "d72c589668c66cbbb054a61a8c126661fb6e788db6d3b00398728c3c6d3853de",
+      "text": "Won't lose to some robot",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_126.description",
+      "source_sha256": "5d27d998bdd7b08a8172e3b9f85749c67651d0b4311fdd5a0205cee0ffb5e1d7",
+      "text": "Owns a miniature of this",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_127.description",
+      "source_sha256": "b1bdbe80519e9808075a964067bb0fbc542fad6176f0012398e58db95e844e86",
+      "text": "Drools when concentrating",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_128.description",
+      "source_sha256": "600a6c10c3b06eac7d9df372870993a11626956697c242bb381661c20b8ead45",
+      "text": "Never skips gargling and handwashing",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_129.description",
+      "source_sha256": "30ed55a79559f4a9aafd6ec23fb95698eee3bdd1c66658712f341ff7b1f0da10",
+      "text": "Plans to keep defying gravity",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_129.kind",
+      "source_sha256": "383e5f849745237b827595ea6b42b986b6586e964a2b3d8dfd59db66939af8ac",
+      "text": "Magnet Boots",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_129.circle",
+      "source_sha256": "ab9398dde3190bc91baccb7bc3aba43d6cb121e5e51d9b2cbfc2a0597a835451",
+      "text": "All-out tackle",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_130.description",
+      "source_sha256": "71bb8312cc2d98addacf83fbc277323f3f0bd4e8905611bec0cd51c4805e0ec7",
+      "text": "Wants to be called a little devil",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_131.description",
+      "source_sha256": "84b9bb55b56324ef7257581e901e2a07a8c5933ef8b119710caea2d86f2a9a0e",
+      "text": "Whistling draws all kinds of things",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_132.description",
+      "source_sha256": "e2aaedc3f4cedbddb70ab585f0be689effe5b0a4919cb5f422f8e22276485597",
+      "text": "Can't handle things too hot",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_133.description",
+      "source_sha256": "058fcd39ffa34d062939426af20026e4dc2a63a0113e08f8cffa7c9d0dd14285",
+      "text": "Chasing thrills for 10 years now",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_134.description",
+      "source_sha256": "c92301275170c2aaba0f304b8a5ddb71b672ced1dd8d2d7756018ff11e40d13c",
+      "text": "Some passions can't be put out",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_134.kind",
+      "source_sha256": "3b7dd7fad8c1d2d2220ff09d6798ee9bb66daee008398a87a846f1da9581418d",
+      "text": "Firefighter",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_134.circle",
+      "source_sha256": "9cbc180d34c5db897c63eb2c07c9b8fb28d34887b98abceced73905d07f9352a",
+      "text": "Spray water with force",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_135.description",
+      "source_sha256": "bd07624f8411773b2abed3914f6e007efc277cd573bec0a7e3591ec34faafa23",
+      "text": "Looks like I've burned out",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_135.kind",
+      "source_sha256": "2a470968322175ceba00700d5a2b969e61c4feaeb6b433853ac89ba2c737114e",
+      "text": "Flamethrower",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_135.circle",
+      "source_sha256": "39b7c266de745a50d331c625cea75ea71205bda04f5e6c817f1d804b30431f6c",
+      "text": "Spray fierce flames",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_136.description",
+      "source_sha256": "470bca5f6eda46f1489f58483d8336829c6765300bf6246ab646c99540c32b40",
+      "text": "Totally weak to big sisters",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_136.kind",
+      "source_sha256": "7154b21d6a995553f3ba4c199dba8eec2c9dfa32f780f3b28030b4a6c66fd4b3",
+      "text": "Karate Warrior",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_136.square",
+      "source_sha256": "bcf26c06a4b7627dd21a5771d065b89adb55791f8dec3550d85926f16b69edda",
+      "text": "Powerful dash punch",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_137.description",
+      "source_sha256": "edbef0662d215e48285fda172d5241f85eba50f872ba62336d0b2f2f014164f7",
+      "text": "Likes highland-grown bananas",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_138.description",
+      "source_sha256": "0f7db152b3bfbd212d754e68430b542a73868e2bb954af31b3c78b9f0d9e2baa",
+      "text": "Recently changed my grip",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_138.kind",
+      "source_sha256": "bce8209cfcfd9f3307db0e069a5f772d886db5e2819fd4cfd8c2a199bc2df767",
+      "text": "Hammer Warrior",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_139.description",
+      "source_sha256": "843059c8e4af8638c9e1b5013f396a26c1f657fb768c671a2f135c100768ed09",
+      "text": "Annoyingly impatient",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_140.description",
+      "source_sha256": "7420537cbcca040e4d4a8f73c16badf620d5e5d208f02840b9410f1468df9071",
+      "text": "Into astronaut ice cream lately",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_140.kind",
+      "source_sha256": "f17e408c4e620c112bacb08a1e44a726eb6c4db5fcff7654e00a45b096b64179",
+      "text": "Astronaut",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_140.square",
+      "source_sha256": "19c4a55ddbe2dc933cc4dc9de45376df303046999bb56d46faaf129684400c0e",
+      "text": "Aim the laser gun",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_141.description",
+      "source_sha256": "ae06e5112b781fb97676cb5388907f718cf0f305bb1b00cd7c891b9f30e6a26f",
+      "text": "Bring it on!",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_142.description",
+      "source_sha256": "7f26de51d3a12bb542de57a4380c2ddc3c14f977ee28c15770ef8ea6f292ed3f",
+      "text": "Uses lots of hearts in texts",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_143.description",
+      "source_sha256": "e92e3d26f16e345cd01fefdab5ae4b00aee24e4990fb62391cc19f5a8f0fea46",
+      "text": "Kaboom with homing missiles",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_144.description",
+      "source_sha256": "880fd07bdc790db38f8511d94e0057af592859f3ad6fa1fb64106273592d6a4a",
+      "text": "Leave air combat to me!",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_144.kind",
+      "source_sha256": "6ff9fec9be0d1b8558143819a82c215a9efcc13851840591280dbff785e7bb9d",
+      "text": "Space Warrior",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_145.description",
+      "source_sha256": "4741a155bbc27b30344f8e6ad390de4f1477ce3ebc3c0f5c30f8094ddf567c6c",
+      "text": "Survived on instinct alone",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_146.description",
+      "source_sha256": "d51d9b5ed6b69369986f0854dd6cfed900ebf9302df3083bf48ee3c256ff00a1",
+      "text": "No hesitating!",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_147.description",
+      "source_sha256": "67f54e8671e0d8a9b0d8ba018aff8256ec04e114315b5aa891287b511ef77915",
+      "text": "Gets found by the smell",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_147.kind",
+      "source_sha256": "e6d23852220947acb64326b162eb3c108ad204e1e531b7082131e62cae572924",
+      "text": "Silver Tights",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_147.square",
+      "source_sha256": "c54b49af40376b5cfb91cdeb148ffb6c3c9ebf153f739eb27cb11df308ed98b0",
+      "text": "Hide with a mirror",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_148.description",
+      "source_sha256": "4bafa892422e4598d367690a7cf455e4ef50e53acb4ef12a5ca73bad4f9fdc72",
+      "text": "Opens doors really fast",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_149.description",
+      "source_sha256": "7c39da787793dea27ea309a476c764e09caf74ed500062a27764cf3d7c49ddda",
+      "text": "Can attack while flying!",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_150.description",
+      "source_sha256": "6de60fc82fd7c8725744aaad07f441d89d8496e700c451991c36fade7d6c16d9",
+      "text": "Super sleepy lately",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_152.description",
+      "source_sha256": "4d4e0a630f980d861f6c0d0d60a74dc2ae357362293171ad040b929fb63ec79b",
+      "text": "20 years of wall climbing",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_153.description",
+      "source_sha256": "b69ec5ed971b7aa358daa77909a447c1939b60ad7e3040543a0a017d1514d2bf",
+      "text": "Do you know the real sky?",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_151.description",
+      "source_sha256": "6ddb9369540eacfc8e60e1475412e1becabdbbfda9e12d85c12f797ad3b2157c",
+      "text": "Life needs recharging, too",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_154.description",
+      "source_sha256": "59d1714bfdddb46c813c49c5f6878a88826ed985c576210fed47541604a550b7",
+      "text": "Fainted at a horror movie",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_155.description",
+      "source_sha256": "e3612d24c871cf9cadd347adbab8a394db66b71e0004e822944f905ec9d24a6b",
+      "text": "Told I'm not kind enough",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_156.description",
+      "source_sha256": "b6b74d224991545d671275cbd16525d78f1ae8c206b5d971ffbe9709a32bb6c4",
+      "text": "To think you made it this far...",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_157.description",
+      "source_sha256": "9765d0d060e7fc4ae686ccbcaace4ae01ef06e35de4bef71146fd585b04ebdeb",
+      "text": "Protect the core~",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_158.description",
+      "source_sha256": "9d1a0f46c35bdd9e2bc6e50b09eacbcedd40adc5b1bbd2c62a714741c432f73a",
+      "text": "Isn't it hitting the core?",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_159.description",
+      "source_sha256": "c1a66d489484942fe558727bb8971e70634790605805d388cedd09cc5d371728",
+      "text": "Been holding it in forever",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_160.description",
+      "source_sha256": "376854beb519b6202c3c7863a5271de208c228384ae3fd1131989a24d929fab1",
+      "text": "Don't try too hard",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_161.description",
+      "source_sha256": "aefd3932f89ae5301530d5ecdc95e883348c3eac2d5e59e12d1d684219ae8412",
+      "text": "Must protect the upper core too!",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_162.description",
+      "source_sha256": "9bbec7fea56c7968a7fcbfd84acf856ad8ed790b9e716bdef32b4513737205ae",
+      "text": "Tonight I'm running wild!",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_163.description",
+      "source_sha256": "90dfec7a63b075cfc25192a27d8ed4a477e0e541ef0b11693c372c5b3df75a47",
+      "text": "Not enough vacation!",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_164.description",
+      "source_sha256": "c9aa88b40efde616ea6d8d28a64187d80b01ec4fdbbe2c00955878b0cda1ce05",
+      "text": "The basket is full of hope",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_164.kind",
+      "source_sha256": "0aac31c29d601a997d9546749dc897727561ac1f093a5b28c46a298d88b1e7ee",
+      "text": "Flower Picker",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_165.description",
+      "source_sha256": "d360819320a1d0825b982dd10b176507e31e9b4a0c6a03e37ba0514a9a7a0cf8",
+      "text": "Wants to sail the far seas",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_166.description",
+      "source_sha256": "be0856f08b0a52c2fa0ec3e3215703ae8f16bedcb12fc7cc431a4b77e95701c9",
+      "text": "Free-spirited in private, too",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_167.description",
+      "source_sha256": "fb3f41dc993a44a834e9d449fa4bb03d61ec5b6fc775d5d8a6ad469f39d4ca2b",
+      "text": "No smoke without, uh, something",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_168.description",
+      "source_sha256": "f29516390e5f2cb9f77e93555e1ee059f7b630660a532ccbaf6a2d58a3e304db",
+      "text": "Bed head in unexpected places",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_168.kind",
+      "source_sha256": "6d43f0c8553e3922fbeb61cc155d4cba35ca84c3cd952a19a6072c654d24602f",
+      "text": "Gachi Master",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_169.description",
+      "source_sha256": "716722d49a77d8f5671028cd5d36275d4701a00d272929bfc711823227f46500",
+      "text": "Sometimes blows himself away",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_170.description",
+      "source_sha256": "d36ee289002aee5524d8948a68c0df2cac3beb5a7facf63696725ceb82fdcf7b",
+      "text": "Bananas in chikuzen-ni stew",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_171.description",
+      "source_sha256": "e1ce10737edbd8b3f193eb1d8c20791d551de753ea82fd89731b9f0f76bd1f1b",
+      "text": "Fussy about sparklers",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_172.description",
+      "source_sha256": "85e223d365959da406d38a4fb7c4f65182a577dfcea15a70fdd89bf42fc80b6d",
+      "text": "Come closer! Come closer!",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_172.kind",
+      "source_sha256": "5657535e8cd85164578d3a8c0eef094d30a788cfe011d0e22a617f5289b2a5cb",
+      "text": "Feudal Lord",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_173.description",
+      "source_sha256": "46ec56af9b6e2e7013424ffe00ca9d03c1a14e5e9a63acfa8b78a451125dc70c",
+      "text": "Can talk to reptiles",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_174.description",
+      "source_sha256": "4e9b795ae31545a823214ea2d1649fcd14da9d0e0064532ae4fe546b0261fdec",
+      "text": "Understands how curry feels",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_174.kind",
+      "source_sha256": "ef4d0d99bfbc5444b8d449cd9226e83eb08986258ec443150d45d0ab3d7de9cd",
+      "text": "Ninja",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_174.square",
+      "source_sha256": "9f6c75a87e5635c6930048e001f6a26d5c9d359511e18bf1e5cc30779e10fafb",
+      "text": "Throw a shuriken",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_175.description",
+      "source_sha256": "4c4019aebcfabecb34e3e78e9aab7e81f503156cd73b2fcb1729e22d030a99a6",
+      "text": "Go strip the plating off your heart!",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_175.kind",
+      "source_sha256": "a255521d875b095b2fb32b5d2281cfbbc02d6b9214be613ba6b0705ef2657220",
+      "text": "Explorer",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_176.description",
+      "source_sha256": "caebeb2e6ec76adf80075a519ba1bd4eb978f1af2e8b56bd2ca43505c5901559",
+      "text": "Can't understand scorpions",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_177.description",
+      "source_sha256": "46e1caabbb3360ac02b0f6318015c608c6515d918b5ea2a3f7150706281bfb75",
+      "text": "Don't pollute the water!",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_177.kind",
+      "source_sha256": "43a55d7873b5c1f0da8f5eb0a152f57c21fa1ea5cdaa823b58ba25d3d461bad7",
+      "text": "Masked Mermaid",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_178.description",
+      "source_sha256": "ac1289bd39a1c93f75fe1fb602031d2eb352faf105b796a9de6fa7118f369f96",
+      "text": "Robots are a lifelong dream",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_179.description",
+      "source_sha256": "f7b5638ee45e62510a11b1d88683e57070a49830ebc230c9bad3bd294dd81a9d",
+      "text": "Give me the spotlight once more!",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_179.kind",
+      "source_sha256": "7e429a7321b8b702c5b9ff5793a1a080636f0508f5c8aaff8f72d7cd93b24626",
+      "text": "Copycat",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_179.circle",
+      "source_sha256": "bcf26c06a4b7627dd21a5771d065b89adb55791f8dec3550d85926f16b69edda",
+      "text": "Powerful dash punch",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_180.description",
+      "source_sha256": "29f1ddada8f04e2f64791c1bcf1cddd47b0f1d8a3ec719a1997dc6d218bf99cf",
+      "text": "Are there cotton candy clouds?",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_181.description",
+      "source_sha256": "7215a735f1dfe45cbf9fdb95f16480adf1408c9e3b1f78a620f724cd294d5662",
+      "text": "Told I have intense eyes",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_182.description",
+      "source_sha256": "d653116c566005aec04dac76dc668c8ca505336b01a8914f8639c03fd179a55d",
+      "text": "Can enjoy flavorless gum",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_183.description",
+      "source_sha256": "d502ace5309d2c17860b1688f4f18fc6f5fa8d08585bbe622ee2ed4d882c08af",
+      "text": "Careful with the neighbors",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_183.square",
+      "source_sha256": "82c1fdd104c740733abd5a78137472eed21bd56b82868d7e7bb4548cd51b3994",
+      "text": "Hide with ninjutsu",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_183.circle",
+      "source_sha256": "9f6c75a87e5635c6930048e001f6a26d5c9d359511e18bf1e5cc30779e10fafb",
+      "text": "Throw a shuriken",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_184.description",
+      "source_sha256": "647ef8cfdd267aeb83208f1af8b63deb0878e5a8c8f002aa799e32f19375c3a6",
+      "text": "Wants to be launched... far away",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_185.description",
+      "source_sha256": "ef37ece58d00a4eea5804aded9def4fe11c4efd2490b1d366816052a13559eff",
+      "text": "Never been called by name",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_186.description",
+      "source_sha256": "12b19305670e87542a7c5c0cce18d073fe91de93f94bbdd175c57f1547b3f008",
+      "text": "My snaggletooth is my charm point",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_186.kind",
+      "source_sha256": "5ed392331e5d4e6fb2d0bd22eff7059add8eb4244a1264a227c151e3b51ebbe8",
+      "text": "Evil King",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_187.description",
+      "source_sha256": "1a8c1636eaff649dbc04a938864ab953c72a1637badaec73efe70f093c39060d",
+      "text": "Wants a thrilling life",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_188.description",
+      "source_sha256": "0602226ffcbf25fe7ddfb743bfc9c82a58b74f9f0aef147c30d223b2b14749eb",
+      "text": "Only useful in winter",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_188.square",
+      "source_sha256": "573a6356da7f3e2ff5ea43c24e99a8c3848db750164fe088eae64811571e0174",
+      "text": "Throw a bomb",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_189.description",
+      "source_sha256": "a98bdb3099e90665f96df9936c560be626d2610b56c11ead4dc0f3f666f2f137",
+      "text": "Might be lost?",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_190.description",
+      "source_sha256": "fe47bde645649aa3974a0ce17f1b69a65f55e95281e77e2d6bd915e4e293c260",
+      "text": "Doesn't even trust friends",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_190.square",
+      "source_sha256": "b31d6490f31228b8eeff88205585645a9914a5c6bb8a0ac7863f471f4be9481b",
+      "text": "Throw 3 shuriken",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_191.description",
+      "source_sha256": "36971d4f62ff89ed13a3d3d63bfc66028d5af8a536e5eb1d85f7207d1120d03f",
+      "text": "Only has nightmares",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_191.kind",
+      "source_sha256": "faf4bd705c40922edeb2032fd8e62c5ae34ff9ac232518a971b1c7f04b7313bd",
+      "text": "Red Cape",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_192.description",
+      "source_sha256": "324b476bf217a400e74dd8b0ba5cc865e5b7b73c0d7b7889c629e72b63f3e4f9",
+      "text": "Huh? Is it that late already?",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_193.description",
+      "source_sha256": "aa13c38e9d9ebf3414b5310b5ed72903d29fbb26fc19763456c3f5edcd361499",
+      "text": "I'll sneak in someday",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_194.description",
+      "source_sha256": "9feb12a3e103bee7cba06e684904c2980d8624ba8916f834a7f8a5c1018627d9",
+      "text": "Gets spotted wherever I go",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_194.square",
+      "source_sha256": "29f3629c6feca8804aefa540af012260dd2ae49535c881e9dc69863dad7c77d4",
+      "text": "Shuriken attack",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_195.description",
+      "source_sha256": "9d0f0067c47a5ad4cb91f369f95a0e004c9850cd481b20b47dcc90c9383c6af8",
+      "text": "Kind to animals",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_196.description",
+      "source_sha256": "94ff222559a4db71d4046cda88e1eb62ef7d37035ef2035e618f0cb5c4854568",
+      "text": "Writing a tell-all book",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_197.description",
+      "source_sha256": "32896e4839a90f959bf54f4c4ade3db29a596a642520ad6ee1f13790b29b984d",
+      "text": "Chewing 5 times is good enough",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_198.description",
+      "source_sha256": "434f0621b201f6e94b7831c688192dfbc02dec2a4da8b9379d08a4f52692fd08",
+      "text": "Ended up somewhere dangerous",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_199.description",
+      "source_sha256": "ed9c774643e0bdd4b890f5724fd0b04fca58e0caf6b4c4d27603f5f205726888",
+      "text": "Into menko cards lately",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_199.kind",
+      "source_sha256": "d54ba133249fb9447066b74e2f5703e247a580ca029611171e83d96125c1acf9",
+      "text": "Gachi King",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_200.description",
+      "source_sha256": "6868efcca5cd6e68a32d684fbc20fd5ea3f3e8f9aec46f6c1b52b605aa6425da",
+      "text": "Nice guy, but can't read the room",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_200.square",
+      "source_sha256": "91722ecdbb3a0a4cafcc0131dc25351633104dfb6ad1b36244e7ccea4501bd83",
+      "text": "Fire a homing missile",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_201.description",
+      "source_sha256": "f969bfc0d72016a7798f1514cf1b64d74c3d19b1260c308f5f666f97aa84f2d4",
+      "text": "THIS TIME, IT ENDS",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_201.kind",
+      "source_sha256": "ccc20eb73123de82caf5356e81157cff103e80ba7ce27773092cd00f961bf8f8",
+      "text": "Golden Warrior",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_202.description",
+      "source_sha256": "4667bcf443b3cd955c740f66c6ceb108b4979e65645847fe98ed35b091a125a8",
+      "text": "My brain's gettin' younger!",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_202.kind",
+      "source_sha256": "ca6422ba969db6965a14bdbf46f38dc910fda40073ecbd5d9474c066f5932656",
+      "text": "Boss",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_203.description",
+      "source_sha256": "6189d4a6586e05b7e2f1cdc62c91c54c8e948a0f99ec685a2bbf839a263e2813",
+      "text": "Missed my chance to say it again",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_204.description",
+      "source_sha256": "8c98037856736557600f90c5979651cb4f687eb3e72c2552111fdecba1c6fb1b",
+      "text": "Cake and love are better sweet",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_205.description",
+      "source_sha256": "d0d6ae2a52ef41a7da3609149dc3bc378b567a2a20be39a34218210249397a23",
+      "text": "A woman has two faces",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_206.description",
+      "source_sha256": "a271aee0c5d7d00306b95476f353822a798f366cd3c9d6c482fcd810820dba05",
+      "text": "Listen to me!!",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_207.description",
+      "source_sha256": "3e847c7ff65727ebd31f17d1f7a56b06e9e0f11bd981b09e986fc774704d228e",
+      "text": "I won't let anyone interfere",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey.record_207.kind",
+      "source_sha256": "16b0aa70ce1725c14992fad5d60d9a5bdfadf04aad2de535d7ed1602307320bf",
+      "text": "Big Boss",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey_book.stage",
+      "source_sha256": "ec41f5b1fe006286e588755bf38a35714eae04562c4e12609b959a23640d462d",
+      "text": "Stage {n}",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey_book.caught",
+      "source_sha256": "d9d879e71c2b8b999aafd02f86a1306d86a3ead7f4fcf8f2db1867764fa9b69b",
+      "text": "Caught {n} times",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey_book.unknown",
+      "source_sha256": "193cd70b453f85c442150dc69014b5ca168da90ef9df31e33b3ead8881fdaeb5",
+      "text": "???",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    },
+    {
+      "id": "monkey_book.caught_once",
+      "source_sha256": "d9d879e71c2b8b999aafd02f86a1306d86a3ead7f4fcf8f2db1867764fa9b69b",
+      "text": "Caught once",
+      "review_status": "draft",
+      "origin": "machine_translation"
+    }
   ]
 }

@@ -3368,6 +3368,69 @@
       "font_size": 11,
       "origin": "machine_translation",
       "review_status": "draft"
+    },
+    {
+      "id": "collection.monkey_book.type",
+      "text": "Type",
+      "asset": "menko/e_nabi_b3.lzs",
+      "rect": [0, 0, 64, 16],
+      "font_size": 11,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "collection.monkey_book.name",
+      "text": "Name",
+      "asset": "menko/e_nabi_b3.lzs",
+      "rect": [0, 16, 64, 16],
+      "font_size": 11,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "collection.monkey_book.alert",
+      "text": "Alert",
+      "asset": "menko/e_nabi_b3.lzs",
+      "rect": [0, 32, 64, 16],
+      "font_size": 11,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "collection.monkey_book.speed",
+      "text": "Speed",
+      "asset": "menko/e_nabi_b3.lzs",
+      "rect": [0, 48, 64, 16],
+      "font_size": 11,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "collection.monkey_book.stamina",
+      "text": "Stamina",
+      "asset": "menko/e_nabi_b3.lzs",
+      "rect": [0, 64, 64, 16],
+      "font_size": 11,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "collection.monkey_book.attack",
+      "text": "Attack",
+      "asset": "menko/e_nabi_b3.lzs",
+      "rect": [0, 80, 64, 16],
+      "font_size": 11,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "collection.monkey_book.defense",
+      "text": "Defense",
+      "asset": "menko/e_nabi_b3.lzs",
+      "rect": [0, 96, 64, 16],
+      "font_size": 11,
+      "origin": "machine_translation",
+      "review_status": "draft"
     }
   ],
   "strings": [
