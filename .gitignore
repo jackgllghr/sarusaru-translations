@@ -1,2 +1,2 @@
 # Spreadsheets from scripts/monkey_sheet.py; with --iso they hold the original Japanese.
-*.xlsx
+# *.xlsx
