@@ -1,0 +1,1661 @@
+{
+  "description": "Which catalog entry each Monkey Book record shows; written by scripts/monkey_sheet.py --iso.",
+  "records": {
+    "001": {
+      "name": "monkey.record_001.name",
+      "kind": "monkey.record_001.kind",
+      "description": "monkey.record_001.description",
+      "square": "monkey.record_001.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "002": {
+      "name": "monkey.record_002.name",
+      "kind": "monkey.record_002.kind",
+      "description": "monkey.record_002.description",
+      "square": "monkey.record_001.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "003": {
+      "name": "monkey.record_003.name",
+      "kind": "monkey.record_003.kind",
+      "description": "monkey.record_003.description",
+      "square": "monkey.record_003.square",
+      "circle": "monkey.record_003.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "004": {
+      "name": "monkey.record_004.name",
+      "kind": "monkey.record_004.kind",
+      "description": "monkey.record_004.description",
+      "square": "monkey.record_004.square",
+      "circle": "monkey.record_004.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "005": {
+      "name": "monkey.record_005.name",
+      "kind": "monkey.record_005.kind",
+      "description": "monkey.record_005.description",
+      "square": "monkey.record_005.square",
+      "circle": "monkey.record_005.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "006": {
+      "name": "monkey.record_006.name",
+      "kind": "monkey.record_006.kind",
+      "description": "monkey.record_006.description",
+      "square": "monkey.record_006.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "007": {
+      "name": "monkey.record_007.name",
+      "kind": "monkey.record_007.kind",
+      "description": "monkey.record_007.description",
+      "square": "monkey.record_006.square",
+      "circle": "monkey.record_005.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "008": {
+      "name": "monkey.record_008.name",
+      "kind": "monkey.record_008.kind",
+      "description": "monkey.record_008.description",
+      "square": "monkey.record_008.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "009": {
+      "name": "monkey.record_009.name",
+      "kind": "monkey.record_003.kind",
+      "description": "monkey.record_009.description",
+      "square": "monkey.record_003.square",
+      "circle": "monkey.record_003.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "010": {
+      "name": "monkey.record_010.name",
+      "kind": "monkey.record_007.kind",
+      "description": "monkey.record_010.description",
+      "square": "monkey.record_006.square",
+      "circle": "monkey.record_005.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "011": {
+      "name": "monkey.record_011.name",
+      "kind": "monkey.record_011.kind",
+      "description": "monkey.record_011.description",
+      "square": "monkey.record_011.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "012": {
+      "name": "monkey.record_012.name",
+      "kind": "monkey.record_011.kind",
+      "description": "monkey.record_012.description",
+      "square": "monkey.record_011.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "013": {
+      "name": "monkey.record_013.name",
+      "kind": "monkey.record_013.kind",
+      "description": "monkey.record_013.description",
+      "square": "monkey.record_013.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "014": {
+      "name": "monkey.record_014.name",
+      "kind": "monkey.record_014.kind",
+      "description": "monkey.record_014.description",
+      "square": "monkey.record_014.square",
+      "circle": "monkey.record_014.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "015": {
+      "name": "monkey.record_015.name",
+      "kind": "monkey.record_003.kind",
+      "description": "monkey.record_015.description",
+      "square": "monkey.record_003.square",
+      "circle": "monkey.record_003.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "016": {
+      "name": "monkey.record_016.name",
+      "kind": "monkey.record_016.kind",
+      "description": "monkey.record_016.description",
+      "square": "monkey.record_016.square",
+      "circle": "monkey.record_005.circle",
+      "cross": "monkey.record_016.cross"
+    },
+    "017": {
+      "name": "monkey.record_017.name",
+      "kind": "monkey.record_016.kind",
+      "description": "monkey.record_017.description",
+      "square": "monkey.record_016.square",
+      "circle": "monkey.record_005.circle",
+      "cross": "monkey.record_016.cross"
+    },
+    "018": {
+      "name": "monkey.record_018.name",
+      "kind": "monkey.record_018.kind",
+      "description": "monkey.record_018.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_018.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "019": {
+      "name": "monkey.record_019.name",
+      "kind": "monkey.record_018.kind",
+      "description": "monkey.record_019.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_018.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "020": {
+      "name": "monkey.record_020.name",
+      "kind": "monkey.record_020.kind",
+      "description": "monkey.record_020.description",
+      "square": "monkey.record_020.square",
+      "circle": "monkey.record_020.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "021": {
+      "name": "monkey.record_021.name",
+      "kind": "monkey.record_020.kind",
+      "description": "monkey.record_021.description",
+      "square": "monkey.record_020.square",
+      "circle": "monkey.record_020.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "022": {
+      "name": "monkey.record_022.name",
+      "kind": "monkey.record_022.kind",
+      "description": "monkey.record_022.description",
+      "square": "monkey.record_001.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "023": {
+      "name": "monkey.record_023.name",
+      "kind": "monkey.record_023.kind",
+      "description": "monkey.record_023.description",
+      "square": "monkey.record_003.square",
+      "circle": "monkey.record_003.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "024": {
+      "name": "monkey.record_024.name",
+      "kind": "monkey.record_024.kind",
+      "description": "monkey.record_024.description",
+      "square": "monkey.record_024.square",
+      "circle": "monkey.record_024.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "025": {
+      "name": "monkey.record_025.name",
+      "kind": "monkey.record_025.kind",
+      "description": "monkey.record_025.description",
+      "square": "monkey.record_025.square",
+      "circle": "monkey.record_025.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "026": {
+      "name": "monkey.record_026.name",
+      "kind": "monkey.record_008.kind",
+      "description": "monkey.record_026.description",
+      "square": "monkey.record_008.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "027": {
+      "name": "monkey.record_027.name",
+      "kind": "monkey.record_027.kind",
+      "description": "monkey.record_027.description",
+      "square": "monkey.record_005.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "028": {
+      "name": "monkey.record_028.name",
+      "kind": "monkey.record_028.kind",
+      "description": "monkey.record_028.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_028.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "029": {
+      "name": "monkey.record_029.name",
+      "kind": "monkey.record_029.kind",
+      "description": "monkey.record_029.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_029.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "030": {
+      "name": "monkey.record_030.name",
+      "kind": "monkey.record_028.kind",
+      "description": "monkey.record_030.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_028.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "031": {
+      "name": "monkey.record_031.name",
+      "kind": "monkey.record_029.kind",
+      "description": "monkey.record_031.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_029.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "032": {
+      "name": "monkey.record_032.name",
+      "kind": "monkey.record_032.kind",
+      "description": "monkey.record_032.description",
+      "square": "monkey.record_032.square",
+      "circle": "monkey.record_032.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "033": {
+      "name": "monkey.record_033.name",
+      "kind": "monkey.record_033.kind",
+      "description": "monkey.record_033.description",
+      "square": "monkey.record_033.square",
+      "circle": "monkey.record_033.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "034": {
+      "name": "monkey.record_034.name",
+      "kind": "monkey.record_034.kind",
+      "description": "monkey.record_034.description",
+      "square": "monkey.record_020.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "035": {
+      "name": "monkey.record_035.name",
+      "kind": "monkey.record_035.kind",
+      "description": "monkey.record_035.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_035.circle",
+      "cross": "monkey.record_035.cross"
+    },
+    "036": {
+      "name": "monkey.record_036.name",
+      "kind": "monkey.record_036.kind",
+      "description": "monkey.record_036.description",
+      "square": "monkey.record_036.square",
+      "circle": "monkey.record_036.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "037": {
+      "name": "monkey.record_037.name",
+      "kind": "monkey.record_037.kind",
+      "description": "monkey.record_037.description",
+      "square": "monkey.record_004.square",
+      "circle": "monkey.record_004.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "038": {
+      "name": "monkey.record_038.name",
+      "kind": "monkey.record_038.kind",
+      "description": "monkey.record_038.description",
+      "square": "monkey.record_038.square",
+      "circle": "monkey.record_038.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "039": {
+      "name": "monkey.record_039.name",
+      "kind": "monkey.record_035.kind",
+      "description": "monkey.record_039.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_035.circle",
+      "cross": "monkey.record_035.cross"
+    },
+    "040": {
+      "name": "monkey.record_040.name",
+      "kind": "monkey.record_033.kind",
+      "description": "monkey.record_040.description",
+      "square": "monkey.record_033.square",
+      "circle": "monkey.record_033.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "041": {
+      "name": "monkey.record_041.name",
+      "kind": "monkey.record_032.kind",
+      "description": "monkey.record_041.description",
+      "square": "monkey.record_032.square",
+      "circle": "monkey.record_032.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "042": {
+      "name": "monkey.record_042.name",
+      "kind": "monkey.record_038.kind",
+      "description": "monkey.record_042.description",
+      "square": "monkey.record_038.square",
+      "circle": "monkey.record_038.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "043": {
+      "name": "monkey.record_043.name",
+      "kind": "monkey.record_043.kind",
+      "description": "monkey.record_043.description",
+      "square": "monkey.record_004.square",
+      "circle": "monkey.record_004.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "044": {
+      "name": "monkey.record_044.name",
+      "kind": "monkey.record_013.kind",
+      "description": "monkey.record_044.description",
+      "square": "monkey.record_013.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "045": {
+      "name": "monkey.record_045.name",
+      "kind": "monkey.record_045.kind",
+      "description": "monkey.record_045.description",
+      "square": "monkey.record_014.square",
+      "circle": "monkey.record_014.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "046": {
+      "name": "monkey.record_046.name",
+      "kind": "monkey.record_046.kind",
+      "description": "monkey.record_046.description",
+      "square": "monkey.record_046.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "047": {
+      "name": "monkey.record_047.name",
+      "kind": "monkey.record_038.kind",
+      "description": "monkey.record_047.description",
+      "square": "monkey.record_038.square",
+      "circle": "monkey.record_038.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "048": {
+      "name": "monkey.record_048.name",
+      "kind": "monkey.record_046.kind",
+      "description": "monkey.record_048.description",
+      "square": "monkey.record_046.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "049": {
+      "name": "monkey.record_049.name",
+      "kind": "monkey.record_049.kind",
+      "description": "monkey.record_049.description",
+      "square": "monkey.record_049.square",
+      "circle": "monkey.record_049.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "050": {
+      "name": "monkey.record_050.name",
+      "kind": "monkey.record_050.kind",
+      "description": "monkey.record_050.description",
+      "square": "monkey.record_050.square",
+      "circle": "monkey.record_050.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "051": {
+      "name": "monkey.record_051.name",
+      "kind": "monkey.record_051.kind",
+      "description": "monkey.record_051.description",
+      "square": "monkey.record_051.square",
+      "circle": "monkey.record_051.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "052": {
+      "name": "monkey.record_052.name",
+      "kind": "monkey.record_052.kind",
+      "description": "monkey.record_052.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_052.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "053": {
+      "name": "monkey.record_053.name",
+      "kind": "monkey.record_008.kind",
+      "description": "monkey.record_053.description",
+      "square": "monkey.record_008.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "054": {
+      "name": "monkey.record_054.name",
+      "kind": "monkey.record_052.kind",
+      "description": "monkey.record_054.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_052.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "055": {
+      "name": "monkey.record_055.name",
+      "kind": "monkey.record_055.kind",
+      "description": "monkey.record_055.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_055.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "056": {
+      "name": "monkey.record_056.name",
+      "kind": "monkey.record_011.kind",
+      "description": "monkey.record_056.description",
+      "square": "monkey.record_011.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "057": {
+      "name": "monkey.record_057.name",
+      "kind": "monkey.record_057.kind",
+      "description": "monkey.record_057.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_057.cross"
+    },
+    "058": {
+      "name": "monkey.record_058.name",
+      "kind": "monkey.record_058.kind",
+      "description": "monkey.record_058.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_055.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "059": {
+      "name": "monkey.record_059.name",
+      "kind": "monkey.record_008.kind",
+      "description": "monkey.record_059.description",
+      "square": "monkey.record_008.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "060": {
+      "name": "monkey.record_060.name",
+      "kind": "monkey.record_060.kind",
+      "description": "monkey.record_060.description",
+      "square": "monkey.record_060.square",
+      "circle": "monkey.record_060.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "061": {
+      "name": "monkey.record_061.name",
+      "kind": "monkey.record_061.kind",
+      "description": "monkey.record_061.description",
+      "square": "monkey.record_061.square",
+      "circle": "monkey.record_061.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "062": {
+      "name": "monkey.record_062.name",
+      "kind": "monkey.record_062.kind",
+      "description": "monkey.record_062.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_062.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "063": {
+      "name": "monkey.record_063.name",
+      "kind": "monkey.record_028.kind",
+      "description": "monkey.record_063.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_028.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "064": {
+      "name": "monkey.record_064.name",
+      "kind": "monkey.record_057.kind",
+      "description": "monkey.record_064.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_057.cross"
+    },
+    "065": {
+      "name": "monkey.record_065.name",
+      "kind": "monkey.record_025.kind",
+      "description": "monkey.record_065.description",
+      "square": "monkey.record_025.square",
+      "circle": "monkey.record_025.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "066": {
+      "name": "monkey.record_066.name",
+      "kind": "monkey.record_057.kind",
+      "description": "monkey.record_066.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_057.cross"
+    },
+    "067": {
+      "name": "monkey.record_067.name",
+      "kind": "monkey.record_002.kind",
+      "description": "monkey.record_067.description",
+      "square": "monkey.record_001.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "068": {
+      "name": "monkey.record_068.name",
+      "kind": "monkey.record_008.kind",
+      "description": "monkey.record_068.description",
+      "square": "monkey.record_008.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "069": {
+      "name": "monkey.record_069.name",
+      "kind": "monkey.record_069.kind",
+      "description": "monkey.record_069.description",
+      "square": "monkey.record_013.square",
+      "circle": "monkey.record_050.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "070": {
+      "name": "monkey.record_070.name",
+      "kind": "monkey.record_070.kind",
+      "description": "monkey.record_070.description",
+      "square": "monkey.record_020.square",
+      "circle": "monkey.record_070.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "071": {
+      "name": "monkey.record_071.name",
+      "kind": "monkey.record_071.kind",
+      "description": "monkey.record_071.description",
+      "square": "monkey.record_071.square",
+      "circle": "monkey.record_071.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "072": {
+      "name": "monkey.record_072.name",
+      "kind": "monkey.record_005.kind",
+      "description": "monkey.record_072.description",
+      "square": "monkey.record_005.square",
+      "circle": "monkey.record_005.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "073": {
+      "name": "monkey.record_073.name",
+      "kind": "monkey.record_020.kind",
+      "description": "monkey.record_073.description",
+      "square": "monkey.record_020.square",
+      "circle": "monkey.record_020.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "074": {
+      "name": "monkey.record_074.name",
+      "kind": "monkey.record_074.kind",
+      "description": "monkey.record_074.description",
+      "square": "monkey.record_074.square",
+      "circle": "monkey.record_074.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "075": {
+      "name": "monkey.record_075.name",
+      "kind": "monkey.record_075.kind",
+      "description": "monkey.record_075.description",
+      "square": "monkey.record_075.square",
+      "circle": "monkey.record_032.circle",
+      "cross": "monkey.record_016.cross"
+    },
+    "076": {
+      "name": "monkey.record_076.name",
+      "kind": "monkey.record_049.kind",
+      "description": "monkey.record_076.description",
+      "square": "monkey.record_049.square",
+      "circle": "monkey.record_049.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "077": {
+      "name": "monkey.record_077.name",
+      "kind": "monkey.record_077.kind",
+      "description": "monkey.record_077.description",
+      "square": "monkey.record_004.square",
+      "circle": "monkey.record_004.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "078": {
+      "name": "monkey.record_078.name",
+      "kind": "monkey.record_078.kind",
+      "description": "monkey.record_078.description",
+      "square": "monkey.record_001.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "079": {
+      "name": "monkey.record_079.name",
+      "kind": "monkey.record_079.kind",
+      "description": "monkey.record_079.description",
+      "square": "monkey.record_006.square",
+      "circle": "monkey.record_005.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "080": {
+      "name": "monkey.record_080.name",
+      "kind": "monkey.record_025.kind",
+      "description": "monkey.record_080.description",
+      "square": "monkey.record_025.square",
+      "circle": "monkey.record_025.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "081": {
+      "name": "monkey.record_081.name",
+      "kind": "monkey.record_049.kind",
+      "description": "monkey.record_081.description",
+      "square": "monkey.record_049.square",
+      "circle": "monkey.record_049.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "082": {
+      "name": "monkey.record_082.name",
+      "kind": "monkey.record_051.kind",
+      "description": "monkey.record_082.description",
+      "square": "monkey.record_051.square",
+      "circle": "monkey.record_051.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "083": {
+      "name": "monkey.record_083.name",
+      "kind": "monkey.record_013.kind",
+      "description": "monkey.record_083.description",
+      "square": "monkey.record_013.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "084": {
+      "name": "monkey.record_084.name",
+      "kind": "monkey.record_062.kind",
+      "description": "monkey.record_084.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_062.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "085": {
+      "name": "monkey.record_085.name",
+      "kind": "monkey.record_057.kind",
+      "description": "monkey.record_085.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_085.cross"
+    },
+    "086": {
+      "name": "monkey.record_086.name",
+      "kind": "monkey.record_086.kind",
+      "description": "monkey.record_086.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_086.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "087": {
+      "name": "monkey.record_087.name",
+      "kind": "monkey.record_016.kind",
+      "description": "monkey.record_087.description",
+      "square": "monkey.record_016.square",
+      "circle": "monkey.record_005.circle",
+      "cross": "monkey.record_016.cross"
+    },
+    "088": {
+      "name": "monkey.record_088.name",
+      "kind": "monkey.record_005.kind",
+      "description": "monkey.record_088.description",
+      "square": "monkey.record_005.square",
+      "circle": "monkey.record_005.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "089": {
+      "name": "monkey.record_089.name",
+      "kind": "monkey.record_035.kind",
+      "description": "monkey.record_089.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_035.circle",
+      "cross": "monkey.record_035.cross"
+    },
+    "090": {
+      "name": "monkey.record_090.name",
+      "kind": "monkey.record_013.kind",
+      "description": "monkey.record_090.description",
+      "square": "monkey.record_013.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "091": {
+      "name": "monkey.record_091.name",
+      "kind": "monkey.record_016.kind",
+      "description": "monkey.record_091.description",
+      "square": "monkey.record_016.square",
+      "circle": "monkey.record_005.circle",
+      "cross": "monkey.record_016.cross"
+    },
+    "092": {
+      "name": "monkey.record_092.name",
+      "kind": "monkey.record_013.kind",
+      "description": "monkey.record_092.description",
+      "square": "monkey.record_013.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "093": {
+      "name": "monkey.record_093.name",
+      "kind": "monkey.record_060.kind",
+      "description": "monkey.record_093.description",
+      "square": "monkey.record_060.square",
+      "circle": "monkey.record_060.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "094": {
+      "name": "monkey.record_094.name",
+      "kind": "monkey.record_029.kind",
+      "description": "monkey.record_094.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_029.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "095": {
+      "name": "monkey.record_095.name",
+      "kind": "monkey.record_095.kind",
+      "description": "monkey.record_095.description",
+      "square": "monkey.record_020.square",
+      "circle": "monkey.record_003.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "096": {
+      "name": "monkey.record_096.name",
+      "kind": "monkey.record_096.kind",
+      "description": "monkey.record_096.description",
+      "square": "monkey.record_046.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "097": {
+      "name": "monkey.record_097.name",
+      "kind": "monkey.record_097.kind",
+      "description": "monkey.record_097.description",
+      "square": "monkey.record_008.square",
+      "circle": "monkey.record_032.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "098": {
+      "name": "monkey.record_098.name",
+      "kind": "monkey.record_098.kind",
+      "description": "monkey.record_098.description",
+      "square": "monkey.record_011.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "099": {
+      "name": "monkey.record_099.name",
+      "kind": "monkey.record_096.kind",
+      "description": "monkey.record_099.description",
+      "square": "monkey.record_046.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "100": {
+      "name": "monkey.record_100.name",
+      "kind": "monkey.record_058.kind",
+      "description": "monkey.record_100.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_055.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "101": {
+      "name": "monkey.record_101.name",
+      "kind": "monkey.record_101.kind",
+      "description": "monkey.record_101.description",
+      "square": "monkey.record_038.square",
+      "circle": "monkey.record_038.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "102": {
+      "name": "monkey.record_102.name",
+      "kind": "monkey.record_102.kind",
+      "description": "monkey.record_102.description",
+      "square": "monkey.record_102.square",
+      "circle": "monkey.record_102.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "103": {
+      "name": "monkey.record_103.name",
+      "kind": "monkey.record_103.kind",
+      "description": "monkey.record_103.description",
+      "square": "monkey.record_036.square",
+      "circle": "monkey.record_036.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "104": {
+      "name": "monkey.record_104.name",
+      "kind": "monkey.record_038.kind",
+      "description": "monkey.record_104.description",
+      "square": "monkey.record_038.square",
+      "circle": "monkey.record_038.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "105": {
+      "name": "monkey.record_105.name",
+      "kind": "monkey.record_103.kind",
+      "description": "monkey.record_105.description",
+      "square": "monkey.record_036.square",
+      "circle": "monkey.record_036.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "106": {
+      "name": "monkey.record_106.name",
+      "kind": "monkey.record_106.kind",
+      "description": "monkey.record_106.description",
+      "square": "monkey.record_006.square",
+      "circle": "monkey.record_005.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "107": {
+      "name": "monkey.record_107.name",
+      "kind": "monkey.record_033.kind",
+      "description": "monkey.record_107.description",
+      "square": "monkey.record_033.square",
+      "circle": "monkey.record_033.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "108": {
+      "name": "monkey.record_108.name",
+      "kind": "monkey.record_108.kind",
+      "description": "monkey.record_108.description",
+      "square": "monkey.record_075.square",
+      "circle": "monkey.record_108.circle",
+      "cross": "monkey.record_016.cross"
+    },
+    "109": {
+      "name": "monkey.record_109.name",
+      "kind": "monkey.record_109.kind",
+      "description": "monkey.record_109.description",
+      "square": "monkey.record_109.square",
+      "circle": "monkey.record_109.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "110": {
+      "name": "monkey.record_110.name",
+      "kind": "monkey.record_013.kind",
+      "description": "monkey.record_110.description",
+      "square": "monkey.record_013.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "111": {
+      "name": "monkey.record_111.name",
+      "kind": "monkey.record_111.kind",
+      "description": "monkey.record_111.description",
+      "square": "monkey.record_003.square",
+      "circle": "monkey.record_003.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "112": {
+      "name": "monkey.record_112.name",
+      "kind": "monkey.record_011.kind",
+      "description": "monkey.record_112.description",
+      "square": "monkey.record_011.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "113": {
+      "name": "monkey.record_113.name",
+      "kind": "monkey.record_016.kind",
+      "description": "monkey.record_113.description",
+      "square": "monkey.record_016.square",
+      "circle": "monkey.record_005.circle",
+      "cross": "monkey.record_016.cross"
+    },
+    "114": {
+      "name": "monkey.record_114.name",
+      "kind": "monkey.record_086.kind",
+      "description": "monkey.record_114.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_086.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "115": {
+      "name": "monkey.record_115.name",
+      "kind": "monkey.record_115.kind",
+      "description": "monkey.record_115.description",
+      "square": "monkey.record_004.square",
+      "circle": "monkey.record_004.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "116": {
+      "name": "monkey.record_116.name",
+      "kind": "monkey.record_058.kind",
+      "description": "monkey.record_116.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_055.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "117": {
+      "name": "monkey.record_117.name",
+      "kind": "monkey.record_086.kind",
+      "description": "monkey.record_117.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_086.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "118": {
+      "name": "monkey.record_118.name",
+      "kind": "monkey.record_006.kind",
+      "description": "monkey.record_118.description",
+      "square": "monkey.record_006.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "119": {
+      "name": "monkey.record_119.name",
+      "kind": "monkey.record_119.kind",
+      "description": "monkey.record_119.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_029.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "120": {
+      "name": "monkey.record_120.name",
+      "kind": "monkey.record_120.kind",
+      "description": "monkey.record_120.description",
+      "square": "monkey.record_020.square",
+      "circle": "monkey.record_120.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "121": {
+      "name": "monkey.record_121.name",
+      "kind": "monkey.record_028.kind",
+      "description": "monkey.record_121.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_028.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "122": {
+      "name": "monkey.record_122.name",
+      "kind": "monkey.record_122.kind",
+      "description": "monkey.record_122.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_122.circle",
+      "cross": "monkey.record_122.cross"
+    },
+    "123": {
+      "name": "monkey.record_123.name",
+      "kind": "monkey.record_120.kind",
+      "description": "monkey.record_123.description",
+      "square": "monkey.record_020.square",
+      "circle": "monkey.record_120.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "124": {
+      "name": "monkey.record_124.name",
+      "kind": "monkey.record_124.kind",
+      "description": "monkey.record_124.description",
+      "square": "monkey.record_124.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "125": {
+      "name": "monkey.record_125.name",
+      "kind": "monkey.record_119.kind",
+      "description": "monkey.record_125.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_029.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "126": {
+      "name": "monkey.record_126.name",
+      "kind": "monkey.record_057.kind",
+      "description": "monkey.record_126.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_057.cross"
+    },
+    "127": {
+      "name": "monkey.record_127.name",
+      "kind": "monkey.record_058.kind",
+      "description": "monkey.record_127.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_055.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "128": {
+      "name": "monkey.record_128.name",
+      "kind": "monkey.record_119.kind",
+      "description": "monkey.record_128.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_029.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "129": {
+      "name": "monkey.record_129.name",
+      "kind": "monkey.record_129.kind",
+      "description": "monkey.record_129.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_129.circle",
+      "cross": "monkey.record_035.cross"
+    },
+    "130": {
+      "name": "monkey.record_130.name",
+      "kind": "monkey.record_124.kind",
+      "description": "monkey.record_130.description",
+      "square": "monkey.record_124.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "131": {
+      "name": "monkey.record_131.name",
+      "kind": "monkey.record_062.kind",
+      "description": "monkey.record_131.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_062.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "132": {
+      "name": "monkey.record_132.name",
+      "kind": "monkey.record_129.kind",
+      "description": "monkey.record_132.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_129.circle",
+      "cross": "monkey.record_035.cross"
+    },
+    "133": {
+      "name": "monkey.record_133.name",
+      "kind": "monkey.record_069.kind",
+      "description": "monkey.record_133.description",
+      "square": "monkey.record_013.square",
+      "circle": "monkey.record_050.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "134": {
+      "name": "monkey.record_134.name",
+      "kind": "monkey.record_134.kind",
+      "description": "monkey.record_134.description",
+      "square": "monkey.record_008.square",
+      "circle": "monkey.record_134.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "135": {
+      "name": "monkey.record_135.name",
+      "kind": "monkey.record_135.kind",
+      "description": "monkey.record_135.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_135.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "136": {
+      "name": "monkey.record_136.name",
+      "kind": "monkey.record_136.kind",
+      "description": "monkey.record_136.description",
+      "square": "monkey.record_136.square",
+      "circle": "monkey.record_003.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "137": {
+      "name": "monkey.record_137.name",
+      "kind": "monkey.record_057.kind",
+      "description": "monkey.record_137.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_057.cross"
+    },
+    "138": {
+      "name": "monkey.record_138.name",
+      "kind": "monkey.record_138.kind",
+      "description": "monkey.record_138.description",
+      "square": "monkey.record_038.square",
+      "circle": "monkey.record_038.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "139": {
+      "name": "monkey.record_139.name",
+      "kind": "monkey.record_120.kind",
+      "description": "monkey.record_139.description",
+      "square": "monkey.record_020.square",
+      "circle": "monkey.record_120.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "140": {
+      "name": "monkey.record_140.name",
+      "kind": "monkey.record_140.kind",
+      "description": "monkey.record_140.description",
+      "square": "monkey.record_140.square",
+      "circle": "monkey.record_122.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "141": {
+      "name": "monkey.record_141.name",
+      "kind": "monkey.record_057.kind",
+      "description": "monkey.record_141.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_057.cross"
+    },
+    "142": {
+      "name": "monkey.record_142.name",
+      "kind": "monkey.record_124.kind",
+      "description": "monkey.record_142.description",
+      "square": "monkey.record_124.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "143": {
+      "name": "monkey.record_143.name",
+      "kind": "monkey.record_062.kind",
+      "description": "monkey.record_143.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_062.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "144": {
+      "name": "monkey.record_144.name",
+      "kind": "monkey.record_144.kind",
+      "description": "monkey.record_144.description",
+      "square": "monkey.record_033.square",
+      "circle": "monkey.record_122.circle",
+      "cross": "monkey.record_122.cross"
+    },
+    "145": {
+      "name": "monkey.record_145.name",
+      "kind": "monkey.record_140.kind",
+      "description": "monkey.record_145.description",
+      "square": "monkey.record_140.square",
+      "circle": "monkey.record_122.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "146": {
+      "name": "monkey.record_146.name",
+      "kind": "monkey.record_057.kind",
+      "description": "monkey.record_146.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_057.cross"
+    },
+    "147": {
+      "name": "monkey.record_147.name",
+      "kind": "monkey.record_147.kind",
+      "description": "monkey.record_147.description",
+      "square": "monkey.record_147.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "148": {
+      "name": "monkey.record_148.name",
+      "kind": "monkey.record_140.kind",
+      "description": "monkey.record_148.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_062.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "149": {
+      "name": "monkey.record_149.name",
+      "kind": "monkey.record_057.kind",
+      "description": "monkey.record_149.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_085.cross"
+    },
+    "150": {
+      "name": "monkey.record_150.name",
+      "kind": "monkey.record_122.kind",
+      "description": "monkey.record_150.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_122.circle",
+      "cross": "monkey.record_122.cross"
+    },
+    "151": {
+      "name": "monkey.record_151.name",
+      "kind": "monkey.record_120.kind",
+      "description": "monkey.record_151.description",
+      "square": "monkey.record_020.square",
+      "circle": "monkey.record_120.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "152": {
+      "name": "monkey.record_152.name",
+      "kind": "monkey.record_129.kind",
+      "description": "monkey.record_152.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_129.circle",
+      "cross": "monkey.record_035.cross"
+    },
+    "153": {
+      "name": "monkey.record_153.name",
+      "kind": "monkey.record_140.kind",
+      "description": "monkey.record_153.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_062.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "154": {
+      "name": "monkey.record_154.name",
+      "kind": "monkey.record_120.kind",
+      "description": "monkey.record_154.description",
+      "square": "monkey.record_020.square",
+      "circle": "monkey.record_120.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "155": {
+      "name": "monkey.record_155.name",
+      "kind": "monkey.record_138.kind",
+      "description": "monkey.record_155.description",
+      "square": "monkey.record_038.square",
+      "circle": "monkey.record_038.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "156": {
+      "name": "monkey.record_156.name",
+      "kind": "monkey.record_136.kind",
+      "description": "monkey.record_156.description",
+      "square": "monkey.record_136.square",
+      "circle": "monkey.record_003.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "157": {
+      "name": "monkey.record_157.name",
+      "kind": "monkey.record_140.kind",
+      "description": "monkey.record_157.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_062.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "158": {
+      "name": "monkey.record_158.name",
+      "kind": "monkey.record_140.kind",
+      "description": "monkey.record_158.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_062.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "159": {
+      "name": "monkey.record_159.name",
+      "kind": "monkey.record_057.kind",
+      "description": "monkey.record_159.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_057.cross"
+    },
+    "160": {
+      "name": "monkey.record_160.name",
+      "kind": "monkey.record_057.kind",
+      "description": "monkey.record_160.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_057.cross"
+    },
+    "161": {
+      "name": "monkey.record_161.name",
+      "kind": "monkey.record_144.kind",
+      "description": "monkey.record_161.description",
+      "square": "monkey.record_033.square",
+      "circle": "monkey.record_122.circle",
+      "cross": "monkey.record_122.cross"
+    },
+    "162": {
+      "name": "monkey.record_162.name",
+      "kind": "monkey.record_144.kind",
+      "description": "monkey.record_162.description",
+      "square": "monkey.record_033.square",
+      "circle": "monkey.record_122.circle",
+      "cross": "monkey.record_122.cross"
+    },
+    "163": {
+      "name": "monkey.record_163.name",
+      "kind": "monkey.record_029.kind",
+      "description": "monkey.record_163.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_029.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "164": {
+      "name": "monkey.record_164.name",
+      "kind": "monkey.record_164.kind",
+      "description": "monkey.record_164.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_071.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "165": {
+      "name": "monkey.record_165.name",
+      "kind": "monkey.record_098.kind",
+      "description": "monkey.record_165.description",
+      "square": "monkey.record_011.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "166": {
+      "name": "monkey.record_166.name",
+      "kind": "monkey.record_122.kind",
+      "description": "monkey.record_166.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_122.circle",
+      "cross": "monkey.record_122.cross"
+    },
+    "167": {
+      "name": "monkey.record_167.name",
+      "kind": "monkey.record_049.kind",
+      "description": "monkey.record_167.description",
+      "square": "monkey.record_049.square",
+      "circle": "monkey.record_049.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "168": {
+      "name": "monkey.record_168.name",
+      "kind": "monkey.record_168.kind",
+      "description": "monkey.record_168.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_086.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "169": {
+      "name": "monkey.record_169.name",
+      "kind": "monkey.record_070.kind",
+      "description": "monkey.record_169.description",
+      "square": "monkey.record_020.square",
+      "circle": "monkey.record_070.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "170": {
+      "name": "monkey.record_170.name",
+      "kind": "monkey.record_028.kind",
+      "description": "monkey.record_170.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_028.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "171": {
+      "name": "monkey.record_171.name",
+      "kind": "monkey.record_058.kind",
+      "description": "monkey.record_171.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_055.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "172": {
+      "name": "monkey.record_172.name",
+      "kind": "monkey.record_172.kind",
+      "description": "monkey.record_172.description",
+      "square": "monkey.record_004.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "173": {
+      "name": "monkey.record_173.name",
+      "kind": "monkey.record_016.kind",
+      "description": "monkey.record_173.description",
+      "square": "monkey.record_016.square",
+      "circle": "monkey.record_005.circle",
+      "cross": "monkey.record_016.cross"
+    },
+    "174": {
+      "name": "monkey.record_174.name",
+      "kind": "monkey.record_174.kind",
+      "description": "monkey.record_174.description",
+      "square": "monkey.record_174.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "175": {
+      "name": "monkey.record_175.name",
+      "kind": "monkey.record_175.kind",
+      "description": "monkey.record_175.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_005.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "176": {
+      "name": "monkey.record_176.name",
+      "kind": "monkey.record_168.kind",
+      "description": "monkey.record_176.description",
+      "square": "monkey.record_008.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "177": {
+      "name": "monkey.record_177.name",
+      "kind": "monkey.record_177.kind",
+      "description": "monkey.record_177.description",
+      "square": "monkey.record_011.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "178": {
+      "name": "monkey.record_178.name",
+      "kind": "monkey.record_086.kind",
+      "description": "monkey.record_178.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_086.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "179": {
+      "name": "monkey.record_179.name",
+      "kind": "monkey.record_179.kind",
+      "description": "monkey.record_179.description",
+      "square": "monkey.record_074.square",
+      "circle": "monkey.record_179.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "180": {
+      "name": "monkey.record_180.name",
+      "kind": "monkey.record_075.kind",
+      "description": "monkey.record_180.description",
+      "square": "monkey.record_075.square",
+      "circle": "monkey.record_032.circle",
+      "cross": "monkey.record_016.cross"
+    },
+    "181": {
+      "name": "monkey.record_181.name",
+      "kind": "monkey.record_147.kind",
+      "description": "monkey.record_181.description",
+      "square": "monkey.record_147.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "182": {
+      "name": "monkey.record_182.name",
+      "kind": "monkey.record_168.kind",
+      "description": "monkey.record_182.description",
+      "square": "monkey.record_003.square",
+      "circle": "monkey.record_003.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "183": {
+      "name": "monkey.record_183.name",
+      "kind": "monkey.record_174.kind",
+      "description": "monkey.record_183.description",
+      "square": "monkey.record_183.square",
+      "circle": "monkey.record_183.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "184": {
+      "name": "monkey.record_184.name",
+      "kind": "monkey.record_122.kind",
+      "description": "monkey.record_184.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_122.circle",
+      "cross": "monkey.record_122.cross"
+    },
+    "185": {
+      "name": "monkey.record_185.name",
+      "kind": "monkey.record_174.kind",
+      "description": "monkey.record_185.description",
+      "square": "monkey.record_008.square",
+      "circle": "monkey.record_183.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "186": {
+      "name": "monkey.record_186.name",
+      "kind": "monkey.record_186.kind",
+      "description": "monkey.record_186.description",
+      "square": "monkey.record_109.square",
+      "circle": "monkey.record_071.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "187": {
+      "name": "monkey.record_187.name",
+      "kind": "monkey.record_007.kind",
+      "description": "monkey.record_187.description",
+      "square": "monkey.record_006.square",
+      "circle": "monkey.record_005.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "188": {
+      "name": "monkey.record_188.name",
+      "kind": "monkey.record_174.kind",
+      "description": "monkey.record_188.description",
+      "square": "monkey.record_188.square",
+      "circle": "monkey.record_183.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "189": {
+      "name": "monkey.record_189.name",
+      "kind": "monkey.record_046.kind",
+      "description": "monkey.record_189.description",
+      "square": "monkey.record_046.square",
+      "circle": "monkey.record_001.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "190": {
+      "name": "monkey.record_190.name",
+      "kind": "monkey.record_174.kind",
+      "description": "monkey.record_190.description",
+      "square": "monkey.record_190.square",
+      "circle": "monkey.record_183.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "191": {
+      "name": "monkey.record_191.name",
+      "kind": "monkey.record_191.kind",
+      "description": "monkey.record_191.description",
+      "square": "monkey.record_075.square",
+      "circle": "monkey.record_109.circle",
+      "cross": "monkey.record_016.cross"
+    },
+    "192": {
+      "name": "monkey.record_192.name",
+      "kind": "monkey.record_168.kind",
+      "description": "monkey.record_192.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_062.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "193": {
+      "name": "monkey.record_193.name",
+      "kind": "monkey.record_007.kind",
+      "description": "monkey.record_193.description",
+      "square": "monkey.record_006.square",
+      "circle": "monkey.record_005.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "194": {
+      "name": "monkey.record_194.name",
+      "kind": "monkey.record_174.kind",
+      "description": "monkey.record_194.description",
+      "square": "monkey.record_194.square",
+      "circle": "monkey.record_003.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "195": {
+      "name": "monkey.record_195.name",
+      "kind": "monkey.record_101.kind",
+      "description": "monkey.record_195.description",
+      "square": "monkey.record_038.square",
+      "circle": "monkey.record_038.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "196": {
+      "name": "monkey.record_196.name",
+      "kind": "monkey.record_179.kind",
+      "description": "monkey.record_196.description",
+      "square": "monkey.record_004.square",
+      "circle": "monkey.record_055.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "197": {
+      "name": "monkey.record_197.name",
+      "kind": "monkey.record_023.kind",
+      "description": "monkey.record_197.description",
+      "square": "monkey.record_003.square",
+      "circle": "monkey.record_003.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "198": {
+      "name": "monkey.record_198.name",
+      "kind": "monkey.record_140.kind",
+      "description": "monkey.record_198.description",
+      "square": "monkey.record_018.square",
+      "circle": "monkey.record_055.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "199": {
+      "name": "monkey.record_199.name",
+      "kind": "monkey.record_199.kind",
+      "description": "monkey.record_199.description",
+      "square": "monkey.record_020.square",
+      "circle": "monkey.record_005.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "200": {
+      "name": "monkey.record_200.name",
+      "kind": "monkey.record_174.kind",
+      "description": "monkey.record_200.description",
+      "square": "monkey.record_200.square",
+      "circle": "monkey.record_183.circle",
+      "cross": "monkey.record_001.cross"
+    },
+    "201": {
+      "name": "monkey.record_201.name",
+      "kind": "monkey.record_201.kind",
+      "description": "monkey.record_201.description",
+      "square": "monkey.record_033.square",
+      "circle": "monkey.record_122.circle",
+      "cross": "monkey.record_122.cross"
+    },
+    "202": {
+      "name": "monkey.record_202.name",
+      "kind": "monkey.record_202.kind",
+      "description": "monkey.record_202.description",
+      "square": null,
+      "circle": null,
+      "cross": null
+    },
+    "203": {
+      "name": "monkey.record_203.name",
+      "kind": "monkey.record_202.kind",
+      "description": "monkey.record_203.description",
+      "square": null,
+      "circle": null,
+      "cross": null
+    },
+    "204": {
+      "name": "monkey.record_204.name",
+      "kind": "monkey.record_202.kind",
+      "description": "monkey.record_204.description",
+      "square": null,
+      "circle": null,
+      "cross": null
+    },
+    "205": {
+      "name": "monkey.record_205.name",
+      "kind": "monkey.record_202.kind",
+      "description": "monkey.record_205.description",
+      "square": null,
+      "circle": null,
+      "cross": null
+    },
+    "206": {
+      "name": "monkey.record_206.name",
+      "kind": "monkey.record_202.kind",
+      "description": "monkey.record_206.description",
+      "square": null,
+      "circle": null,
+      "cross": null
+    },
+    "207": {
+      "name": "monkey.record_207.name",
+      "kind": "monkey.record_207.kind",
+      "description": "monkey.record_207.description",
+      "square": null,
+      "circle": null,
+      "cross": null
+    }
+  }
+}
