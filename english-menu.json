@@ -465,6 +465,42 @@
       "align": "left"
     },
     {
+      "id": "options.label.0",
+      "text": "BGM",
+      "asset": "common/b_but_c0.tm2",
+      "rect": [
+        0,
+        0,
+        160,
+        16
+      ],
+      "text_rect": [
+        104,
+        0,
+        40,
+        16
+      ],
+      "font_size": 12
+    },
+    {
+      "id": "options.label.1",
+      "text": "SE",
+      "asset": "common/b_but_c0.tm2",
+      "rect": [
+        0,
+        16,
+        160,
+        16
+      ],
+      "text_rect": [
+        118,
+        0,
+        26,
+        16
+      ],
+      "font_size": 12
+    },
+    {
       "id": "options.label.2",
       "text": "Defaults",
       "asset": "common/b_but_c0.tm2",
@@ -3329,6 +3365,69 @@
       "asset": "common00/e_tan_2b.tm2",
       "rect": [0, 0, 64, 24],
       "text_rect": [0, 0, 40, 24],
+      "font_size": 11,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "collection.monkey_book.type",
+      "text": "Type",
+      "asset": "menko/e_nabi_b3.lzs",
+      "rect": [0, 0, 64, 16],
+      "font_size": 11,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "collection.monkey_book.name",
+      "text": "Name",
+      "asset": "menko/e_nabi_b3.lzs",
+      "rect": [0, 16, 64, 16],
+      "font_size": 11,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "collection.monkey_book.alert",
+      "text": "Alert",
+      "asset": "menko/e_nabi_b3.lzs",
+      "rect": [0, 32, 64, 16],
+      "font_size": 11,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "collection.monkey_book.speed",
+      "text": "Speed",
+      "asset": "menko/e_nabi_b3.lzs",
+      "rect": [0, 48, 64, 16],
+      "font_size": 11,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "collection.monkey_book.stamina",
+      "text": "Stamina",
+      "asset": "menko/e_nabi_b3.lzs",
+      "rect": [0, 64, 64, 16],
+      "font_size": 11,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "collection.monkey_book.attack",
+      "text": "Attack",
+      "asset": "menko/e_nabi_b3.lzs",
+      "rect": [0, 80, 64, 16],
+      "font_size": 11,
+      "origin": "machine_translation",
+      "review_status": "draft"
+    },
+    {
+      "id": "collection.monkey_book.defense",
+      "text": "Defense",
+      "asset": "menko/e_nabi_b3.lzs",
+      "rect": [0, 96, 64, 16],
       "font_size": 11,
       "origin": "machine_translation",
       "review_status": "draft"
