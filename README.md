@@ -18,6 +18,7 @@ from the launcher, which downloads a pack built from these catalogs.
 | --- | --- |
 | `english-menu.json` | Title, main menu, save/load and Options labels, strings and help lines; 65 in-game action/control prompts and stage, results, collection (including the Monkey Book headings), Capsule Shop, pause and Gachi King UI |
 | `english-gameplay-v1.json` | Character, enemy, stage and area names, plus 207 monkey names and their Monkey Book kinds, descriptions and actions |
+| `monkey-book-records.json` | Which kind, description and action entry each Monkey Book record shows (IDs only) |
 | `english-dialogue-v1.json` | Tutorial and story dialogue pages |
 | `subtitles/<movie>.en.srt` | Subtitles for the cutscene movies `m01`-`m16`, transcribed from their audio and machine-translated |
 
@@ -26,6 +27,29 @@ text only, and the subtitles English text and timings only; they contain no
 Japanese text, game assets or code. The subtitles are drafts too, not reviewed
 against the movies; the recompilation's `docs/movie-subtitles.md` describes
 making and checking them.
+
+## Translating the Monkey Book in a spreadsheet
+
+`scripts/monkey_sheet.py` puts the 207 monkeys' names, kinds, descriptions and
+square/circle/cross actions on one row each, and the book's stage header and
+catch counter on a second sheet, then writes your edits back:
+
+```sh
+uv run scripts/monkey_sheet.py export                  # writes monkeys.xlsx
+uv run scripts/monkey_sheet.py import monkeys.xlsx     # updates english-gameplay-v1.json
+```
+
+Kinds and actions are stored once, under the first monkey that uses them, so a
+monkey sharing one shows it greyed out as a formula: edit it in the row it
+points at (the owning cell's comment lists the monkeys that share it).
+`monkey-book-records.json` records which entry each monkey shows. Changed text
+is marked `human_translation`; set a row's Status to `reviewed` once checked.
+English must be printable ASCII. Nothing is written if any row has a problem.
+
+`export --iso '/path/to/game.iso'` refreshes `monkey-book-records.json` from the
+disc and adds the original Japanese beside each column. Keep that sheet to
+yourself: `*.xlsx` is git-ignored. Without `uv`, install `openpyxl` and run the
+script with `python3`.
 
 ## Building the pack
 
